@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TrailerSet>
+    <Trailer id="@id/trailer_show_teach_catclaw">
+        <SetVisible viewid="@id/id_cat_claw" v="true" t="0" />
+        <Color t="0" d="0" viewid="@id/id_cat_claw" sa="0.0" ea="1.0" />
+        <ChangeAction t="0" viewid="@id/id_cat_claw" action="@id/cat_claw1" />
+        <Movement startt="0" d="0" viewid="@id/id_cat_claw" type="0" endy="270.0" />
+        <Movement startt="0" d="500" viewid="@id/id_cat_claw" type="0" endy="270.0" />
+        <ChangeAction t="500" viewid="@id/id_cat_claw" action="@id/cat_claw" />
+        <Color t="1300" d="1000" viewid="@id/id_cat_claw" sa="1.0" ea="0.0" />
+        <Movement startt="1300" d="2000" viewid="@id/id_cat_claw" type="0" endy="270.0" />
+    </Trailer>
+    <Trailer id="@id/trailer_show_st_catcry">
+        <Sound t="200" sound="showbottommouse" volume="1.0" />
+        <Movement startt="0" d="200" viewid="@id/id_st_bottommouse" type="0" endy="308.0" />
+        <Movement startt="200" d="200" viewid="@id/id_st_bottommouse" type="0" endy="328.0" />
+        <Movement startt="400" d="200" viewid="@id/id_st_bottommouse" type="0" endy="298.0" />
+        <Movement startt="600" d="200" viewid="@id/id_st_bottommouse" type="0" endy="318.0" />
+        <Movement startt="800" d="200" viewid="@id/id_st_bottommouse" type="0" endy="308.0" />
+        <Movement startt="1800" d="200" viewid="@id/id_st_bottommouse" type="0" endy="505.0" />
+    </Trailer>
+    <Trailer id="@id/trailer_show_catcry">
+        <Sound t="200" sound="showbottommouse" volume="1.0" />
+        <Movement startt="0" d="200" viewid="@id/id_bottommouse" type="0" endy="338.0" />
+        <Movement startt="200" d="200" viewid="@id/id_bottommouse" type="0" endy="358.0" />
+        <Movement startt="400" d="200" viewid="@id/id_bottommouse" type="0" endy="328.0" />
+        <Movement startt="600" d="200" viewid="@id/id_bottommouse" type="0" endy="348.0" />
+        <Movement startt="800" d="200" viewid="@id/id_bottommouse" type="0" endy="338.0" />
+        <Movement startt="1800" d="200" viewid="@id/id_bottommouse" type="0" endy="475.0" />
+    </Trailer>
+    <Trailer id="@id/trailer_show_catlaugh">
+        <ChangeAction t="0" viewid="@id/id_cat" action="@id/catlaugh1" />
+        <Movement startt="0" d="500" viewid="@id/id_cat" type="0" endy="307.0" />
+        <ChangeAction t="500" viewid="@id/id_cat" action="@id/catlaugh" />
+        <ChangeAction t="1300" viewid="@id/id_cat" action="@id/catlaugh1" />
+        <Sound t="500" sound="catlaughs" volume="1.0" />
+        <Movement startt="1300" d="200" viewid="@id/id_cat" type="0" endy="506.0" />
+    </Trailer>
+    <Trailer id="@id/trailer_show_st_catlaugh">
+        <ChangeAction t="0" viewid="@id/id_st_cat" action="@id/stcatlaugh1" />
+        <Movement startt="0" d="500" viewid="@id/id_st_cat" type="0" endy="290.0" />
+        <ChangeAction t="500" viewid="@id/id_st_cat" action="@id/stcatlaugh" />
+        <ChangeAction t="1300" viewid="@id/id_st_cat" action="@id/stcatlaugh1" />
+        <Sound t="500" sound="catlaughs" volume="1.0" />
+        <Movement startt="1300" d="200" viewid="@id/id_st_cat" type="0" endy="520.0" />
+    </Trailer>
+    <Trailer id="@id/trailer_show_game">
+        <Color t="0" d="200" viewid="@id/id_game_all" sa="1.0" ea="0.1" />
+        <Color t="200" d="200" viewid="@id/id_game_all" sa="0.1" ea="1.0" />
+    </Trailer>
+    <Trailer id="@id/trailer_show_all_level_complete">
+        <SetVisible viewid="@id/id_all_level_complete_panel" v="true" t="0" />
+        <Color t="0" d="600" viewid="@id/id_all_level_complete_panel" sa="0.0" ea="1.0" />
+    </Trailer>
+    <Trailer id="@id/trailer_show_st_level_complete">
+        <SetVisible viewid="@id/id_st_level_complete_panel" v="true" t="0" />
+        <Color t="0" d="600" viewid="@id/id_st_level_complete_panel" sa="0.0" ea="1.0" />
+    </Trailer>
+    <Trailer id="@id/trailer_hide_st_level_complete">
+        <SetVisible viewid="@id/id_st_level_complete_panel" v="false" t="400" />
+        <Color t="0" d="600" viewid="@id/id_st_level_complete_panel" sa="1.0" ea="0.0" />
+    </Trailer>
+    <Trailer id="@id/trailer_hide_all_level_complete">
+        <SetVisible viewid="@id/id_all_level_complete_panel" v="false" t="400" />
+        <Color t="0" d="600" viewid="@id/id_all_level_complete_panel" sa="1.0" ea="0.0" />
+    </Trailer>
+    <Trailer id="@id/trailer_show_game_maskpanel">
+        <Color t="0" d="200" viewid="@id/id_game_maskpanel" sa="1.0" ea="0.0" />
+    </Trailer>
+    <Trailer id="@id/trailer_show_gamepanel">
+        <SetVisible viewid="@id/id_game_all" v="true" t="0" />
+        <Color t="0" d="500" viewid="@id/id_game_all" sa="0.0" ea="1.0" />
+    </Trailer>
+    <Trailer id="@id/trailer_show_iceshadow">
+        <SetVisible viewid="@id/id_ice_shadow" v="true" t="0" />
+        <Color t="0" d="200" viewid="@id/id_ice_shadow" sa="0.0" ea="1.0" />
+        <Color t="1500" d="500" viewid="@id/id_ice_shadow" sa="1.0" ea="0.0" />
+        <SetVisible viewid="@id/id_ice_shadow" v="false" t="2000" />
+    </Trailer>
+    <Trailer id="@id/trailer_black_flash">
+        <SetVisible viewid="@id/black_flash" v="true" t="0" />
+        <Color t="0" d="200" viewid="@id/black_flash" sa="0.4" ea="1.0" />
+        <Scale t="0" d="200" viewid="@id/black_flash" ss="0.5" es="1.0" />
+        <Color t="600" d="200" viewid="@id/black_flash" sa="1.0" ea="0.2" />
+        <Scale t="600" d="200" viewid="@id/black_flash" ss="1.0" es="0.0" />
+        <SetVisible viewid="@id/black_flash" v="false" t="800" />
+    </Trailer>
+    <Trailer id="@id/trailer_getnext_black_flash_first">
+        <Movement startt="100" d="0" viewid="@id/id_cat" type="0" endy="506.0" />
+        <SetVisible viewid="@id/black_flash" v="true" t="0" />
+        <Color t="0" d="100" viewid="@id/black_flash" sa="0.0" ea="1.0" />
+    </Trailer>
+    <Trailer id="@id/trailer_getnext_black_flash_second">
+        <Color t="100" d="100" viewid="@id/black_flash" sa="1.0" ea="0.0" />
+        <SetVisible viewid="@id/black_flash" v="false" t="200" />
+    </Trailer>
+    <Trailer id="@id/trailer_show_pausemenu">
+        <Movement startt="0" d="0" viewid="@id/id_pause_panel" type="0" endy="0.0" />
+        <Movement startt="0" d="0" viewid="@id/id_pause_menu_panel" type="0" endy="-450.0" />
+        <Movement startt="1" d="300" viewid="@id/id_pause_menu_panel" type="0" endy="-267.0" />
+        <Color t="1" d="300" viewid="@id/id_pause_shadow_panel" sa="0.0" ea="1.0" />
+    </Trailer>
+    <Trailer id="@id/trailer_hide_pausemenu">
+        <Movement startt="0" d="300" viewid="@id/id_pause_menu_panel" type="0" endy="-450.0" />
+        <Color t="0" d="300" viewid="@id/id_pause_shadow_panel" sa="1.0" ea="0.0" />
+        <Movement startt="301" d="0" viewid="@id/id_pause_panel" type="0" endy="-800.0" />
+    </Trailer>
+    <Trailer id="@id/trailer_show_completemenu">
+        <SetVisible viewid="@id/id_complete_panel" v="true" t="0" />
+        <Color t="0" d="300" viewid="@id/id_complete_panel" sa="0.0" ea="1.0" />
+    </Trailer>
+    <Trailer id="@id/trailer_move_pausemenu">
+        <Movement startt="0" d="0" viewid="@id/id_pause_panel" type="0" endy="-800.0" />
+    </Trailer>
+    <Trailer id="@id/trailer_move_completemenu">
+        <SetVisible viewid="@id/id_complete_panel" v="false" t="0" />
+    </Trailer>
+</TrailerSet>

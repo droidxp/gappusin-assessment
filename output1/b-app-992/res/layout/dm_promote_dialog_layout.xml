@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="279.0dip" android:layout_height="210.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:background="@drawable/dm_promote_dialog_bg" android:layout_width="268.0dip" android:layout_height="199.0dip" android:layout_alignParentLeft="true" android:layout_alignParentBottom="true">
+        <LinearLayout android:orientation="horizontal" android:id="@id/linearLayout1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:layout_below="@id/feature_image" android:layout_alignParentLeft="true" android:layout_alignParentRight="true" android:layout_centerHorizontal="true">
+            <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:layout_marginTop="25.0dip">
+                <ImageView android:id="@id/feature_image" android:padding="1.0dip" android:layout_width="62.0dip" android:layout_height="62.0dip" android:layout_alignParentLeft="true" />
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="1.0dip">
+                <LinearLayout android:layout_width="150.0dip" android:layout_height="wrap_content" android:layout_marginLeft="1.0dip">
+                    <TextView android:textSize="18.0sp" android:textStyle="bold" android:textColor="#ff002d72" android:gravity="center" android:id="@id/feature_gamename" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
+                </LinearLayout>
+                <LinearLayout android:layout_width="150.0dip" android:layout_height="wrap_content" android:layout_marginLeft="2.0dip">
+                    <TextView android:textColor="@color/dm_white" android:gravity="left" android:id="@id/feature_companyname" android:padding="1.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="12.0dip" android:layout_marginTop="5.0dip" android:layout_alignParentTop="true" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+        <Button android:id="@id/dm_dialog_ok" android:background="@drawable/dm_download_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="20.0dip" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+    <Button android:id="@id/dm_dialog_cancel" android:background="@drawable/dm_cancel_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentTop="true" android:layout_alignParentRight="true" />
+</RelativeLayout>

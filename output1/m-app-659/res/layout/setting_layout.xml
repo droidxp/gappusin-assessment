@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/background" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/head_layout" />
+    <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:id="@id/set_backup_layout" android:background="@drawable/set_selector" android:clickable="true" android:layout_width="fill_parent" android:layout_height="40.0dip" android:layout_margin="10.0dip">
+                <TextView android:textColor="@color/black" android:gravity="center|left" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="10.0dip" android:text="@string/backup" android:layout_weight="1.0" />
+                <TextView android:textColor="@color/blue" android:gravity="center|right" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginRight="10.0dip" android:text=">" android:layout_weight="1.0" />
+            </LinearLayout>
+            <LinearLayout android:id="@id/set_restore_layout" android:background="@drawable/set_selector" android:clickable="true" android:layout_width="fill_parent" android:layout_height="40.0dip" android:layout_margin="10.0dip">
+                <TextView android:textColor="@color/black" android:gravity="center|left" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="10.0dip" android:text="@string/restore" android:layout_weight="1.0" />
+                <TextView android:textColor="@color/blue" android:gravity="center|right" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginRight="10.0dip" android:text=">" android:layout_weight="1.0" />
+            </LinearLayout>
+            <LinearLayout android:id="@id/set_update_layout" android:background="@drawable/set_selector" android:clickable="true" android:layout_width="fill_parent" android:layout_height="40.0dip" android:layout_margin="10.0dip">
+                <TextView android:textColor="@color/black" android:gravity="center|left" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="10.0dip" android:text="@string/update" android:layout_weight="1.0" />
+                <TextView android:textColor="@color/blue" android:gravity="center|right" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginRight="10.0dip" android:text=">" android:layout_weight="1.0" />
+            </LinearLayout>
+            <LinearLayout android:id="@id/set_about_layout" android:background="@drawable/set_selector" android:clickable="true" android:layout_width="fill_parent" android:layout_height="40.0dip" android:layout_margin="10.0dip">
+                <TextView android:textColor="@color/black" android:gravity="center|left" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="10.0dip" android:text="@string/about" android:layout_weight="1.0" />
+                <TextView android:textColor="@color/blue" android:gravity="center|right" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginRight="10.0dip" android:text=">" android:layout_weight="1.0" />
+            </LinearLayout>
+            <LinearLayout android:id="@id/set_moreapp_layout" android:background="@drawable/set_selector" android:clickable="true" android:layout_width="fill_parent" android:layout_height="40.0dip" android:layout_margin="10.0dip">
+                <TextView android:textColor="@color/black" android:gravity="center|left" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="10.0dip" android:text="@string/moreapp" android:layout_weight="1.0" />
+                <TextView android:textColor="@color/blue" android:gravity="center|right" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginRight="10.0dip" android:text=">" android:layout_weight="1.0" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

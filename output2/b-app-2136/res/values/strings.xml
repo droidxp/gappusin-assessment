@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="testText">本次支付通过中国移动代收， 支付完成后会收到中国移动游戏点数充值短信， 此为正常信息。</string>
+    <string name="hello">Hello World, PlaneFightActivity!</string>
+    <string name="app_name">僵尸大PK</string>
+</resources>

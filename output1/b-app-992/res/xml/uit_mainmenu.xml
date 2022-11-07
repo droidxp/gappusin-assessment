@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TrailerSet>
+    <Trailer id="@id/trailer_open_lock">
+        <ChangeAction t="0" viewid="@id/id_lock" action="@id/unlock" />
+        <Color t="200" d="1200" viewid="@id/id_lock" sa="1.0" ea="0.0" />
+        <Color t="200" d="1200" viewid="@id/id_cheese_x" sa="1.0" ea="0.0" />
+        <Color t="200" d="1200" viewid="@id/id_tv_shape" sa="0.6" ea="0.0" />
+        <Color t="200" d="1200" viewid="@id/id_unlock_cheese_num" sa="1.0" ea="0.0" />
+    </Trailer>
+    <Trailer id="@id/trailer_mainmenu_to_stageselect">
+        <Color t="0" d="200" viewid="@id/id_mainmenu_panel" sa="1.0" ea="0.0" />
+        <Movement startt="200" d="0" viewid="@id/id_stageselect_panel" type="0" endx="0.0" />
+        <Movement startt="200" d="0" viewid="@id/id_mainmenu_panel" type="0" endx="512.0" />
+        <Color t="200" d="200" viewid="@id/id_stageselect_panel" sa="0.0" ea="1.0" />
+        <Color t="200" d="200" viewid="@id/id_tv_shape" sa="0.0" ea="0.6" />
+    </Trailer>
+    <Trailer id="@id/trailer_mainmenu_to_help">
+        <Color t="0" d="200" viewid="@id/id_mainmenu_panel" sa="1.0" ea="0.0" />
+        <Movement startt="200" d="0" viewid="@id/id_help_panel" type="0" endx="0.0" />
+        <Movement startt="200" d="0" viewid="@id/id_mainmenu_panel" type="0" endx="512.0" />
+        <Color t="200" d="200" viewid="@id/id_help_panel" sa="0.0" ea="1.0" />
+    </Trailer>
+    <Trailer id="@id/trailer_help_to_mainmenu">
+        <Color t="0" d="200" viewid="@id/id_help_panel" sa="1.0" ea="0.0" />
+        <Movement startt="200" d="0" viewid="@id/id_mainmenu_panel" type="0" endx="0.0" />
+        <Movement startt="200" d="0" viewid="@id/id_help_panel" type="0" endx="512.0" />
+        <Color t="200" d="200" viewid="@id/id_mainmenu_panel" sa="0.0" ea="1.0" />
+    </Trailer>
+    <Trailer id="@id/trailer_mainmenu_to_options">
+        <Color t="0" d="200" viewid="@id/id_mainmenu_panel" sa="1.0" ea="0.0" />
+        <Movement startt="200" d="0" viewid="@id/id_options_panel" type="0" endx="0.0" />
+        <Movement startt="200" d="0" viewid="@id/id_mainmenu_panel" type="0" endx="512.0" />
+        <Color t="200" d="200" viewid="@id/id_options_panel" sa="0.0" ea="1.0" />
+        <SetVisible viewid="@id/id_options_panel" v="true" t="0" />
+    </Trailer>
+    <Trailer id="@id/trailer_options_to_mainmenu">
+        <Color t="0" d="200" viewid="@id/id_options_panel" sa="1.0" ea="0.0" />
+        <Movement startt="200" d="0" viewid="@id/id_mainmenu_panel" type="0" endx="0.0" />
+        <Movement startt="200" d="0" viewid="@id/id_options_panel" type="0" endx="512.0" />
+        <Color t="200" d="200" viewid="@id/id_mainmenu_panel" sa="0.0" ea="1.0" />
+    </Trailer>
+    <Trailer id="@id/trailer_play_tv_snow">
+        <SetVisible viewid="@id/tv_snow" v="true" t="0" />
+        <ChangeAction t="0" viewid="@id/tv_snow" action="@id/snow1" />
+        <ChangeAction t="100" viewid="@id/tv_snow" action="@id/snow2" />
+        <ChangeAction t="200" viewid="@id/tv_snow" action="@id/snow3" />
+        <ChangeAction t="300" viewid="@id/tv_snow" action="@id/snow4" />
+        <ChangeAction t="400" viewid="@id/tv_snow" action="@id/snow5" />
+        <SetVisible viewid="@id/tv_snow" v="false" t="500" />
+    </Trailer>
+    <Trailer id="@id/trailer_stageselect_to_mainmenu">
+        <Color t="0" d="200" viewid="@id/id_stageselect_panel" sa="1.0" ea="0.0" />
+        <Movement startt="200" d="0" viewid="@id/id_mainmenu_panel" type="0" endx="0.0" />
+        <Movement startt="200" d="0" viewid="@id/id_stageselect_panel" type="0" endx="512.0" />
+        <Color t="200" d="200" viewid="@id/id_mainmenu_panel" sa="0.0" ea="1.0" />
+    </Trailer>
+    <Trailer id="@id/trailer_stageselect_to_chooselevel_1">
+        <Color t="0" d="200" viewid="@id/id_stageselect_panel" sa="1.0" ea="0.0" />
+        <Movement startt="200" d="0" viewid="@id/id_chooselevel_1_panel" type="0" endx="0.0" />
+        <Movement startt="200" d="0" viewid="@id/id_stageselect_panel" type="0" endx="512.0" />
+        <Color t="200" d="200" viewid="@id/id_chooselevel_1_panel" sa="0.0" ea="1.0" />
+    </Trailer>
+    <Trailer id="@id/trailer_chooselevel_1_to_stageselect">
+        <Color t="0" d="400" viewid="@id/id_chooselevel_1_panel" sa="1.0" ea="0.0" />
+        <Movement startt="400" d="0" viewid="@id/id_stageselect_panel" type="0" endx="0.0" />
+        <Movement startt="400" d="0" viewid="@id/id_chooselevel_1_panel" type="0" endx="512.0" />
+        <Color t="400" d="400" viewid="@id/id_stageselect_panel" sa="0.0" ea="1.0" />
+    </Trailer>
+    <Trailer id="@id/trailer_stageselect_to_chooselevel_2">
+        <Color t="0" d="200" viewid="@id/id_stageselect_panel" sa="1.0" ea="0.0" />
+        <Movement startt="200" d="0" viewid="@id/id_chooselevel_2_panel" type="0" endx="0.0" />
+        <Movement startt="200" d="0" viewid="@id/id_stageselect_panel" type="0" endx="512.0" />
+        <Color t="200" d="200" viewid="@id/id_chooselevel_2_panel" sa="0.0" ea="1.0" />
+    </Trailer>
+    <Trailer id="@id/trailer_chooselevel_2_to_stageselect">
+        <Color t="0" d="400" viewid="@id/id_chooselevel_2_panel" sa="1.0" ea="0.0" />
+        <Movement startt="400" d="0" viewid="@id/id_stageselect_panel" type="0" endx="0.0" />
+        <Movement startt="400" d="0" viewid="@id/id_chooselevel_2_panel" type="0" endx="512.0" />
+        <Color t="400" d="400" viewid="@id/id_stageselect_panel" sa="0.0" ea="1.0" />
+    </Trailer>
+    <Trailer id="@id/trailer_stageselect_to_chooselevel_3">
+        <Color t="0" d="200" viewid="@id/id_stageselect_panel" sa="1.0" ea="0.0" />
+        <Movement startt="200" d="0" viewid="@id/id_chooselevel_3_panel" type="0" endx="0.0" />
+        <Movement startt="200" d="0" viewid="@id/id_stageselect_panel" type="0" endx="512.0" />
+        <Color t="200" d="200" viewid="@id/id_chooselevel_3_panel" sa="0.0" ea="1.0" />
+    </Trailer>
+    <Trailer id="@id/trailer_chooselevel_3_to_stageselect">
+        <Color t="0" d="400" viewid="@id/id_chooselevel_3_panel" sa="1.0" ea="0.0" />
+        <Movement startt="400" d="0" viewid="@id/id_stageselect_panel" type="0" endx="0.0" />
+        <Movement startt="400" d="0" viewid="@id/id_chooselevel_3_panel" type="0" endx="512.0" />
+        <Color t="400" d="400" viewid="@id/id_stageselect_panel" sa="0.0" ea="1.0" />
+    </Trailer>
+    <Trailer id="@id/trailer_stageselect_to_chooselevel_4">
+        <Color t="0" d="200" viewid="@id/id_stageselect_panel" sa="1.0" ea="0.0" />
+        <Movement startt="200" d="0" viewid="@id/id_chooselevel_4_panel" type="0" endx="0.0" />
+        <Movement startt="200" d="0" viewid="@id/id_stageselect_panel" type="0" endx="512.0" />
+        <Color t="200" d="200" viewid="@id/id_chooselevel_4_panel" sa="0.0" ea="1.0" />
+    </Trailer>
+    <Trailer id="@id/trailer_stageselect_to_chooselevel_5">
+        <Color t="0" d="200" viewid="@id/id_stageselect_panel" sa="1.0" ea="0.0" />
+        <Movement startt="200" d="0" viewid="@id/id_chooselevel_5_panel" type="0" endx="0.0" />
+        <Movement startt="200" d="0" viewid="@id/id_stageselect_panel" type="0" endx="512.0" />
+        <Color t="200" d="200" viewid="@id/id_chooselevel_5_panel" sa="0.0" ea="1.0" />
+    </Trailer>
+    <Trailer id="@id/trailer_chooselevel_5_to_stageselect">
+        <Color t="0" d="400" viewid="@id/id_chooselevel_5_panel" sa="1.0" ea="0.0" />
+        <Movement startt="400" d="0" viewid="@id/id_stageselect_panel" type="0" endx="0.0" />
+        <Movement startt="400" d="0" viewid="@id/id_chooselevel_5_panel" type="0" endx="512.0" />
+        <Color t="400" d="400" viewid="@id/id_stageselect_panel" sa="0.0" ea="1.0" />
+    </Trailer>
+    <Trailer id="@id/trailer_chooselevel_4_to_stageselect">
+        <Color t="0" d="400" viewid="@id/id_chooselevel_4_panel" sa="1.0" ea="0.0" />
+        <Movement startt="400" d="0" viewid="@id/id_stageselect_panel" type="0" endx="0.0" />
+        <Movement startt="400" d="0" viewid="@id/id_chooselevel_4_panel" type="0" endx="512.0" />
+        <Color t="400" d="400" viewid="@id/id_stageselect_panel" sa="0.0" ea="1.0" />
+    </Trailer>
+</TrailerSet>

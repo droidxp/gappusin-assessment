@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="icon" id="0x7f020000" />
+    <public type="layout" name="main" id="0x7f030000" />
+    <public type="raw" name="app0" id="0x7f040000" />
+    <public type="raw" name="app1" id="0x7f040001" />
+    <public type="raw" name="app2" id="0x7f040002" />
+    <public type="raw" name="app3" id="0x7f040003" />
+    <public type="raw" name="bad_shot_3" id="0x7f040004" />
+    <public type="raw" name="ball2ball" id="0x7f040005" />
+    <public type="raw" name="ball_hit_rail" id="0x7f040006" />
+    <public type="raw" name="ball_sunk" id="0x7f040007" />
+    <public type="raw" name="click" id="0x7f040008" />
+    <public type="raw" name="cue_break" id="0x7f040009" />
+    <public type="raw" name="cue_shoot" id="0x7f04000a" />
+    <public type="raw" name="f10" id="0x7f04000b" />
+    <public type="raw" name="f16" id="0x7f04000c" />
+    <public type="raw" name="good_shot" id="0x7f04000d" />
+    <public type="raw" name="help" id="0x7f04000e" />
+    <public type="raw" name="helplite" id="0x7f04000f" />
+    <public type="raw" name="p3d" id="0x7f040010" />
+    <public type="raw" name="title_music" id="0x7f040011" />
+    <public type="raw" name="title_music_option2" id="0x7f040012" />
+    <public type="string" name="app_name" id="0x7f050000" />
+    <public type="id" name="SurfaceView01" id="0x7f060000" />
+    <public type="id" name="adview" id="0x7f060001" />
+</resources>

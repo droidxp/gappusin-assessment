@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="kkkwan_a" id="0x7f020001" />
+    <public type="drawable" name="kkkwan_buy_btn" id="0x7f020002" />
+    <public type="drawable" name="kkkwan_cancel_btn" id="0x7f020005" />
+    <public type="drawable" name="ic_launcher" id="0x7f020000" />
+    <public type="drawable" name="kkkwan_buy_btn_off" id="0x7f020003" />
+    <public type="drawable" name="kkkwan_buy_btn_on" id="0x7f020004" />
+    <public type="drawable" name="kkkwan_cancel_btn_off" id="0x7f020006" />
+    <public type="drawable" name="kkkwan_cancel_btn_on" id="0x7f020007" />
+    <public type="drawable" name="kkkwan_dialog_bg" id="0x7f020008" />
+    <public type="layout" name="kkkwan_quick_pay" id="0x7f030000" />
+    <public type="layout" name="main" id="0x7f030001" />
+    <public type="raw" name="anger" id="0x7f040000" />
+    <public type="raw" name="blessing" id="0x7f040001" />
+    <public type="raw" name="buy" id="0x7f040002" />
+    <public type="raw" name="cannon" id="0x7f040003" />
+    <public type="raw" name="change" id="0x7f040004" />
+    <public type="raw" name="click" id="0x7f040005" />
+    <public type="raw" name="failure" id="0x7f040006" />
+    <public type="raw" name="fighting1" id="0x7f040007" />
+    <public type="raw" name="gold" id="0x7f040008" />
+    <public type="raw" name="heavygun" id="0x7f040009" />
+    <public type="raw" name="hit" id="0x7f04000a" />
+    <public type="raw" name="lightgun" id="0x7f04000b" />
+    <public type="raw" name="manifest" id="0x7f04000c" />
+    <public type="raw" name="menuback" id="0x7f04000d" />
+    <public type="raw" name="pistol" id="0x7f04000e" />
+    <public type="raw" name="rifle" id="0x7f04000f" />
+    <public type="raw" name="shutback" id="0x7f040010" />
+    <public type="raw" name="skills_1" id="0x7f040011" />
+    <public type="raw" name="victory" id="0x7f040012" />
+    <public type="string" name="testText" id="0x7f050000" />
+    <public type="string" name="hello" id="0x7f050001" />
+    <public type="string" name="app_name" id="0x7f050002" />
+    <public type="color" name="kkkwan_transparent_background" id="0x7f060000" />
+    <public type="style" name="kkkwan_transparent" id="0x7f070000" />
+    <public type="id" name="kkkwan_title" id="0x7f080000" />
+    <public type="id" name="kkkwan_content" id="0x7f080001" />
+    <public type="id" name="kkkwan_cancel" id="0x7f080002" />
+    <public type="id" name="kkkwan_buy" id="0x7f080003" />
+</resources>

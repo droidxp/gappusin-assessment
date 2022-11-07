@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:background="@drawable/wy_cell_bg_style1" android:paddingLeft="7.0dip" android:paddingTop="2.0dip" android:paddingRight="12.0dip" android:paddingBottom="2.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/wy_image" android:background="@drawable/wy_picture_frame" android:layout_width="@dimen/wy_portrait_frame_size" android:layout_height="@dimen/wy_portrait_frame_size" android:scaleType="center" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:paddingLeft="10.0dip" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <TextView android:textStyle="bold" android:ellipsize="marquee" android:id="@id/wy_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" style="@android:style/TextAppearance.Small.Inverse" />
+        <View android:background="@drawable/wy_separator_style2" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <TableLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:stretchColumns="0,1,2,3,4">
+            <TableRow>
+                <TextView android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/wy_label_wins" style="@android:style/TextAppearance.Small.Inverse" />
+                <TextView android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/wy_label_losses" style="@android:style/TextAppearance.Small.Inverse" />
+                <TextView android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/wy_label_ties" style="@android:style/TextAppearance.Small.Inverse" />
+                <TextView android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/wy_label_rejects" style="@android:style/TextAppearance.Small.Inverse" />
+            </TableRow>
+            <TableRow>
+                <TextView android:gravity="center" android:id="@id/wy_text2" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@android:style/TextAppearance.Small.Inverse" />
+                <TextView android:gravity="center" android:id="@id/wy_text3" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@android:style/TextAppearance.Small.Inverse" />
+                <TextView android:gravity="center" android:id="@id/wy_text4" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@android:style/TextAppearance.Small.Inverse" />
+                <TextView android:gravity="center" android:id="@id/wy_text5" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@android:style/TextAppearance.Small.Inverse" />
+            </TableRow>
+            <TableRow>
+                <TextView android:gravity="center" android:layout_gravity="center_horizontal" android:id="@id/wy_text6" android:layout_width="wrap_content" android:layout_height="wrap_content" android:drawableRight="@drawable/wy_icon_wiyun_point" style="@android:style/TextAppearance.Small.Inverse" />
+                <TextView android:gravity="center" android:layout_gravity="center_horizontal" android:id="@id/wy_text7" android:layout_width="wrap_content" android:layout_height="wrap_content" android:drawableRight="@drawable/wy_icon_wiyun_point" style="@android:style/TextAppearance.Small.Inverse" />
+            </TableRow>
+            <TableRow>
+                <View android:background="@drawable/wy_separator_style2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_span="5" />
+            </TableRow>
+            <TableRow>
+                <TextView android:textStyle="bold" android:gravity="right" android:id="@id/wy_text8" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_span="5" android:drawableRight="@drawable/wy_icon_wiyun_point" style="@android:style/TextAppearance.Small.Inverse" />
+            </TableRow>
+        </TableLayout>
+    </LinearLayout>
+</LinearLayout>

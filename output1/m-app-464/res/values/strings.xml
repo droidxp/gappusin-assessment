@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, SameStarActivity!</string>
+    <string name="app_name">疯狂水果连连看</string>
+    <string name="msg_exit_current_game">Do you want to exit this game now ?</string>
+    <string name="msg_exit_current_game_new_record">"New record!
+Do you want to submit the score ?"</string>
+    <string name="menu_level1">Easy</string>
+    <string name="menu_level2">Medium</string>
+    <string name="menu_level3">Hard</string>
+    <string name="menu_challenge">Challenge</string>
+    <string name="menu_exit">Exit</string>
+    <string name="msg_challenge_alert">When game over , the challeng will be make?</string>
+    <string name="umeng_common_action_info_exist">The app is already in downloading list.</string>
+    <string name="umeng_common_info_interrupt">dowload interrupted.</string>
+    <string name="umeng_common_action_pause">Pause</string>
+    <string name="umeng_common_action_continue">Continue</string>
+    <string name="umeng_common_action_cancel">Cancel</string>
+    <string name="umeng_common_download_notification_prefix">Downloading:</string>
+    <string name="umeng_common_network_break_alert">Please make sure you are connected to internet, download failed</string>
+    <string name="umeng_common_download_failed">Download Failed!</string>
+    <string name="UMBreak_Network">Please make sure you are connected to internet,update failed</string>
+    <string name="UMUpdateTitle">New version found</string>
+    <string name="UMNewVersion">Latest version:</string>
+    <string name="UMGprsCondition">(Warning: Not WIFI Condition)</string>
+    <string name="UMUpdateNow">Update now</string>
+    <string name="UMAppUpdate">App updating</string>
+    <string name="UMNotNow">Not now</string>
+    <string name="UMToast_IsUpdating">Updating...</string>
+    <string name="UMDialog_InstallAPK">The lastest version has been downloaded, install now ?</string>
+</resources>

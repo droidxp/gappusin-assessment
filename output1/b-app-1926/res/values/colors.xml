@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="wy_top_container_bg">@android:color/white</color>
+    <color name="wy_roundrect_container_bg">#ffbebebe</color>
+    <color name="wy_roundrect_container_outter_border">#fffefefe</color>
+    <color name="wy_roundrect_container_inner_border">#ff676767</color>
+    <color name="wy_roundrect_bar_bg">#ff616162</color>
+    <color name="wy_loading_view_bg">#7f000000</color>
+    <color name="wy_primary_text_dark">@android:color/primary_text_dark</color>
+    <color name="wy_primary_text_light">@android:color/primary_text_light</color>
+    <color name="wy_secondary_text_dark">@android:color/secondary_text_dark</color>
+    <color name="wy_secondary_text_light">@android:color/secondary_text_light</color>
+    <color name="wy_tertiary_text_dark">@android:color/tertiary_text_dark</color>
+    <color name="wy_tertiary_text_light">@android:color/tertiary_text_light</color>
+    <color name="wy_sub_tab_text_color">#ff626262</color>
+    <color name="wy_warning_text_color">#ffff0000</color>
+    <color name="wy_header_cell_text_color">@android:color/white</color>
+    <color name="wy_cell_primary_text_color">#ff3a3a3a</color>
+    <color name="wy_cell_secondary_text_color">#ff6a6a6a</color>
+    <color name="wy_cell_secondary_text_color_2">#ff8d8d8d</color>
+    <color name="wy_cell_bg">#ffdddddd</color>
+    <color name="wy_cell_bg_dark">#ffcecdcd</color>
+    <color name="wy_status_text_color">#ff4c9552</color>
+    <color name="wy_hint_bar_bg">#ffffcf4b</color>
+    <color name="wy_score_color">#ff2393ee</color>
+    <color name="wy_title_secondary_text_color">#ff8d8d8d</color>
+    <color name="wy_notice_bar_text_color">#ff9d9f7a</color>
+</resources>

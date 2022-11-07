@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="head_back" />
+    <item type="id" name="head_title" />
+    <item type="id" name="head_btn" />
+    <item type="id" name="list_img_layout" />
+    <item type="id" name="icon" />
+    <item type="id" name="text" />
+    <item type="id" name="textTime" />
+    <item type="id" name="moreapp_list" />
+    <item type="id" name="moreapp_img_layout" />
+    <item type="id" name="moreapp_down_layout" />
+    <item type="id" name="moreapp_btn_store" />
+    <item type="id" name="moreapp_btn_down" />
+    <item type="id" name="moreapp_title" />
+    <item type="id" name="moreapp_content" />
+    <item type="id" name="popup_menu_bg_layout" />
+    <item type="id" name="menu_layout" />
+    <item type="id" name="popup_menu_btn1" />
+    <item type="id" name="popup_menu_btn2" />
+    <item type="id" name="popup_menu_btn3" />
+    <item type="id" name="read_head_layout" />
+    <item type="id" name="textTitle" />
+    <item type="id" name="tTime" />
+    <item type="id" name="textContent" />
+    <item type="id" name="read_menu" />
+    <item type="id" name="editRename" />
+    <item type="id" name="set_backup_layout" />
+    <item type="id" name="set_restore_layout" />
+    <item type="id" name="set_update_layout" />
+    <item type="id" name="set_about_layout" />
+    <item type="id" name="set_moreapp_layout" />
+    <item type="id" name="editTitle" />
+    <item type="id" name="editText" />
+</resources>

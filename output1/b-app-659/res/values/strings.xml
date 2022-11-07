@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">欢迎使用智能记事本!</string>
+    <string name="app_name">智能记事本</string>
+    <string name="setting_key_btnhide">Setting_BtnHide</string>
+    <string name="new_note">新建记事</string>
+    <string name="new_folder">新建文件夹</string>
+    <string name="setting">更多</string>
+    <string name="exit">退出</string>
+    <string name="no_create_tips">请在根目录创建</string>
+    <string name="access">操作</string>
+    <string name="todisk_tips">"文本已导出SD卡:
+"</string>
+    <string name="input_title_tips">请输入标题(可空)</string>
+    <string name="input_con_tips">请输入内容</string>
+    <string name="input_name_tips">请输入文件名:</string>
+    <string name="delete">删除</string>
+    <string name="delete_msg">您确定要删除文件:</string>
+    <string name="input_error">请填写完整!</string>
+    <string name="have_file">改文件夹下面存在文件, 要移动到根目录吗?</string>
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="input_name">请输入文件名</string>
+    <string name="not_have">文件不存在!</string>
+    <string name="move_file">移动文件</string>
+    <string name="menu">菜单</string>
+    <string name="menu_1">编辑</string>
+    <string name="menu_2">放大</string>
+    <string name="menu_3">缩小</string>
+    <string name="save">保存</string>
+    <string name="reback">返回</string>
+    <string name="backup">备份</string>
+    <string name="restore">还原</string>
+    <string name="about">关于</string>
+    <string name="tips">提示</string>
+    <string name="backup_tips">您需要进行备份吗?</string>
+    <string name="backup_ok">备份成功!</string>
+    <string name="backup_no">备份失败, 请确认已插入SD卡!</string>
+    <string name="restore_tips">您确定要还原吗?</string>
+    <string name="restore_error">没有找到备份文件!</string>
+    <string name="restore_ok">还原成功!</string>
+    <string name="look">查看</string>
+    <string name="edit">编写文本</string>
+    <string name="update">检查更新</string>
+    <string name="moreapp">更多精品应用</string>
+    <string name="update_no">检测失败!</string>
+    <string name="update_not">已经是最新版本!</string>
+    <string name="update_have">发现新版本!</string>
+    <string name="update_load">您要下载新版本吗?</string>
+</resources>

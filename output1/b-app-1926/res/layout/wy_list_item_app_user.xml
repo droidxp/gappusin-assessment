@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:background="@drawable/wy_cell_bg_style1" android:paddingLeft="7.0dip" android:paddingTop="2.0dip" android:paddingRight="7.0dip" android:paddingBottom="2.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:ellipsize="marquee" android:id="@id/wy_text" android:paddingLeft="10.0dip" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" style="@android:style/TextAppearance.Medium.Inverse" />
+    <ImageView android:id="@id/wy_image" android:background="@drawable/wy_picture_frame" android:layout_width="@dimen/wy_portrait_frame_size" android:layout_height="@dimen/wy_portrait_frame_size" android:scaleType="center" />
+    <FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip">
+        <ImageView android:id="@id/wy_image2" android:background="@drawable/wy_picture_frame" android:layout_width="@dimen/wy_portrait_frame_size" android:layout_height="@dimen/wy_portrait_frame_size" android:scaleType="center" />
+        <ImageView android:layout_gravity="bottom|center|right" android:background="@drawable/wy_icon_me" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="center" />
+    </FrameLayout>
+</LinearLayout>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="ScrollView01" />
+    <item type="id" name="TextView01" />
+    <item type="id" name="Button01" />
+    <item type="id" name="textViewInfo" />
+    <item type="id" name="spacer1" />
+    <item type="id" name="ButtonBuyViaGP" />
+    <item type="id" name="spacer2" />
+    <item type="id" name="spacer3" />
+    <item type="id" name="textView4" />
+    <item type="id" name="spacer4" />
+    <item type="id" name="imageView1" />
+    <item type="id" name="button1" />
+    <item type="id" name="textView1" />
+    <item type="id" name="textDesc" />
+    <item type="id" name="textView3" />
+    <item type="id" name="scrollView1" />
+    <item type="id" name="LinearLayout01" />
+    <item type="id" name="imgIcon" />
+    <item type="id" name="LinearLayout02" />
+    <item type="id" name="txtMain" />
+    <item type="id" name="txtPrice" />
+    <item type="id" name="txtDesc" />
+    <item type="id" name="ButtonClose" />
+    <item type="id" name="ButtonDirectBuy" />
+    <item type="id" name="details" />
+    <item type="id" name="menu" />
+    <item type="id" name="game" />
+    <item type="id" name="txtAppName" />
+    <item type="id" name="txtVersion" />
+    <item type="id" name="txtUpdateInfos" />
+    <item type="id" name="ButtonUpdateNow" />
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DTileAnimation texture="@drawable/pauseelement" columns="6">
+    <Modules>
+        <Module x="1" y="1" w="480" h="228" cx="-240" cy="-114" />
+        <Module x="1" y="241" w="92" h="92" cx="-46" cy="-46" />
+        <Module x="96" y="241" w="90" h="91" cx="-45" cy="-46" />
+        <Module x="189" y="241" w="90" h="91" cx="-45" cy="-46" />
+        <Module x="282" y="241" w="93" h="92" cx="-47" cy="-46" />
+        <Module x="378" y="241" w="90" h="91" cx="-45" cy="-46" />
+    </Modules>
+    <actions>
+        <action id="@id/pause_bg" repeat="true">
+            <sequence f="0" d="300" />
+        </action>
+        <action id="@id/pause_replay" repeat="true">
+            <sequence f="1" d="300" />
+        </action>
+        <action id="@id/pause_play" repeat="true">
+            <sequence f="2" d="300" />
+        </action>
+        <action id="@id/pause_sound" repeat="true">
+            <sequence f="3" d="300" />
+        </action>
+        <action id="@id/pause_menu" repeat="true">
+            <sequence f="4" d="300" />
+        </action>
+        <action id="@id/pause_sound_off" repeat="true">
+            <sequence f="5" d="300" />
+        </action>
+    </actions>
+</DTileAnimation>

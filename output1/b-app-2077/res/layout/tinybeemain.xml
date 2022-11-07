@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ViewFlipper android:theme="@style/Theme.NoBackground" android:id="@id/details" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:myapp="http://schemas.android.com/apk/res-auto">
+    <de.nurogames.android.ticb.base.views.SplashView android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <de.nurogames.android.ticb.base.views.MenuView android:theme="@style/Theme.NoBackground" android:id="@id/menu" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <de.nurogames.android.ticb.base.views.TinyBeeView android:theme="@style/Theme.NoBackground" android:id="@id/game" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <de.nurogames.android.ticb.base.views.ScoresView android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <de.nurogames.android.ticb.base.views.HelpView android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <de.nurogames.android.ticb.base.views.CreditsView android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <de.nurogames.android.ticb.base.views.InAppPurchaseView android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</ViewFlipper>

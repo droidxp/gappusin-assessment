@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="icon" id="0x7f020000" />
+    <public type="drawable" name="ouya_icon" id="0x7f020001" />
+    <public type="raw" name="snd_alienaatack_mp3" id="0x7f030000" />
+    <public type="raw" name="snd_alienaatack_ogg" id="0x7f030001" />
+    <public type="raw" name="snd_alientankborn_mp3" id="0x7f030002" />
+    <public type="raw" name="snd_alientankborn_ogg" id="0x7f030003" />
+    <public type="raw" name="snd_enemy_death_wav" id="0x7f030004" />
+    <public type="raw" name="snd_gameover_wav" id="0x7f030005" />
+    <public type="raw" name="snd_monkey_mp3" id="0x7f030006" />
+    <public type="raw" name="snd_planebornufo_mp3" id="0x7f030007" />
+    <public type="raw" name="snd_planebornufo_ogg" id="0x7f030008" />
+    <public type="raw" name="snd_planebornzombie_mp3" id="0x7f030009" />
+    <public type="raw" name="snd_planebornzombie_ogg" id="0x7f03000a" />
+    <public type="raw" name="snd_shot_wav" id="0x7f03000b" />
+    <public type="raw" name="snd_ufoborn_mp3" id="0x7f03000c" />
+    <public type="raw" name="snd_ufoborn_ogg" id="0x7f03000d" />
+    <public type="raw" name="snd_zombie_attack_mp3" id="0x7f03000e" />
+    <public type="raw" name="snd_zombie_attack_ogg" id="0x7f03000f" />
+    <public type="raw" name="snd_zombieborn_mp3" id="0x7f030010" />
+    <public type="raw" name="snd_zombieborn_ogg" id="0x7f030011" />
+    <public type="raw" name="snd_zombies_mp3" id="0x7f030012" />
+    <public type="raw" name="snd_zomietankborn_mp3" id="0x7f030013" />
+    <public type="raw" name="snd_zomietankborn_ogg" id="0x7f030014" />
+</resources>

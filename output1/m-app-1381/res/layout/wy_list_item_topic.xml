@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:background="@drawable/wy_cell_bg_style1" android:paddingLeft="10.0dip" android:paddingTop="2.0dip" android:paddingRight="12.0dip" android:paddingBottom="2.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="48.0dip">
+        <ImageView android:id="@id/wy_image" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="center" />
+        <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:paddingLeft="5.0dip" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <TextView android:ellipsize="marquee" android:id="@id/wy_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="2" style="@android:style/TextAppearance.Medium.Inverse" />
+            <TextView android:ellipsize="marquee" android:id="@id/wy_text2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" style="@android:style/TextAppearance.Small.Inverse" />
+        </LinearLayout>
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="3.0dip" android:src="@drawable/wy_icon_disclosure_indicator" android:scaleType="center" />
+    </LinearLayout>
+    <ImageView android:layout_gravity="center|right|top" android:id="@id/wy_image2" android:background="@drawable/wy_icon_starred" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</FrameLayout>

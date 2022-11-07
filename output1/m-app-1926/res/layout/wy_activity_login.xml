@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:background="@drawable/wy_title_bg_style1" android:paddingLeft="15.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/wy_icon_welcome_back" />
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip">
+            <TextView android:textColor="@color/wy_tertiary_text_dark" android:id="@id/wy_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/wy_label_welcome_back" android:singleLine="true" style="@android:style/TextAppearance.Medium" />
+            <TextView android:textColor="@color/wy_title_secondary_text_color" android:id="@id/wy_text2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/wy_label_find_account_for_this_device" style="@android:style/TextAppearance.Small" />
+        </LinearLayout>
+    </LinearLayout>
+    <View android:background="@drawable/wy_separator_style2" android:layout_width="fill_parent" android:layout_height="2.0dip" />
+    <LinearLayout android:orientation="vertical" android:id="@id/wy_panel" android:background="@drawable/wy_gradient_bg_style1_with_logo" android:paddingTop="30.0dip" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="48.0dip">
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/wy_user_bar" android:background="@drawable/wy_user_bar_bg" android:layout_width="fill_parent" android:layout_height="45.0dip" android:layout_marginLeft="18.0dip" android:layout_marginRight="13.0dip" android:layout_centerInParent="true">
+                <TextView android:id="@id/wy_text3" android:paddingLeft="65.0dip" android:layout_width="0.0dip" android:layout_height="wrap_content" android:singleLine="true" android:layout_weight="1.0" style="@android:style/TextAppearance.Medium" />
+                <View android:background="@drawable/wy_separator_style1" android:layout_width="2.0dip" android:layout_height="fill_parent" />
+                <TextView android:textColor="@android:color/white" android:id="@id/wy_text4" android:paddingLeft="5.0dip" android:paddingRight="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:drawableLeft="@drawable/wy_icon_wiyun_point" android:drawablePadding="2.0dip" style="@android:style/TextAppearance.Small" />
+            </LinearLayout>
+            <ImageView android:id="@id/wy_image" android:background="@drawable/wy_picture_frame" android:layout_width="48.0dip" android:layout_height="48.0dip" android:scaleType="center" android:layout_alignLeft="@id/wy_user_bar" android:layout_alignParentTop="true" android:layout_alignParentBottom="true" />
+            <EditText android:id="@id/wy_edit" android:background="@drawable/wy_edit_box" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:hint="@string/wy_placeholder_enter_username" android:singleLine="true" android:layout_toRightOf="@id/wy_image" android:layout_alignRight="@id/wy_user_bar" android:layout_centerVertical="true" />
+        </RelativeLayout>
+        <Button android:layout_gravity="right" android:id="@id/wy_button" android:background="@drawable/wy_button_style1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_marginRight="13.0dip" android:drawableLeft="@drawable/wy_icon_mark" style="@android:style/TextAppearance.Medium" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/wy_panel2" android:paddingLeft="20.0dip" android:paddingTop="30.0dip" android:paddingRight="20.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:id="@id/wy_text5" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@android:style/TextAppearance.Small.Inverse" />
+        <Button android:id="@id/wy_button2" android:background="@drawable/wy_button_style1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="40.0dip" android:minWidth="150.0dip" android:text="@string/wy_button_continue" style="@android:style/TextAppearance.Medium" />
+    </LinearLayout>
+</LinearLayout>

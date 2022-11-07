@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DTileAnimation texture="@drawable/mouse4" columns="15">
+    <Modules>
+        <Module x="1" y="1" w="242" h="66" cx="-121" cy="-33" />
+        <Module x="246" y="1" w="240" h="60" cx="-120" cy="-30" />
+        <Module x="246" y="65" w="253" h="152" cx="-127" cy="-76" />
+        <Module x="1" y="81" w="240" h="60" cx="-120" cy="-30" />
+        <Module x="1" y="225" w="250" h="94" cx="-125" cy="-47" />
+        <Module x="1" y="321" w="271" h="213" cx="-136" cy="-107" />
+        <Module x="1" y="145" w="240" h="60" cx="-120" cy="-30" />
+        <Module x="1" y="545" w="302" h="231" cx="-151" cy="-116" />
+        <Module x="254" y="225" w="248" h="84" cx="-124" cy="-42" />
+        <Module x="1" y="785" w="240" h="60" cx="-120" cy="-30" />
+        <Module x="244" y="785" w="240" h="60" cx="-120" cy="-30" />
+        <Module x="1" y="849" w="240" h="60" cx="-120" cy="-30" />
+        <Module x="244" y="849" w="240" h="60" cx="-120" cy="-30" />
+        <Module x="1" y="913" w="246" h="76" cx="-123" cy="-38" />
+        <Module x="250" y="913" w="240" h="60" cx="-120" cy="-30" />
+    </Modules>
+    <actions>
+        <action id="@id/mouse4_9" repeat="true">
+            <sequence f="0" d="300" />
+        </action>
+        <action id="@id/mouse4_7" repeat="true">
+            <sequence f="1" d="300" />
+        </action>
+        <action id="@id/mouse4_13" repeat="true">
+            <sequence f="2" d="300" />
+        </action>
+        <action id="@id/mouse4_1" repeat="true">
+            <sequence f="3" d="300" />
+        </action>
+        <action id="@id/mouse4_12" repeat="true">
+            <sequence f="4" d="300" />
+        </action>
+        <action id="@id/mouse4_14" repeat="true">
+            <sequence f="5" d="300" />
+        </action>
+        <action id="@id/mouse4_6" repeat="true">
+            <sequence f="6" d="300" />
+        </action>
+        <action id="@id/mouse4_15" repeat="true">
+            <sequence f="7" d="300" />
+        </action>
+        <action id="@id/mouse4_11" repeat="true">
+            <sequence f="8" d="300" />
+        </action>
+        <action id="@id/mouse4_4" repeat="true">
+            <sequence f="9" d="300" />
+        </action>
+        <action id="@id/mouse4_8" repeat="true">
+            <sequence f="10" d="300" />
+        </action>
+        <action id="@id/mouse4_3" repeat="true">
+            <sequence f="11" d="300" />
+        </action>
+        <action id="@id/mouse4_2" repeat="true">
+            <sequence f="12" d="300" />
+        </action>
+        <action id="@id/mouse4_10" repeat="true">
+            <sequence f="13" d="300" />
+        </action>
+        <action id="@id/mouse4_5" repeat="true">
+            <sequence f="14" d="300" />
+        </action>
+        <action id="@id/mouse4_normal" repeat="true">
+            <sequence f="3" d="100" />
+            <sequence f="12" d="100" />
+            <sequence f="11" d="100" />
+            <sequence f="9" d="100" />
+            <sequence f="14" d="100" />
+        </action>
+        <action id="@id/mouse4_wink" next="@id/mouse4_normal">
+            <sequence f="14" d="50" />
+            <sequence f="6" d="50" />
+            <sequence f="1" d="50" />
+            <sequence f="10" d="50" />
+            <sequence f="1" d="50" />
+            <sequence f="6" d="50" />
+            <sequence f="14" d="50" />
+        </action>
+        <action id="@id/mouse4_boom" next="@id/mouse4_end">
+            <sequence f="0" d="50" />
+            <sequence f="13" d="50" />
+            <sequence f="8" d="50" />
+            <sequence f="4" d="50" />
+            <sequence f="2" d="50" />
+            <sequence f="5" d="50" />
+            <sequence f="7" d="50" />
+        </action>
+        <action id="@id/mouse4_end" repeat="true">
+            <sequence f="7" d="50" />
+        </action>
+    </actions>
+</DTileAnimation>

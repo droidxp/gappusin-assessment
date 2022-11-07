@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DTileAnimation texture="@drawable/blackflash" columns="1">
+    <modules>
+        <module h="800" w="480" x="0" y="0" cx="-240" cy="-400" />
+    </modules>
+    <actions>
+        <action id="@id/blackflash" repeat="true">
+            <sequence f="0" d="-1" />
+        </action>
+    </actions>
+</DTileAnimation>

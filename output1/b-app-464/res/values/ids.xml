@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="tv" />
+    <item type="id" name="down_pb" />
+    <item type="id" name="umeng_common_app" />
+    <item type="id" name="umeng_common_appIcon" />
+    <item type="id" name="umeng_common_progress_text" />
+    <item type="id" name="umeng_common_notification_controller" />
+    <item type="id" name="umeng_common_rich_notification_continue" />
+    <item type="id" name="umeng_common_rich_notification_cancel" />
+    <item type="id" name="umeng_common_notification" />
+    <item type="id" name="umeng_common_title" />
+    <item type="id" name="umeng_common_description" />
+    <item type="id" name="umeng_common_progress_bar" />
+</resources>

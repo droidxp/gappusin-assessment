@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DTileAnimation texture="@drawable/bar" columns="10">
+    <Modules>
+        <Module x="1" y="1" w="39" h="13" cx="-20" cy="-7" />
+        <Module x="43" y="1" w="39" h="13" cx="-20" cy="-7" />
+        <Module x="85" y="1" w="38" h="13" cx="-19" cy="-7" />
+        <Module x="126" y="1" w="360" h="41" cx="-180" cy="-21" />
+        <Module x="1" y="49" w="360" h="41" cx="-180" cy="-21" />
+        <Module x="1" y="97" w="360" h="41" cx="-180" cy="-21" />
+        <Module x="1" y="145" w="360" h="41" cx="-180" cy="-21" />
+        <Module x="1" y="193" w="360" h="41" cx="-180" cy="-21" />
+        <Module x="1" y="17" w="39" h="13" cx="-20" cy="-7" />
+        <Module x="43" y="17" w="39" h="13" cx="-20" cy="-7" />
+    </Modules>
+    <actions>
+        <action id="@id/level1" repeat="true">
+            <sequence f="0" d="300" />
+        </action>
+        <action id="@id/level2" repeat="true">
+            <sequence f="1" d="300" />
+        </action>
+        <action id="@id/level5" repeat="true">
+            <sequence f="2" d="300" />
+        </action>
+        <action id="@id/bar5" repeat="true">
+            <sequence f="3" d="300" />
+        </action>
+        <action id="@id/bar2" repeat="true">
+            <sequence f="4" d="300" />
+        </action>
+        <action id="@id/bar4" repeat="true">
+            <sequence f="5" d="300" />
+        </action>
+        <action id="@id/bar1" repeat="true">
+            <sequence f="6" d="300" />
+        </action>
+        <action id="@id/bar3" repeat="true">
+            <sequence f="7" d="300" />
+        </action>
+        <action id="@id/level4" repeat="true">
+            <sequence f="8" d="300" />
+        </action>
+        <action id="@id/level3" repeat="true">
+            <sequence f="9" d="300" />
+        </action>
+    </actions>
+</DTileAnimation>

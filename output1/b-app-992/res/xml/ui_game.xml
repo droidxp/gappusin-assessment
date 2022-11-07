@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Layout>
+    <Panel layout_width="480.0" layout_height="800.0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" id="@id/id_game_all">
+        <Image texture="@drawable/bg_shadow" layout_width="512.0" layout_height="1024.0" layout_anchorx="0.00" layout_anchory="0.0" layout_parentanchorx="0.00" layout_parentanchory="0.0" />
+        <Text id="@id/id_level_number" font="@drawable/a_gamelevelnumber1" maxlen="10" text="0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" layout_ry="373.0" layout_rx="23.0" scale="1.0" />
+        <Image texture="@drawable/ice_shadow" id="@id/id_ice_shadow" visible="false" layout_anchorx="0.00" layout_anchory="0.0" layout_parentanchorx="0.00" layout_parentanchory="0.0" />
+        <Animation id="@id/id_game_cheese_1" animation="@drawable/a_gameelement" action="@id/game_cheese" layout_anchorx="0.0" layout_anchory="0.0" layout_ry="-365.0" layout_rx="-205.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" />
+        <Animation id="@id/id_game_cheese_2" animation="@drawable/a_gameelement" action="@id/game_cheese" layout_anchorx="0.0" layout_anchory="0.0" layout_ry="-365.0" layout_rx="-155.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" />
+        <Animation id="@id/id_game_cheese_3" animation="@drawable/a_gameelement" action="@id/game_cheese" layout_anchorx="0.0" layout_anchory="0.0" layout_ry="-365.0" layout_rx="-105.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" />
+        <Animation animation="@drawable/a_gameelement" action="@id/score" layout_anchorx="0.0" layout_anchory="0.0" layout_ry="-310.0" layout_rx="-185.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" />
+        <Text id="@id/id_game_score" font="@drawable/a_gamescorenumber" maxlen="10" text="0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" layout_ry="-310.0" layout_rx="-115.0" scale="1.0" />
+        <Animation id="@id/id_cat_claw" visible="false" animation="@drawable/a_loading" action="@id/cat_claw" layout_anchorx="0.0" layout_anchory="0.0" layout_ry="270.0" layout_rx="125.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" />
+        <Image texture="@drawable/clickmousetext" id="@id/id_click_mouse_text" visible="false" layout_ry="40.0" layout_rx="0.0" layout_anchorx="0.00" layout_anchory="0.0" layout_parentanchorx="0.00" layout_parentanchory="0.0" />
+        <Image texture="@drawable/subtractlifetext" id="@id/id_subtract_life_text" visible="false" layout_ry="-260.0" layout_rx="0.0" layout_anchorx="0.00" layout_anchory="0.0" layout_parentanchorx="0.00" layout_parentanchory="0.0" />
+        <Button id="@id/id_pausebutton" animation="@drawable/a_gameelement" action="@id/pauseicon" layout_width="66.0" layout_height="72.0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" layout_rx="207.0" layout_ry="-364.0" />
+        <Animation id="@id/id_bottommouse" animation="@drawable/a_gameelement" action="@id/bottommouse" layout_anchorx="0.0" layout_anchory="0.0" layout_ry="475.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" />
+        <Animation id="@id/id_st_bottommouse" animation="@drawable/a_gameelement" action="@id/stbottommouse" layout_anchorx="0.0" layout_anchory="0.0" layout_ry="505.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" />
+        <Animation id="@id/id_cat" animation="@drawable/a_cat" action="@id/catlaugh1" layout_anchorx="0.0" layout_anchory="0.0" layout_ry="506.0" layout_rx="120.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" />
+        <Animation id="@id/id_st_cat" animation="@drawable/a_gameelement" action="@id/stcatlaugh1" layout_anchorx="0.0" layout_anchory="0.0" layout_ry="520.0" layout_rx="120.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" />
+        <Animation id="@id/black_flash" visible="false" animation="@drawable/a_blackflash" action="@id/blackflash" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" />
+        <MaskPanel id="@id/id_game_maskpanel" fill_screen="true" />
+    </Panel>
+    <Panel touch_mask="true" layout_ry="-800.0" layout_width="480.0" layout_height="800.0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" id="@id/id_pause_panel">
+        <Panel layout_width="480.0" layout_height="800.0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" id="@id/id_pause_shadow_panel">
+            <Image texture="@drawable/pause_shadow" layout_anchorx="0.00" layout_anchory="0.0" layout_parentanchorx="0.00" layout_parentanchory="0.0" />
+        </Panel>
+        <Panel layout_ry="-267.0" layout_width="480.0" layout_height="270.0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" id="@id/id_pause_menu_panel">
+            <Animation animation="@drawable/a_pauseelement" action="@id/pause_bg" layout_ry="-20.0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" />
+            <Button id="@id/id_pause_menu" layout_width="90.0" layout_height="91.0" animation="@drawable/a_pauseelement" action="@id/pause_menu" layout_ry="-20.0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" />
+            <Button id="@id/id_pause_replay" layout_width="90.0" layout_height="91.0" animation="@drawable/a_pauseelement" action="@id/pause_replay" layout_ry="-20.0" layout_rx="-160.0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" />
+            <Button id="@id/id_pause_sound" layout_width="90.0" layout_height="91.0" animation="@drawable/a_pauseelement" action="@id/pause_sound" layout_ry="-20.0" layout_rx="160.0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" />
+            <Button id="@id/id_pause_play" layout_width="90.0" layout_height="91.0" animation="@drawable/a_pauseelement" action="@id/pause_play" layout_ry="90.0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" />
+            <Text id="@id/id_game_level_number" font="@drawable/a_gamescorenumber" maxlen="10" text="1-25" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" layout_ry="-100.0" layout_rx="-160.0" scale="1.0" />
+        </Panel>
+    </Panel>
+    <Panel touch_mask="true" visible="false" layout_width="480.0" layout_height="800.0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" id="@id/id_all_level_complete_panel">
+        <Image texture="@drawable/pause_shadow" layout_anchorx="0.00" layout_anchory="0.0" layout_parentanchorx="0.00" layout_parentanchory="0.0" />
+        <Button id="@id/id_all_level_complete_button" animation="@drawable/a_alllevelcomplete" action="@id/allcomplete" layout_width="409.0" layout_height="348.0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" visible="true" />
+    </Panel>
+    <Panel touch_mask="true" visible="false" layout_width="480.0" layout_height="800.0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" id="@id/id_st_level_complete_panel">
+        <Image texture="@drawable/pause_shadow" layout_anchorx="0.00" layout_anchory="0.0" layout_parentanchorx="0.00" layout_parentanchory="0.0" />
+        <Button id="@id/id_st_level_complete_button" animation="@drawable/a_alllevelcomplete_st" action="@id/allcomplete_st" layout_width="409.0" layout_height="348.0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" visible="true" />
+    </Panel>
+    <Panel touch_mask="true" layout_ry="0.0" visible="false" layout_width="480.0" layout_height="800.0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" id="@id/id_complete_panel">
+        <Image texture="@drawable/pause_shadow" layout_anchorx="0.00" layout_anchory="0.0" layout_parentanchorx="0.00" layout_parentanchory="0.0" />
+        <Image texture="@drawable/complete_bg" layout_anchorx="0.00" layout_anchory="0.0" layout_parentanchorx="0.00" layout_parentanchory="0.0" />
+        <Animation animation="@drawable/a_completeelement" id="@id/passresult" action="@id/excellent" layout_ry="-230.0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" />
+        <Animation animation="@drawable/a_completeelement" id="@id/leftcheese" action="@id/yellowcheese" layout_ry="-120.0" layout_rx="-140.0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" />
+        <Animation animation="@drawable/a_completeelement" id="@id/middlecheese" action="@id/yellowcheese" layout_ry="-120.0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" />
+        <Animation animation="@drawable/a_completeelement" id="@id/rightcheese" action="@id/blackcheese" layout_ry="-120.0" layout_rx="140.0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" />
+        <Animation id="@id/id_finalscore_word" animation="@drawable/a_completeelement" action="@id/finalscore" layout_ry="-20.0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" />
+        <Animation animation="@drawable/a_completeelement" action="@id/pointbar" layout_ry="12.0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" />
+        <Text id="@id/id_final_score" font="@drawable/a_finalscorenumber" maxlen="10" text="0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" layout_ry="50.0" scale="1.0" />
+        <Animation animation="@drawable/a_completeelement" action="@id/newhighscore" id="@id/id_newhighscore" layout_ry="60.0" layout_rx="125.0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" />
+        <Animation animation="@drawable/a_completeelement" action="@id/best" id="@id/id_best" layout_ry="50.0" layout_rx="125.0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" />
+        <Text id="@id/id_best_score" font="@drawable/a_bestscorenumber" maxlen="10" text="0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" layout_ry="85.0" layout_rx="125.0" scale="1.0" />
+        <Button id="@id/id_complete_replay" layout_width="90.0" layout_height="91.0" animation="@drawable/a_pauseelement" action="@id/pause_replay" layout_ry="180.0" layout_rx="0.0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" />
+        <Button id="@id/id_complete_menu" layout_width="90.0" layout_height="91.0" animation="@drawable/a_pauseelement" action="@id/pause_menu" layout_ry="180.0" layout_rx="-150.0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" />
+        <Button id="@id/id_complete_next" layout_width="90.0" layout_height="91.0" animation="@drawable/a_completeelement" action="@id/nextbutton" layout_ry="180.0" layout_rx="150.0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" />
+        <Button animation="@drawable/a_mainmenu" action="@id/rate" layout_width="126.0" layout_height="82.0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" layout_rx="175.0" layout_ry="-347.0" layout_sx="0.7" layout_sy="0.7" id="@id/id_complete_panel_rate" visible="false" />
+    </Panel>
+</Layout>

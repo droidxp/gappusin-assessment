@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="center" android:orientation="vertical" android:background="@drawable/kkkwan_dialog_bg" android:layout_width="251.0dip" android:layout_height="wrap_content" android:layout_margin="30.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <TextView android:textSize="17.0sp" android:textColor="#ffffffff" android:id="@id/kkkwan_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="20.0dip" android:layout_marginBottom="10.0dip" android:text="@string/testText" />
+            <TextView android:textSize="15.0sp" android:textColor="#ffffffff" android:id="@id/kkkwan_content" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginRight="20.0dip" android:text="@string/testText" />
+        </LinearLayout>
+    </ScrollView>
+    <RelativeLayout android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="5.0dip" android:layout_marginBottom="10.0dip">
+        <Button android:id="@id/kkkwan_cancel" android:background="@drawable/kkkwan_cancel_btn" android:layout_width="110.0dip" android:layout_height="38.0dip" android:layout_alignParentLeft="true" />
+        <Button android:id="@id/kkkwan_buy" android:background="@drawable/kkkwan_buy_btn" android:layout_width="110.0dip" android:layout_height="38.0dip" android:layout_alignParentRight="true" />
+    </RelativeLayout>
+</LinearLayout>

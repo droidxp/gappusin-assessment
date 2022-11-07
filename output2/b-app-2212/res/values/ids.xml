@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="ad_splash_layout" />
+    <item type="id" name="btn_download" />
+    <item type="id" name="btn_more" />
+    <item type="id" name="btn_close" />
+    <item type="id" name="btn_more2" />
+    <item type="id" name="lv_score" />
+    <item type="id" name="ad" />
+    <item type="id" name="btn_back" />
+    <item type="id" name="img_order" />
+    <item type="id" name="txt_score" />
+    <item type="id" name="main_view" />
+    <item type="id" name="ad_middle" />
+    <item type="id" name="ad_bottom" />
+    <item type="id" name="btn_newgame" />
+    <item type="id" name="btn_resume" />
+    <item type="id" name="btn_option" />
+    <item type="id" name="btn_hiscore" />
+    <item type="id" name="btn_moregame" />
+    <item type="id" name="btn_exit" />
+    <item type="id" name="ad2" />
+    <item type="id" name="cb_music" />
+    <item type="id" name="cb_sound" />
+    <item type="id" name="cb_vibrate" />
+    <item type="id" name="btn_cancel" />
+    <item type="id" name="btn_save" />
+    <item type="id" name="lv" />
+    <item type="id" name="img_icon" />
+    <item type="id" name="tv_name" />
+</resources>

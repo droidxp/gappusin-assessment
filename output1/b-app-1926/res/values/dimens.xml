@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="wy_roundrect_radius">7.0dip</dimen>
+    <dimen name="wy_portrait_frame_size">46.0dip</dimen>
+</resources>

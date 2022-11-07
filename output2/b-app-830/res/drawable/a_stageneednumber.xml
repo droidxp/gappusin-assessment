@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Font texture="@drawable/stageneednumber" string="1234567890">
+    <Modules>
+        <Module h="36" w="17" x="0" y="0" />
+        <Module h="36" w="20" x="23" y="0" />
+        <Module h="36" w="21" x="47" y="0" />
+        <Module h="36" w="22" x="72" y="0" />
+        <Module h="36" w="21" x="98" y="0" />
+        <Module h="36" w="21" x="124" y="0" />
+        <Module h="36" w="18" x="149" y="0" />
+        <Module h="36" w="21" x="171" y="0" />
+        <Module h="36" w="21" x="197" y="0" />
+        <Module h="36" w="22" x="222" y="0" />
+    </Modules>
+</Font>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:background="#ffffffff" android:padding="0.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:background="#ff000000" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:id="@id/PayHeader" android:background="#ff65b67a" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <LinearLayout android:orientation="horizontal" android:id="@id/SRUpperContainer" android:background="#ffffffff" android:paddingLeft="15.0dip" android:paddingTop="5.0dip" android:paddingRight="15.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/PayHeader">
+            <ImageView android:id="@id/SROfferListItemImageView" android:layout_width="120.0dip" android:layout_height="60.0dip" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+            <TextView android:textSize="14.0dip" android:textStyle="bold" android:textColor="#ff20993f" android:gravity="center|left" android:id="@id/SROfferName" android:paddingLeft="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="60.0dip" android:layout_toRightOf="@id/SROfferListItemImageView" android:layout_centerInParent="true" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:background="#ffffffff" android:paddingLeft="15.0dip" android:paddingTop="5.0dip" android:paddingRight="15.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/SRUpperContainer">
+            <TextView android:textSize="10.0dip" android:textStyle="bold" android:textColor="#ff3d3d3d" android:gravity="center|left" android:id="@id/SROfferPaymentDescription" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="60.0dip" />
+            <TextView android:textSize="9.0sp" android:textColor="#ff3d3d3d" android:gravity="center|left" android:id="@id/SROfferPaymentRequirements" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="60.0dip" />
+            <TextView android:textSize="24.0sp" android:textColor="#ffffffff" android:gravity="center" android:id="@id/SROfferPaymentBuyButton" android:background="@drawable/sr_points_green_button" android:paddingLeft="20.0dip" android:paddingRight="20.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="test" />
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

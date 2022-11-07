@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/background" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/head_layout" />
+    <EditText android:id="@id/editTitle" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="请输入标题" android:singleLine="true" />
+    <EditText android:gravity="top" android:id="@id/editText" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:hint="请输入内容" android:singleLine="false" android:inputType="textMultiLine" />
+</LinearLayout>

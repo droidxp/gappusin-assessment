@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/rlt_main" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/linerlayout" android:background="@drawable/bg_menus" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:id="@id/linearLayout2" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="55.0" />
+        <LinearLayout android:orientation="horizontal" android:id="@id/linearLayout3" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="17.0">
+            <RelativeLayout android:id="@id/relativeLayout2" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="110.0">
+                <Button android:id="@id/btn_back" android:background="@drawable/btn_back_unpressed" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_alignParentBottom="true" />
+                <ImageView android:id="@id/iv_smoke" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="20.0dip" android:src="@drawable/smoke1" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+            </RelativeLayout>
+            <RelativeLayout android:id="@id/relativeLayout1" android:paddingLeft="20.0dip" android:paddingRight="20.0dip" android:paddingBottom="1.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="110.0">
+                <ScrollView android:id="@id/sv_levels" android:background="@drawable/bg_clipboard" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentLeft="true" android:layout_alignParentTop="true">
+                    <LinearLayout android:layout_gravity="center|top" android:orientation="vertical" android:id="@id/LinearLayout01" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" android:layout_marginTop="30.0dip" android:layout_marginRight="8.0dip" android:layout_marginBottom="10.0dip">
+                        <LinearLayout android:id="@id/linearLayout4" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                            <Button android:id="@id/btn_lvl_1" android:background="@drawable/bg_level" android:layout_width="wrap_content" android:layout_height="50.0dip" android:layout_weight="100.0" />
+                            <Button android:id="@id/btn_lvl_2" android:background="@drawable/bg_level" android:layout_width="wrap_content" android:layout_height="50.0dip" android:layout_marginLeft="5.0dip" android:layout_weight="100.0" />
+                            <Button android:id="@id/btn_lvl_3" android:background="@drawable/bg_level" android:layout_width="wrap_content" android:layout_height="50.0dip" android:layout_marginLeft="5.0dip" android:layout_weight="100.0" />
+                            <Button android:id="@id/btn_lvl_4" android:background="@drawable/bg_level" android:layout_width="wrap_content" android:layout_height="50.0dip" android:layout_marginLeft="5.0dip" android:layout_weight="100.0" />
+                        </LinearLayout>
+                        <LinearLayout android:id="@id/linearLayout5" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip">
+                            <Button android:id="@id/btn_lvl_5" android:background="@drawable/bg_level" android:layout_width="wrap_content" android:layout_height="50.0dip" android:layout_weight="100.0" />
+                            <Button android:id="@id/btn_lvl_6" android:background="@drawable/bg_level" android:layout_width="wrap_content" android:layout_height="50.0dip" android:layout_marginLeft="5.0dip" android:layout_weight="100.0" />
+                            <Button android:id="@id/btn_lvl_7" android:background="@drawable/bg_level" android:layout_width="wrap_content" android:layout_height="50.0dip" android:layout_marginLeft="5.0dip" android:layout_weight="100.0" />
+                            <Button android:id="@id/btn_lvl_8" android:background="@drawable/bg_level" android:layout_width="wrap_content" android:layout_height="50.0dip" android:layout_marginLeft="5.0dip" android:layout_weight="100.0" />
+                        </LinearLayout>
+                        <LinearLayout android:id="@id/linearLayout6" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip">
+                            <Button android:id="@id/btn_lvl_9" android:background="@drawable/bg_level" android:layout_width="wrap_content" android:layout_height="50.0dip" android:layout_weight="100.0" />
+                            <Button android:id="@id/btn_lvl_10" android:background="@drawable/bg_level" android:layout_width="wrap_content" android:layout_height="50.0dip" android:layout_marginLeft="5.0dip" android:layout_weight="100.0" />
+                            <Button android:id="@id/btn_lvl_11" android:background="@drawable/bg_level" android:layout_width="wrap_content" android:layout_height="50.0dip" android:layout_marginLeft="5.0dip" android:layout_weight="100.0" />
+                            <Button android:id="@id/btn_lvl_12" android:background="@drawable/bg_level" android:layout_width="wrap_content" android:layout_height="50.0dip" android:layout_marginLeft="5.0dip" android:layout_weight="100.0" />
+                        </LinearLayout>
+                    </LinearLayout>
+                </ScrollView>
+                <LinearLayout android:orientation="vertical" android:id="@id/lin_main_menu" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerInParent="true">
+                    <RelativeLayout android:id="@id/relativeLayout3" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="100.0">
+                        <Button android:id="@id/btn_play_game" android:background="@drawable/bg_menu_item" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="8.0dip" android:text="@string/play_game" android:layout_centerInParent="true" />
+                    </RelativeLayout>
+                    <RelativeLayout android:id="@id/relativeLayout4" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="100.0">
+                        <Button android:id="@id/btn_options" android:background="@drawable/bg_menu_item" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="8.0dip" android:text="@string/options" android:layout_centerInParent="true" />
+                    </RelativeLayout>
+                    <RelativeLayout android:id="@id/relativeLayout5" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="100.0">
+                        <Button android:id="@id/btn_rate_us" android:background="@drawable/bg_menu_item" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="8.0dip" android:text="@string/rate_us" android:layout_centerInParent="true" />
+                    </RelativeLayout>
+                    <RelativeLayout android:id="@id/relativeLayout6" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="100.0">
+                        <Button android:id="@id/btn_more_games" android:background="@drawable/bg_menu_item" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="8.0dip" android:text="@string/more_games" android:layout_centerInParent="true" />
+                    </RelativeLayout>
+                </LinearLayout>
+                <LinearLayout android:orientation="vertical" android:id="@id/lin_options" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_alignParentLeft="true" android:layout_alignParentTop="true">
+                    <RelativeLayout android:id="@id/RelativeLayout01" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="100.0">
+                        <Button android:id="@id/btn_sound" android:background="@drawable/bg_menu_item" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="8.0dip" android:text="@string/sound" android:layout_centerInParent="true" />
+                    </RelativeLayout>
+                    <RelativeLayout android:id="@id/RelativeLayout02" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="100.0">
+                        <Button android:id="@id/btn_music" android:background="@drawable/bg_menu_item" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="8.0dip" android:text="@string/music" android:layout_centerInParent="true" />
+                    </RelativeLayout>
+                    <RelativeLayout android:id="@id/RelativeLayout03" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="100.0">
+                        <Button android:id="@id/btn_vibration" android:background="@drawable/bg_menu_item" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="8.0dip" android:text="@string/vibration" android:layout_centerInParent="true" />
+                    </RelativeLayout>
+                </LinearLayout>
+                <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/linearLayout7" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                    <ScrollView android:layout_gravity="center_horizontal" android:id="@id/sv_episodes" android:background="@drawable/bg_clipboard" android:paddingTop="20.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true">
+                        <LinearLayout android:gravity="center" android:layout_gravity="center|top" android:orientation="vertical" android:id="@id/lin_episodes" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" android:layout_marginRight="8.0dip" android:layout_marginBottom="30.0dip">
+                            <Button android:id="@id/btn_episode_1" android:background="@drawable/bg_episode" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/episode_1" />
+                            <Button android:id="@id/btn_episode_2" android:background="@drawable/bg_episode" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/episode_2" />
+                            <Button android:id="@id/btn_episode_3" android:background="@drawable/bg_episode" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/episode_3" />
+                            <Button android:id="@id/btn_episode_4" android:background="@drawable/bg_episode" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/episode_4" />
+                            <Button android:id="@id/btn_episode_5" android:background="@drawable/bg_episode" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/episode_5" />
+                            <Button android:id="@id/btn_episode_6" android:background="@drawable/bg_episode" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/episode_6" />
+                            <Button android:id="@id/btn_episode_7" android:background="@drawable/bg_episode" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="Episode 7" />
+                            <Button android:id="@id/btn_episode_8" android:background="@drawable/bg_episode" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_marginBottom="5.0dip" android:text="Episode 8" />
+                            <Button android:id="@id/btn_episode_9" android:background="@drawable/bg_episode" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_marginBottom="5.0dip" android:text="Episode 9" />
+                        </LinearLayout>
+                    </ScrollView>
+                </LinearLayout>
+            </RelativeLayout>
+        </LinearLayout>
+        <LinearLayout android:id="@id/linearLayout1" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="60.0" />
+    </LinearLayout>
+    <RelativeLayout android:id="@id/ad" android:layout_width="wrap_content" android:layout_height="50.0dip" android:layout_marginLeft="20.0dip" android:layout_alignParentTop="true" android:layout_alignParentBottom="false" />
+</RelativeLayout>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="vpbutton" id="0x7f020001" />
+    <public type="drawable" name="vpbutton2" id="0x7f020002" />
+    <public type="drawable" name="vpbuttonball" id="0x7f020003" />
+    <public type="drawable" name="vpbuttonsound" id="0x7f020004" />
+    <public type="drawable" name="vpcrosskey" id="0x7f020005" />
+    <public type="drawable" name="vpmenubutton" id="0x7f020006" />
+    <public type="drawable" name="icon" id="0x7f020000" />
+    <public type="layout" name="main" id="0x7f030000" />
+    <public type="raw" name="bgm00" id="0x7f040000" />
+    <public type="raw" name="bgm01" id="0x7f040001" />
+    <public type="raw" name="bgm02" id="0x7f040002" />
+    <public type="raw" name="se00" id="0x7f040003" />
+    <public type="raw" name="se01" id="0x7f040004" />
+    <public type="raw" name="se02" id="0x7f040005" />
+    <public type="raw" name="se03" id="0x7f040006" />
+    <public type="raw" name="se04" id="0x7f040007" />
+    <public type="raw" name="se05" id="0x7f040008" />
+    <public type="raw" name="se06" id="0x7f040009" />
+    <public type="raw" name="se07" id="0x7f04000a" />
+    <public type="raw" name="se08" id="0x7f04000b" />
+    <public type="raw" name="se09" id="0x7f04000c" />
+    <public type="raw" name="se10" id="0x7f04000d" />
+    <public type="raw" name="se11" id="0x7f04000e" />
+    <public type="raw" name="se12" id="0x7f04000f" />
+    <public type="raw" name="se13" id="0x7f040010" />
+    <public type="raw" name="se14" id="0x7f040011" />
+    <public type="raw" name="se15" id="0x7f040012" />
+    <public type="raw" name="se16" id="0x7f040013" />
+    <public type="raw" name="se17" id="0x7f040014" />
+    <public type="raw" name="se18" id="0x7f040015" />
+    <public type="string" name="app_name" id="0x7f050000" />
+    <public type="string" name="menu_settings" id="0x7f050001" />
+    <public type="string" name="title_activity_pt_soccer_activiry" id="0x7f050002" />
+    <public type="style" name="AppTheme" id="0x7f060000" />
+    <public type="id" name="mainLayout" id="0x7f070000" />
+</resources>

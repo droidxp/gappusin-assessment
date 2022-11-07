@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:id="@id/rlt_main" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:id="@id/ll_progress_bar" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true">
+        <ProgressBar android:id="@id/progressBar1" android:layout_width="wrap_content" android:layout_height="wrap_content" style="?android:attr/progressBarStyleLarge" />
+        <TextView android:textAppearance="?android:textAppearanceLarge" android:layout_gravity="center" android:id="@id/textView1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:text="Loading Solution......" />
+    </LinearLayout>
+    <RelativeLayout android:gravity="center" android:id="@id/rl_solution_image" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:id="@id/img_Solutions" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:src="@drawable/bg_clipboard" android:layout_centerInParent="true" />
+        <Button android:id="@id/btn_close" android:background="@drawable/cross" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="-40.0dip" android:layout_marginTop="-10.0dip" android:layout_toRightOf="@id/img_Solutions" android:layout_alignTop="@id/img_Solutions" />
+    </RelativeLayout>
+</RelativeLayout>

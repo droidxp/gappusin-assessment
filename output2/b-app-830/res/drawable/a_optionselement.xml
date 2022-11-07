@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DTileAnimation texture="@drawable/optionselement" columns="6">
+    <Modules>
+        <Module x="1" y="1" w="313" h="74" cx="-157" cy="-37" />
+        <Module x="1" y="81" w="313" h="74" cx="-157" cy="-37" />
+        <Module x="1" y="161" w="313" h="74" cx="-157" cy="-37" />
+        <Module x="1" y="241" w="313" h="74" cx="-157" cy="-37" />
+        <Module x="1" y="321" w="313" h="74" cx="-157" cy="-37" />
+        <Module x="1" y="401" w="223" h="82" cx="-112" cy="-41" />
+    </Modules>
+    <actions>
+        <action id="@id/resetgame" repeat="true">
+            <sequence f="0" d="300" />
+        </action>
+        <action id="@id/soundoff" repeat="true">
+            <sequence f="1" d="300" />
+        </action>
+        <action id="@id/musicon" repeat="true">
+            <sequence f="2" d="300" />
+        </action>
+        <action id="@id/soundon" repeat="true">
+            <sequence f="3" d="300" />
+        </action>
+        <action id="@id/musicoff" repeat="true">
+            <sequence f="4" d="300" />
+        </action>
+        <action id="@id/optionsword" repeat="true">
+            <sequence f="5" d="300" />
+        </action>
+    </actions>
+</DTileAnimation>

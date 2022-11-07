@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DTileAnimation texture="@drawable/alllevelcomplete_st" columns="1">
+    <Modules>
+        <Module x="1" y="1" w="409" h="348" cx="-205" cy="-174" />
+    </Modules>
+    <actions>
+        <action id="@id/allcomplete_st" repeat="true">
+            <sequence f="0" d="300" />
+        </action>
+    </actions>
+</DTileAnimation>

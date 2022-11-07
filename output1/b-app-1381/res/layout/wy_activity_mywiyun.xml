@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="#ffc7c8c7" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="48.0dip">
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/wy_user_bar" android:background="@drawable/wy_user_bar_bg" android:layout_width="fill_parent" android:layout_height="45.0dip" android:layout_centerInParent="true">
+            <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+                <TextView android:id="@id/wy_text" android:paddingLeft="55.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" android:includeFontPadding="false" style="@android:style/TextAppearance.Medium" />
+                <TextView android:id="@id/wy_text2" android:paddingLeft="55.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" android:includeFontPadding="false" style="@android:style/TextAppearance.Small" />
+            </LinearLayout>
+            <View android:background="@drawable/wy_separator_style1" android:layout_width="2.0dip" android:layout_height="fill_parent" />
+            <TextView android:textColor="@android:color/white" android:id="@id/wy_text3" android:paddingLeft="5.0dip" android:paddingRight="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:drawableLeft="@drawable/wy_icon_wiyun_point" android:drawablePadding="2.0dip" style="@android:style/TextAppearance.Small" />
+        </LinearLayout>
+        <ImageView android:id="@id/wy_image" android:background="@drawable/wy_picture_frame" android:clickable="true" android:layout_width="48.0dip" android:layout_height="48.0dip" android:scaleType="center" android:layout_alignLeft="@id/wy_user_bar" android:layout_alignParentTop="true" android:layout_alignParentBottom="true" />
+    </RelativeLayout>
+    <ListView android:scrollbarThumbVertical="@drawable/wy_scrollbar_vertical_thumb_style2" android:id="@android:id/list" android:fadingEdge="none" android:layout_width="fill_parent" android:layout_height="0.0dip" android:cacheColorHint="#ffc7c8c7" android:divider="@drawable/wy_separator_style3" android:dividerHeight="2.0dip" android:layout_weight="1.0" />
+</LinearLayout>

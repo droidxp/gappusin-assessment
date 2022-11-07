@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@drawable/bkg_menu" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res">
+    <ImageView android:id="@id/btn_newgame" android:visibility="visible" android:layout_width="120.0dip" android:layout_height="35.0dip" android:layout_marginLeft="110.0dip" android:layout_marginTop="115.0dip" android:src="@drawable/btn_newgame" />
+    <ImageView android:id="@id/btn_resume" android:visibility="visible" android:layout_width="120.0dip" android:layout_height="35.0dip" android:layout_marginLeft="110.0dip" android:layout_marginTop="160.0dip" android:src="@drawable/btn_resume" />
+    <ImageView android:id="@id/btn_option" android:visibility="visible" android:layout_width="120.0dip" android:layout_height="35.0dip" android:layout_marginLeft="110.0dip" android:layout_marginTop="205.0dip" android:src="@drawable/btn_option" />
+    <ImageView android:id="@id/btn_hiscore" android:visibility="visible" android:layout_width="120.0dip" android:layout_height="35.0dip" android:layout_marginLeft="110.0dip" android:layout_marginTop="250.0dip" android:src="@drawable/btn_highscore" />
+    <ImageView android:id="@id/btn_moregame" android:visibility="visible" android:layout_width="120.0dip" android:layout_height="35.0dip" android:layout_marginLeft="110.0dip" android:layout_marginTop="295.0dip" android:src="@drawable/btn_moregame" />
+    <ImageView android:id="@id/btn_exit" android:visibility="visible" android:layout_width="120.0dip" android:layout_height="35.0dip" android:layout_marginLeft="110.0dip" android:layout_marginTop="340.0dip" android:src="@drawable/btn_exit" />
+    <com.admob.android.ads.AdView android:layout_gravity="center_horizontal" android:id="@id/ad2" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="50.0dip" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" app:backgroundColor="#000000" app:primaryTextColor="#FFFFFF" app:secondaryTextColor="#CCCCCC" app:refreshInterval="30" app:keywords="Android game application shopping music video" />
+</RelativeLayout>

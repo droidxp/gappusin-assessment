@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/rlt_main" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/linerlayout" android:background="@drawable/bg_menus" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:id="@id/linearLayout2" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="55.0" />
+        <LinearLayout android:orientation="horizontal" android:id="@id/linearLayout3" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="17.0">
+            <RelativeLayout android:id="@id/relativeLayout2" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="110.0">
+                <Button android:id="@id/btn_back" android:background="@drawable/btn_back_unpressed" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_alignParentBottom="true" />
+            </RelativeLayout>
+            <RelativeLayout android:id="@id/relativeLayout1" android:paddingLeft="20.0dip" android:paddingRight="20.0dip" android:paddingBottom="1.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="110.0">
+                <LinearLayout android:orientation="vertical" android:id="@id/lin_main_menu" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerInParent="true">
+                    <RelativeLayout android:id="@id/rlt_resume" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="100.0">
+                        <Button android:id="@id/btn_resume" android:background="@drawable/bg_menu_item" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="8.0dip" android:text="@string/resume" android:layout_centerInParent="true" />
+                    </RelativeLayout>
+                    <RelativeLayout android:id="@id/relativeLayout3" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="100.0">
+                        <Button android:id="@id/btn_try_again" android:background="@drawable/bg_menu_item" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="8.0dip" android:text="@string/try_again" android:layout_centerInParent="true" />
+                    </RelativeLayout>
+                    <RelativeLayout android:id="@id/relativeLayout4" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="100.0">
+                        <Button android:id="@id/btn_levels" android:background="@drawable/bg_menu_item" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="8.0dip" android:text="@string/levels" android:layout_centerInParent="true" />
+                    </RelativeLayout>
+                    <RelativeLayout android:id="@id/relativeLayout5" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="100.0">
+                        <Button android:id="@id/btn_skip_level" android:background="@drawable/bg_menu_item" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="8.0dip" android:text="@string/skip_level" android:layout_centerInParent="true" />
+                    </RelativeLayout>
+                </LinearLayout>
+            </RelativeLayout>
+        </LinearLayout>
+        <LinearLayout android:id="@id/linearLayout1" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="60.0" />
+    </LinearLayout>
+</RelativeLayout>

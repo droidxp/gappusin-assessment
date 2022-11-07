@@ -1,0 +1,8 @@
+public abstract class com.wiyun.engine.events.IMultiTouchHandler implements com.wiyun.engine.events.ITouchHandler {
+	 /* .source "IMultiTouchHandler.java" */
+	 /* # interfaces */
+	 /* # virtual methods */
+	 public abstract Boolean wyTouchesPointerBegan ( android.view.MotionEvent p0 ) {
+	 } // .end method
+	 public abstract Boolean wyTouchesPointerEnded ( android.view.MotionEvent p0 ) {
+	 } // .end method

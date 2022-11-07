@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:background="#ffffffff" android:layout_width="480.0dip" android:layout_height="300.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:id="@id/textView3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" />
+        <ImageView android:id="@id/imageView1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/mybrokenhearteasteregg2" android:layout_weight="1.0" />
+        <TextView android:id="@id/textView4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" />
+    </LinearLayout>
+    <ScrollView android:id="@id/scrollView1" android:layout_width="fill_parent" android:layout_height="192.0dip">
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textColor="#ff000000" android:gravity="center_horizontal" android:id="@id/textView1" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/iloveyou_a" />
+        </LinearLayout>
+    </ScrollView>
+    <Button android:id="@id/button1" android:layout_width="120.0dip" android:layout_height="48.0dip" android:layout_margin="6.0dip" android:text="close" />
+</LinearLayout>

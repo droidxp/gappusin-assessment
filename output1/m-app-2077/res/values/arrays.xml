@@ -1,0 +1,4277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="WAVE_LENGTH_Level1_Wave1">
+        <item>325</item>
+        <item>325</item>
+        <item>325</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level1_Wave2">
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level1_Wave3">
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level1_Wave4">
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level2_Wave1">
+        <item>325</item>
+        <item>325</item>
+        <item>325</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level2_Wave2">
+        <item>225</item>
+        <item>225</item>
+        <item>225</item>
+        <item>450</item>
+        <item>450</item>
+        <item>450</item>
+        <item>450</item>
+        <item>450</item>
+        <item>450</item>
+        <item>450</item>
+        <item>450</item>
+        <item>450</item>
+        <item>450</item>
+        <item>450</item>
+        <item>450</item>
+        <item>450</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level2_Wave3">
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level2_Wave4">
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level3_Wave1">
+        <item>325</item>
+        <item>325</item>
+        <item>325</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level3_Wave2">
+        <item>250</item>
+        <item>250</item>
+        <item>250</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level3_Wave3">
+        <item>150</item>
+        <item>150</item>
+        <item>150</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level3_Wave4">
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level4_Wave1">
+        <item>325</item>
+        <item>325</item>
+        <item>325</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level4_Wave2">
+        <item>250</item>
+        <item>250</item>
+        <item>250</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level4_Wave3">
+        <item>150</item>
+        <item>150</item>
+        <item>150</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level4_Wave4">
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level5_Wave1">
+        <item>375</item>
+        <item>375</item>
+        <item>375</item>
+        <item>750</item>
+        <item>750</item>
+        <item>750</item>
+        <item>750</item>
+        <item>750</item>
+        <item>750</item>
+        <item>750</item>
+        <item>750</item>
+        <item>750</item>
+        <item>750</item>
+        <item>750</item>
+        <item>750</item>
+        <item>750</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level5_Wave2">
+        <item>375</item>
+        <item>375</item>
+        <item>375</item>
+        <item>750</item>
+        <item>750</item>
+        <item>750</item>
+        <item>750</item>
+        <item>750</item>
+        <item>750</item>
+        <item>750</item>
+        <item>750</item>
+        <item>750</item>
+        <item>750</item>
+        <item>750</item>
+        <item>750</item>
+        <item>750</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level5_Wave3">
+        <item>350</item>
+        <item>350</item>
+        <item>350</item>
+        <item>700</item>
+        <item>700</item>
+        <item>700</item>
+        <item>700</item>
+        <item>700</item>
+        <item>700</item>
+        <item>700</item>
+        <item>700</item>
+        <item>700</item>
+        <item>700</item>
+        <item>700</item>
+        <item>700</item>
+        <item>700</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level5_Wave4">
+        <item>120</item>
+        <item>120</item>
+        <item>120</item>
+        <item>240</item>
+        <item>240</item>
+        <item>240</item>
+        <item>240</item>
+        <item>240</item>
+        <item>240</item>
+        <item>240</item>
+        <item>240</item>
+        <item>240</item>
+        <item>240</item>
+        <item>240</item>
+        <item>240</item>
+        <item>240</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level6_Wave1">
+        <item>275</item>
+        <item>275</item>
+        <item>275</item>
+        <item>550</item>
+        <item>550</item>
+        <item>550</item>
+        <item>550</item>
+        <item>550</item>
+        <item>550</item>
+        <item>550</item>
+        <item>550</item>
+        <item>550</item>
+        <item>550</item>
+        <item>550</item>
+        <item>550</item>
+        <item>550</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level6_Wave2">
+        <item>400</item>
+        <item>400</item>
+        <item>400</item>
+        <item>800</item>
+        <item>800</item>
+        <item>800</item>
+        <item>800</item>
+        <item>800</item>
+        <item>800</item>
+        <item>800</item>
+        <item>800</item>
+        <item>800</item>
+        <item>800</item>
+        <item>800</item>
+        <item>800</item>
+        <item>800</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level6_Wave3">
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level6_Wave4">
+        <item>1000</item>
+        <item>1000</item>
+        <item>1000</item>
+        <item>2000</item>
+        <item>2000</item>
+        <item>2000</item>
+        <item>2000</item>
+        <item>2000</item>
+        <item>2000</item>
+        <item>2000</item>
+        <item>2000</item>
+        <item>2000</item>
+        <item>2000</item>
+        <item>2000</item>
+        <item>2000</item>
+        <item>2000</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level7_Wave1">
+        <item>250</item>
+        <item>250</item>
+        <item>250</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level7_Wave2">
+        <item>400</item>
+        <item>400</item>
+        <item>400</item>
+        <item>800</item>
+        <item>800</item>
+        <item>800</item>
+        <item>800</item>
+        <item>800</item>
+        <item>800</item>
+        <item>800</item>
+        <item>800</item>
+        <item>800</item>
+        <item>800</item>
+        <item>800</item>
+        <item>800</item>
+        <item>800</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level7_Wave3">
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level7_Wave4">
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level8_Wave1">
+        <item>160</item>
+        <item>160</item>
+        <item>160</item>
+        <item>320</item>
+        <item>320</item>
+        <item>320</item>
+        <item>320</item>
+        <item>320</item>
+        <item>320</item>
+        <item>320</item>
+        <item>320</item>
+        <item>320</item>
+        <item>320</item>
+        <item>320</item>
+        <item>320</item>
+        <item>320</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level8_Wave2">
+        <item>225</item>
+        <item>225</item>
+        <item>225</item>
+        <item>450</item>
+        <item>450</item>
+        <item>450</item>
+        <item>450</item>
+        <item>450</item>
+        <item>450</item>
+        <item>450</item>
+        <item>450</item>
+        <item>450</item>
+        <item>450</item>
+        <item>450</item>
+        <item>450</item>
+        <item>450</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level8_Wave3">
+        <item>130</item>
+        <item>130</item>
+        <item>130</item>
+        <item>260</item>
+        <item>260</item>
+        <item>260</item>
+        <item>260</item>
+        <item>260</item>
+        <item>260</item>
+        <item>260</item>
+        <item>260</item>
+        <item>260</item>
+        <item>260</item>
+        <item>260</item>
+        <item>260</item>
+        <item>260</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level8_Wave4">
+        <item>275</item>
+        <item>275</item>
+        <item>275</item>
+        <item>550</item>
+        <item>550</item>
+        <item>550</item>
+        <item>550</item>
+        <item>550</item>
+        <item>550</item>
+        <item>550</item>
+        <item>550</item>
+        <item>550</item>
+        <item>550</item>
+        <item>550</item>
+        <item>550</item>
+        <item>550</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level9_Wave1">
+        <item>160</item>
+        <item>160</item>
+        <item>160</item>
+        <item>320</item>
+        <item>320</item>
+        <item>320</item>
+        <item>320</item>
+        <item>320</item>
+        <item>320</item>
+        <item>320</item>
+        <item>320</item>
+        <item>320</item>
+        <item>320</item>
+        <item>320</item>
+        <item>320</item>
+        <item>320</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level9_Wave2">
+        <item>150</item>
+        <item>150</item>
+        <item>150</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level9_Wave3">
+        <item>700</item>
+        <item>700</item>
+        <item>700</item>
+        <item>1400</item>
+        <item>1400</item>
+        <item>1400</item>
+        <item>1400</item>
+        <item>1400</item>
+        <item>1400</item>
+        <item>1400</item>
+        <item>1400</item>
+        <item>1400</item>
+        <item>1400</item>
+        <item>1400</item>
+        <item>1400</item>
+        <item>1400</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level9_Wave4">
+        <item>585</item>
+        <item>585</item>
+        <item>585</item>
+        <item>1170</item>
+        <item>1170</item>
+        <item>1170</item>
+        <item>1170</item>
+        <item>1170</item>
+        <item>1170</item>
+        <item>1170</item>
+        <item>1170</item>
+        <item>1170</item>
+        <item>1170</item>
+        <item>1170</item>
+        <item>1170</item>
+        <item>1170</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level10_Wave1">
+        <item>250</item>
+        <item>250</item>
+        <item>250</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level10_Wave2">
+        <item>250</item>
+        <item>250</item>
+        <item>250</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level10_Wave3">
+        <item>150</item>
+        <item>150</item>
+        <item>150</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level10_Wave4">
+        <item>250</item>
+        <item>250</item>
+        <item>250</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level11_Wave1">
+        <item>325</item>
+        <item>325</item>
+        <item>325</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level11_Wave2">
+        <item>250</item>
+        <item>250</item>
+        <item>250</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level11_Wave3">
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level11_Wave4">
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level12_Wave1">
+        <item>325</item>
+        <item>325</item>
+        <item>325</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level12_Wave2">
+        <item>225</item>
+        <item>225</item>
+        <item>225</item>
+        <item>450</item>
+        <item>450</item>
+        <item>450</item>
+        <item>450</item>
+        <item>450</item>
+        <item>450</item>
+        <item>450</item>
+        <item>450</item>
+        <item>450</item>
+        <item>450</item>
+        <item>450</item>
+        <item>450</item>
+        <item>450</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level12_Wave3">
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level12_Wave4">
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level13_Wave1">
+        <item>350</item>
+        <item>350</item>
+        <item>350</item>
+        <item>700</item>
+        <item>700</item>
+        <item>700</item>
+        <item>700</item>
+        <item>700</item>
+        <item>700</item>
+        <item>700</item>
+        <item>700</item>
+        <item>700</item>
+        <item>700</item>
+        <item>700</item>
+        <item>700</item>
+        <item>700</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level13_Wave2">
+        <item>250</item>
+        <item>250</item>
+        <item>250</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level13_Wave3">
+        <item>150</item>
+        <item>150</item>
+        <item>150</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level13_Wave4">
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level14_Wave1">
+        <item>325</item>
+        <item>325</item>
+        <item>325</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level14_Wave2">
+        <item>250</item>
+        <item>250</item>
+        <item>250</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level14_Wave3">
+        <item>150</item>
+        <item>150</item>
+        <item>150</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level14_Wave4">
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level15_Wave1">
+        <item>325</item>
+        <item>325</item>
+        <item>325</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+        <item>650</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level15_Wave2">
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>400</item>
+        <item>400</item>
+        <item>400</item>
+        <item>400</item>
+        <item>400</item>
+        <item>400</item>
+        <item>400</item>
+        <item>400</item>
+        <item>400</item>
+        <item>400</item>
+        <item>400</item>
+        <item>400</item>
+        <item>400</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level15_Wave3">
+        <item>50</item>
+        <item>50</item>
+        <item>50</item>
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level15_Wave4">
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level16_Wave1">
+        <item>275</item>
+        <item>275</item>
+        <item>275</item>
+        <item>550</item>
+        <item>550</item>
+        <item>550</item>
+        <item>550</item>
+        <item>550</item>
+        <item>550</item>
+        <item>550</item>
+        <item>550</item>
+        <item>550</item>
+        <item>550</item>
+        <item>550</item>
+        <item>550</item>
+        <item>550</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level16_Wave2">
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>1000</item>
+        <item>1000</item>
+        <item>1000</item>
+        <item>1000</item>
+        <item>1000</item>
+        <item>1000</item>
+        <item>1000</item>
+        <item>1000</item>
+        <item>1000</item>
+        <item>1000</item>
+        <item>1000</item>
+        <item>1000</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level16_Wave3">
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level16_Wave4">
+        <item>1000</item>
+        <item>1000</item>
+        <item>1000</item>
+        <item>2000</item>
+        <item>2000</item>
+        <item>2000</item>
+        <item>2000</item>
+        <item>2000</item>
+        <item>2000</item>
+        <item>2000</item>
+        <item>2000</item>
+        <item>2000</item>
+        <item>2000</item>
+        <item>2000</item>
+        <item>2000</item>
+        <item>2000</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level17_Wave1">
+        <item>250</item>
+        <item>250</item>
+        <item>250</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level17_Wave2">
+        <item>150</item>
+        <item>150</item>
+        <item>150</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level17_Wave3">
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level17_Wave4">
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level18_Wave1">
+        <item>310</item>
+        <item>310</item>
+        <item>310</item>
+        <item>620</item>
+        <item>620</item>
+        <item>620</item>
+        <item>620</item>
+        <item>620</item>
+        <item>620</item>
+        <item>620</item>
+        <item>620</item>
+        <item>620</item>
+        <item>620</item>
+        <item>620</item>
+        <item>620</item>
+        <item>620</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level18_Wave2">
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>400</item>
+        <item>400</item>
+        <item>400</item>
+        <item>400</item>
+        <item>400</item>
+        <item>400</item>
+        <item>400</item>
+        <item>400</item>
+        <item>400</item>
+        <item>400</item>
+        <item>400</item>
+        <item>400</item>
+        <item>400</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level18_Wave3">
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level18_Wave4">
+        <item>150</item>
+        <item>150</item>
+        <item>150</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level19_Wave1">
+        <item>160</item>
+        <item>160</item>
+        <item>160</item>
+        <item>320</item>
+        <item>320</item>
+        <item>320</item>
+        <item>320</item>
+        <item>320</item>
+        <item>320</item>
+        <item>320</item>
+        <item>320</item>
+        <item>320</item>
+        <item>320</item>
+        <item>320</item>
+        <item>320</item>
+        <item>320</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level19_Wave2">
+        <item>170</item>
+        <item>170</item>
+        <item>170</item>
+        <item>340</item>
+        <item>340</item>
+        <item>340</item>
+        <item>340</item>
+        <item>340</item>
+        <item>340</item>
+        <item>340</item>
+        <item>340</item>
+        <item>340</item>
+        <item>340</item>
+        <item>340</item>
+        <item>340</item>
+        <item>340</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level19_Wave3">
+        <item>2000</item>
+        <item>2000</item>
+        <item>2000</item>
+        <item>4000</item>
+        <item>4000</item>
+        <item>4000</item>
+        <item>4000</item>
+        <item>4000</item>
+        <item>4000</item>
+        <item>4000</item>
+        <item>4000</item>
+        <item>4000</item>
+        <item>4000</item>
+        <item>4000</item>
+        <item>4000</item>
+        <item>4000</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level19_Wave4">
+        <item>400</item>
+        <item>400</item>
+        <item>400</item>
+        <item>800</item>
+        <item>800</item>
+        <item>800</item>
+        <item>800</item>
+        <item>800</item>
+        <item>800</item>
+        <item>800</item>
+        <item>800</item>
+        <item>800</item>
+        <item>800</item>
+        <item>800</item>
+        <item>800</item>
+        <item>800</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level20_Wave1">
+        <item>250</item>
+        <item>250</item>
+        <item>250</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level20_Wave2">
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+        <item>600</item>
+        <item>600</item>
+        <item>600</item>
+        <item>600</item>
+        <item>600</item>
+        <item>600</item>
+        <item>600</item>
+        <item>600</item>
+        <item>600</item>
+        <item>600</item>
+        <item>600</item>
+        <item>600</item>
+        <item>600</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level20_Wave3">
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>400</item>
+        <item>400</item>
+        <item>400</item>
+        <item>400</item>
+        <item>400</item>
+        <item>400</item>
+        <item>400</item>
+        <item>400</item>
+        <item>400</item>
+        <item>400</item>
+        <item>400</item>
+        <item>400</item>
+        <item>400</item>
+    </integer-array>
+    <integer-array name="WAVE_LENGTH_Level20_Wave4">
+        <item>2000</item>
+        <item>2000</item>
+        <item>2000</item>
+        <item>4000</item>
+        <item>4000</item>
+        <item>4000</item>
+        <item>4000</item>
+        <item>4000</item>
+        <item>4000</item>
+        <item>4000</item>
+        <item>4000</item>
+        <item>4000</item>
+        <item>4000</item>
+        <item>4000</item>
+        <item>4000</item>
+        <item>4000</item>
+    </integer-array>
+    <integer-array name="CURVE_OFFSET_L1">
+        <item>150</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="CURVE_OFFSET_L2">
+        <item>150</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="CURVE_OFFSET_L3">
+        <item>150</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="CURVE_OFFSET_L4">
+        <item>150</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="CURVE_OFFSET_L5">
+        <item>150</item>
+        <item>10</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="CURVE_OFFSET_L6">
+        <item>150</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="CURVE_OFFSET_L7">
+        <item>150</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="CURVE_OFFSET_L8">
+        <item>150</item>
+        <item>0</item>
+        <item>-10</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="CURVE_OFFSET_L9">
+        <item>150</item>
+        <item>0</item>
+        <item>0</item>
+        <item>-10</item>
+    </integer-array>
+    <integer-array name="CURVE_OFFSET_L10">
+        <item>150</item>
+        <item>0</item>
+        <item>0</item>
+        <item>-10</item>
+    </integer-array>
+    <integer-array name="CURVE_OFFSET_L11">
+        <item>150</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="CURVE_OFFSET_L12">
+        <item>150</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="CURVE_OFFSET_L13">
+        <item>150</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="CURVE_OFFSET_L14">
+        <item>150</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="CURVE_OFFSET_L15">
+        <item>150</item>
+        <item>10</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="CURVE_OFFSET_L16">
+        <item>150</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="CURVE_OFFSET_L17">
+        <item>150</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="CURVE_OFFSET_L18">
+        <item>150</item>
+        <item>0</item>
+        <item>-10</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="CURVE_OFFSET_L19">
+        <item>150</item>
+        <item>0</item>
+        <item>0</item>
+        <item>-10</item>
+    </integer-array>
+    <integer-array name="CURVE_OFFSET_L20">
+        <item>150</item>
+        <item>0</item>
+        <item>0</item>
+        <item>-10</item>
+    </integer-array>
+    <integer-array name="CURVE_AMP_L1">
+        <item>60</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="CURVE_AMP_L2">
+        <item>60</item>
+        <item>20</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="CURVE_AMP_L3">
+        <item>60</item>
+        <item>20</item>
+        <item>10</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="CURVE_AMP_L4">
+        <item>40</item>
+        <item>40</item>
+        <item>10</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="CURVE_AMP_L5">
+        <item>10</item>
+        <item>30</item>
+        <item>20</item>
+        <item>25</item>
+    </integer-array>
+    <integer-array name="CURVE_AMP_L6">
+        <item>30</item>
+        <item>30</item>
+        <item>0</item>
+        <item>-30</item>
+    </integer-array>
+    <integer-array name="CURVE_AMP_L7">
+        <item>60</item>
+        <item>10</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="CURVE_AMP_L8">
+        <item>32</item>
+        <item>34</item>
+        <item>25</item>
+        <item>20</item>
+    </integer-array>
+    <integer-array name="CURVE_AMP_L9">
+        <item>32</item>
+        <item>34</item>
+        <item>45</item>
+        <item>10</item>
+    </integer-array>
+    <integer-array name="CURVE_AMP_L10">
+        <item>10</item>
+        <item>24</item>
+        <item>50</item>
+        <item>60</item>
+    </integer-array>
+    <integer-array name="CURVE_AMP_L11">
+        <item>50</item>
+        <item>20</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="CURVE_AMP_L12">
+        <item>60</item>
+        <item>20</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="CURVE_AMP_L13">
+        <item>50</item>
+        <item>20</item>
+        <item>10</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="CURVE_AMP_L14">
+        <item>40</item>
+        <item>40</item>
+        <item>10</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="CURVE_AMP_L15">
+        <item>40</item>
+        <item>20</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="CURVE_AMP_L16">
+        <item>20</item>
+        <item>30</item>
+        <item>0</item>
+        <item>-50</item>
+    </integer-array>
+    <integer-array name="CURVE_AMP_L17">
+        <item>50</item>
+        <item>10</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="CURVE_AMP_L18">
+        <item>62</item>
+        <item>40</item>
+        <item>0</item>
+        <item>30</item>
+    </integer-array>
+    <integer-array name="CURVE_AMP_L19">
+        <item>32</item>
+        <item>34</item>
+        <item>40</item>
+        <item>40</item>
+    </integer-array>
+    <integer-array name="CURVE_AMP_L20">
+        <item>10</item>
+        <item>30</item>
+        <item>30</item>
+        <item>40</item>
+    </integer-array>
+    <integer-array name="PHASE_SHIFT_L1">
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+    </integer-array>
+    <integer-array name="PHASE_SHIFT_L2">
+        <item>3</item>
+        <item>83</item>
+        <item>3</item>
+        <item>3</item>
+    </integer-array>
+    <integer-array name="PHASE_SHIFT_L3">
+        <item>44</item>
+        <item>44</item>
+        <item>64</item>
+        <item>44</item>
+    </integer-array>
+    <integer-array name="PHASE_SHIFT_L4">
+        <item>38</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+    </integer-array>
+    <integer-array name="PHASE_SHIFT_L5">
+        <item>12</item>
+        <item>32</item>
+        <item>12</item>
+        <item>12</item>
+    </integer-array>
+    <integer-array name="PHASE_SHIFT_L6">
+        <item>20</item>
+        <item>-70</item>
+        <item>-100</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="PHASE_SHIFT_L7">
+        <item>10</item>
+        <item>30</item>
+        <item>10</item>
+        <item>10</item>
+    </integer-array>
+    <integer-array name="PHASE_SHIFT_L8">
+        <item>0</item>
+        <item>20</item>
+        <item>35</item>
+        <item>50</item>
+    </integer-array>
+    <integer-array name="PHASE_SHIFT_L9">
+        <item>3</item>
+        <item>180</item>
+        <item>364</item>
+        <item>20</item>
+    </integer-array>
+    <integer-array name="PHASE_SHIFT_L10">
+        <item>15</item>
+        <item>95</item>
+        <item>58</item>
+        <item>25</item>
+    </integer-array>
+    <integer-array name="PHASE_SHIFT_L11">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="PHASE_SHIFT_L12">
+        <item>0</item>
+        <item>80</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="PHASE_SHIFT_L13">
+        <item>0</item>
+        <item>30</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="PHASE_SHIFT_L14">
+        <item>10</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="PHASE_SHIFT_L15">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="PHASE_SHIFT_L16">
+        <item>0</item>
+        <item>-50</item>
+        <item>-100</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="PHASE_SHIFT_L17">
+        <item>0</item>
+        <item>20</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="PHASE_SHIFT_L18">
+        <item>0</item>
+        <item>20</item>
+        <item>20</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="PHASE_SHIFT_L19">
+        <item>0</item>
+        <item>180</item>
+        <item>0</item>
+        <item>20</item>
+    </integer-array>
+    <integer-array name="PHASE_SHIFT_L20">
+        <item>0</item>
+        <item>50</item>
+        <item>43</item>
+        <item>40</item>
+    </integer-array>
+    <integer-array name="TinyBeeView_CFG_score_x">
+        <item>12</item>
+        <item>12</item>
+        <item>14</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+    </integer-array>
+    <integer-array name="TinyBeeView_CFG_score_y">
+        <item>12</item>
+        <item>12</item>
+        <item>14</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+    </integer-array>
+    <integer-array name="TinyBeeView_CFG_list_top">
+        <item>108</item>
+        <item>108</item>
+        <item>160</item>
+        <item>220</item>
+        <item>220</item>
+        <item>220</item>
+        <item>220</item>
+        <item>240</item>
+        <item>240</item>
+        <item>240</item>
+        <item>250</item>
+        <item>250</item>
+        <item>250</item>
+        <item>250</item>
+        <item>250</item>
+        <item>250</item>
+    </integer-array>
+    <integer-array name="TinyBeeView_CFG_list_spacing">
+        <item>16</item>
+        <item>16</item>
+        <item>20</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+    </integer-array>
+    <integer-array name="TinyBeeView_CFG_font_large">
+        <item>16</item>
+        <item>16</item>
+        <item>20</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>40</item>
+        <item>40</item>
+        <item>40</item>
+    </integer-array>
+    <integer-array name="TinyBeeView_CFG_font_medium">
+        <item>12</item>
+        <item>12</item>
+        <item>16</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+    </integer-array>
+    <integer-array name="TinyBeeView_CFG_font_small">
+        <item>10</item>
+        <item>10</item>
+        <item>14</item>
+        <item>22</item>
+        <item>22</item>
+        <item>22</item>
+        <item>22</item>
+        <item>22</item>
+        <item>22</item>
+        <item>22</item>
+        <item>22</item>
+        <item>22</item>
+        <item>22</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+    </integer-array>
+    <integer-array name="TinyBeeView_CFG_camera_space">
+        <item>40</item>
+        <item>40</item>
+        <item>40</item>
+        <item>70</item>
+        <item>70</item>
+        <item>70</item>
+        <item>70</item>
+        <item>70</item>
+        <item>70</item>
+        <item>70</item>
+        <item>70</item>
+        <item>70</item>
+        <item>70</item>
+        <item>70</item>
+        <item>70</item>
+        <item>70</item>
+    </integer-array>
+    <integer-array name="CreditsView_CFG_font_large">
+        <item>18</item>
+        <item>18</item>
+        <item>24</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>52</item>
+        <item>52</item>
+        <item>52</item>
+    </integer-array>
+    <integer-array name="CreditsView_CFG_font_medium">
+        <item>15</item>
+        <item>15</item>
+        <item>20</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>44</item>
+        <item>44</item>
+        <item>44</item>
+    </integer-array>
+    <integer-array name="CreditsView_CFG_font_small">
+        <item>12</item>
+        <item>12</item>
+        <item>16</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>36</item>
+        <item>36</item>
+        <item>36</item>
+    </integer-array>
+    <integer-array name="CreditsView_CFG_text_item_spacing">
+        <item>18</item>
+        <item>18</item>
+        <item>24</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>60</item>
+        <item>60</item>
+        <item>60</item>
+    </integer-array>
+    <integer-array name="ShopView_CFG_font_size">
+        <item>16</item>
+        <item>16</item>
+        <item>20</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>40</item>
+        <item>40</item>
+        <item>40</item>
+    </integer-array>
+    <integer-array name="ScoresView_CFG_font_medium">
+        <item>11</item>
+        <item>11</item>
+        <item>16</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+    </integer-array>
+    <integer-array name="ScoresView_CFG_font_large">
+        <item>14</item>
+        <item>14</item>
+        <item>20</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>40</item>
+        <item>40</item>
+        <item>40</item>
+    </integer-array>
+    <integer-array name="ScoresView_CFG_menu_top">
+        <item>56</item>
+        <item>56</item>
+        <item>80</item>
+        <item>80</item>
+        <item>80</item>
+        <item>80</item>
+        <item>80</item>
+        <item>80</item>
+        <item>80</item>
+        <item>80</item>
+        <item>80</item>
+        <item>80</item>
+        <item>80</item>
+        <item>160</item>
+        <item>160</item>
+        <item>160</item>
+    </integer-array>
+    <integer-array name="ScoresView_CFG_list_top">
+        <item>52</item>
+        <item>52</item>
+        <item>60</item>
+        <item>100</item>
+        <item>100</item>
+        <item>128</item>
+        <item>100</item>
+        <item>112</item>
+        <item>128</item>
+        <item>128</item>
+        <item>128</item>
+        <item>128</item>
+        <item>128</item>
+        <item>144</item>
+        <item>144</item>
+        <item>144</item>
+    </integer-array>
+    <integer-array name="ScoresView_CFG_list_font_dif">
+        <item>14</item>
+        <item>14</item>
+        <item>16</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>36</item>
+        <item>36</item>
+        <item>36</item>
+    </integer-array>
+    <integer-array name="ScoresView_CFG_list_spacing">
+        <item>22</item>
+        <item>22</item>
+        <item>40</item>
+        <item>40</item>
+        <item>40</item>
+        <item>40</item>
+        <item>40</item>
+        <item>40</item>
+        <item>40</item>
+        <item>40</item>
+        <item>40</item>
+        <item>40</item>
+        <item>40</item>
+        <item>48</item>
+        <item>48</item>
+        <item>48</item>
+    </integer-array>
+    <integer-array name="ScoresView_CFG_multiplier_bar_y">
+        <item>154</item>
+        <item>168</item>
+        <item>208</item>
+        <item>320</item>
+        <item>320</item>
+        <item>320</item>
+        <item>320</item>
+        <item>320</item>
+        <item>320</item>
+        <item>352</item>
+        <item>352</item>
+        <item>340</item>
+        <item>368</item>
+        <item>420</item>
+        <item>420</item>
+        <item>420</item>
+    </integer-array>
+    <integer-array name="ScoresView_CFG_list_spacing_SCORES">
+        <item>26</item>
+        <item>26</item>
+        <item>28</item>
+        <item>40</item>
+        <item>40</item>
+        <item>40</item>
+        <item>40</item>
+        <item>40</item>
+        <item>44</item>
+        <item>44</item>
+        <item>44</item>
+        <item>44</item>
+        <item>44</item>
+        <item>48</item>
+        <item>48</item>
+        <item>48</item>
+    </integer-array>
+    <integer-array name="ScoresView_CFG_list_spacing_STATS">
+        <item>26</item>
+        <item>26</item>
+        <item>28</item>
+        <item>40</item>
+        <item>40</item>
+        <item>40</item>
+        <item>40</item>
+        <item>44</item>
+        <item>44</item>
+        <item>44</item>
+        <item>48</item>
+        <item>48</item>
+        <item>54</item>
+        <item>54</item>
+        <item>54</item>
+        <item>54</item>
+    </integer-array>
+    <integer-array name="ScoresView_CFG_list_spacing_TASKS">
+        <item>26</item>
+        <item>26</item>
+        <item>28</item>
+        <item>40</item>
+        <item>40</item>
+        <item>48</item>
+        <item>40</item>
+        <item>44</item>
+        <item>48</item>
+        <item>48</item>
+        <item>48</item>
+        <item>48</item>
+        <item>58</item>
+        <item>58</item>
+        <item>58</item>
+        <item>58</item>
+    </integer-array>
+    <integer-array name="HelpView_CFG_font_medium">
+        <item>11</item>
+        <item>11</item>
+        <item>16</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+    </integer-array>
+    <integer-array name="HelpView_CFG_font_large">
+        <item>14</item>
+        <item>14</item>
+        <item>20</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>40</item>
+        <item>40</item>
+        <item>40</item>
+    </integer-array>
+    <integer-array name="HelpView_CFG_menu_top">
+        <item>56</item>
+        <item>56</item>
+        <item>80</item>
+        <item>80</item>
+        <item>80</item>
+        <item>80</item>
+        <item>80</item>
+        <item>80</item>
+        <item>80</item>
+        <item>80</item>
+        <item>80</item>
+        <item>80</item>
+        <item>80</item>
+        <item>96</item>
+        <item>96</item>
+        <item>96</item>
+    </integer-array>
+    <integer-array name="HelpView_CFG_list_top">
+        <item>52</item>
+        <item>52</item>
+        <item>60</item>
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>128</item>
+        <item>128</item>
+        <item>128</item>
+    </integer-array>
+    <integer-array name="HelpView_CFG_list_font_dif">
+        <item>12</item>
+        <item>12</item>
+        <item>16</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>36</item>
+        <item>36</item>
+        <item>36</item>
+    </integer-array>
+    <integer-array name="HelpView_CFG_list_spacing_CONTROLS">
+        <item>16</item>
+        <item>16</item>
+        <item>22</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>36</item>
+        <item>36</item>
+        <item>36</item>
+    </integer-array>
+    <integer-array name="HelpView_CFG_list_spacing_ITEMS">
+        <item>28</item>
+        <item>28</item>
+        <item>40</item>
+        <item>64</item>
+        <item>64</item>
+        <item>64</item>
+        <item>64</item>
+        <item>64</item>
+        <item>64</item>
+        <item>64</item>
+        <item>64</item>
+        <item>64</item>
+        <item>64</item>
+        <item>80</item>
+        <item>80</item>
+        <item>80</item>
+    </integer-array>
+    <integer-array name="HelpView_CFG_list_spacing_AIMS">
+        <item>16</item>
+        <item>16</item>
+        <item>22</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>36</item>
+        <item>36</item>
+        <item>36</item>
+    </integer-array>
+    <integer-array name="hivex_software">
+        <item>-102</item>
+        <item>-102</item>
+        <item>-100</item>
+        <item>-198</item>
+        <item>-198</item>
+        <item>-198</item>
+        <item>-198</item>
+        <item>-204</item>
+        <item>-142</item>
+        <item>-192</item>
+        <item>-192</item>
+        <item>-192</item>
+        <item>-192</item>
+        <item>-192</item>
+        <item>-192</item>
+        <item>-192</item>
+    </integer-array>
+    <integer-array name="hivey_software">
+        <item>-94</item>
+        <item>-94</item>
+        <item>-106</item>
+        <item>-178</item>
+        <item>-178</item>
+        <item>-212</item>
+        <item>-178</item>
+        <item>-178</item>
+        <item>-134</item>
+        <item>-210</item>
+        <item>-218</item>
+        <item>-210</item>
+        <item>-210</item>
+        <item>-210</item>
+        <item>-210</item>
+        <item>-210</item>
+    </integer-array>
+    <integer-array name="hivex_hardware">
+        <item>-50</item>
+        <item>-50</item>
+        <item>-48</item>
+        <item>-116</item>
+        <item>-116</item>
+        <item>-116</item>
+        <item>-116</item>
+        <item>-116</item>
+        <item>-108</item>
+        <item>-108</item>
+        <item>-112</item>
+        <item>-114</item>
+        <item>-116</item>
+        <item>-108</item>
+        <item>-108</item>
+        <item>-108</item>
+    </integer-array>
+    <integer-array name="hivey_hardware">
+        <item>-88</item>
+        <item>-88</item>
+        <item>-102</item>
+        <item>-182</item>
+        <item>-182</item>
+        <item>-222</item>
+        <item>-188</item>
+        <item>-182</item>
+        <item>-216</item>
+        <item>-212</item>
+        <item>-216</item>
+        <item>-216</item>
+        <item>-216</item>
+        <item>-212</item>
+        <item>-212</item>
+        <item>-212</item>
+    </integer-array>
+    <string-array name="wave_scale_factor">
+        <item>0.5</item>
+        <item>0.5</item>
+        <item>0.5</item>
+        <item>1.0</item>
+        <item>1.0</item>
+        <item>1.0</item>
+        <item>1.0</item>
+        <item>1.0</item>
+        <item>1.0</item>
+        <item>1.0</item>
+        <item>1.0</item>
+        <item>1.0</item>
+        <item>1.0</item>
+        <item>1.0</item>
+        <item>1.0</item>
+        <item>1.0</item>
+    </string-array>
+    <integer-array name="release_delay">
+        <item>380</item>
+        <item>380</item>
+        <item>820</item>
+        <item>1000</item>
+        <item>1000</item>
+        <item>1020</item>
+        <item>1020</item>
+        <item>1380</item>
+        <item>1380</item>
+        <item>1480</item>
+        <item>1480</item>
+        <item>1480</item>
+        <item>1580</item>
+        <item>1580</item>
+        <item>1580</item>
+        <item>1580</item>
+    </integer-array>
+    <integer-array name="level_jump_min">
+        <item>680</item>
+        <item>680</item>
+        <item>840</item>
+        <item>940</item>
+        <item>1000</item>
+        <item>1040</item>
+        <item>1040</item>
+        <item>1440</item>
+        <item>1440</item>
+        <item>1640</item>
+        <item>1640</item>
+        <item>1640</item>
+        <item>1840</item>
+        <item>1840</item>
+        <item>1840</item>
+        <item>1840</item>
+    </integer-array>
+    <integer-array name="level_jump_max">
+        <item>540</item>
+        <item>540</item>
+        <item>720</item>
+        <item>820</item>
+        <item>880</item>
+        <item>880</item>
+        <item>880</item>
+        <item>1280</item>
+        <item>1280</item>
+        <item>1480</item>
+        <item>1480</item>
+        <item>1480</item>
+        <item>1680</item>
+        <item>1680</item>
+        <item>1680</item>
+        <item>1680</item>
+    </integer-array>
+    <integer-array name="level_indicator_fontsize">
+        <item>32</item>
+        <item>32</item>
+        <item>48</item>
+        <item>56</item>
+        <item>56</item>
+        <item>56</item>
+        <item>56</item>
+        <item>56</item>
+        <item>56</item>
+        <item>56</item>
+        <item>56</item>
+        <item>56</item>
+        <item>56</item>
+        <item>56</item>
+        <item>56</item>
+        <item>56</item>
+    </integer-array>
+    <integer-array name="level_indicator_x">
+        <item>34</item>
+        <item>34</item>
+        <item>48</item>
+        <item>68</item>
+        <item>68</item>
+        <item>68</item>
+        <item>68</item>
+        <item>78</item>
+        <item>78</item>
+        <item>78</item>
+        <item>78</item>
+        <item>78</item>
+        <item>78</item>
+        <item>78</item>
+        <item>78</item>
+        <item>78</item>
+    </integer-array>
+    <integer-array name="level_indicator_y">
+        <item>114</item>
+        <item>114</item>
+        <item>128</item>
+        <item>148</item>
+        <item>148</item>
+        <item>148</item>
+        <item>148</item>
+        <item>168</item>
+        <item>168</item>
+        <item>168</item>
+        <item>168</item>
+        <item>168</item>
+        <item>168</item>
+        <item>168</item>
+        <item>168</item>
+        <item>168</item>
+    </integer-array>
+    <integer-array name="rain_drop_len">
+        <item>3</item>
+        <item>3</item>
+        <item>5</item>
+        <item>6</item>
+        <item>6</item>
+        <item>6</item>
+        <item>6</item>
+        <item>6</item>
+        <item>6</item>
+        <item>6</item>
+        <item>6</item>
+        <item>6</item>
+        <item>6</item>
+        <item>6</item>
+        <item>6</item>
+        <item>6</item>
+    </integer-array>
+    <integer-array name="WATER_TOP">
+        <item>120</item>
+        <item>120</item>
+        <item>160</item>
+        <item>280</item>
+        <item>280</item>
+        <item>280</item>
+        <item>280</item>
+        <item>280</item>
+        <item>280</item>
+        <item>280</item>
+        <item>280</item>
+        <item>280</item>
+        <item>280</item>
+        <item>280</item>
+        <item>280</item>
+        <item>280</item>
+    </integer-array>
+    <integer-array name="WATER_BOTTOM">
+        <item>340</item>
+        <item>340</item>
+        <item>380</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>1000</item>
+        <item>1200</item>
+        <item>1200</item>
+        <item>1500</item>
+        <item>1500</item>
+        <item>1500</item>
+        <item>1500</item>
+        <item>1500</item>
+    </integer-array>
+    <string-array name="map_fall_rate">
+        <item>0.35</item>
+        <item>0.325</item>
+        <item>0.30</item>
+        <item>0.20</item>
+        <item>0.20</item>
+        <item>0.10</item>
+        <item>0.10</item>
+        <item>0.10</item>
+        <item>0.17</item>
+        <item>0.10</item>
+        <item>0.10</item>
+        <item>0.10</item>
+        <item>0.10</item>
+        <item>0.10</item>
+        <item>0.10</item>
+        <item>0.10</item>
+    </string-array>
+    <string-array name="AUTOJUMP_X_VELOCITY">
+        <item>15.5</item>
+        <item>17.5</item>
+        <item>17.5</item>
+        <item>27.0</item>
+        <item>28.0</item>
+        <item>32.0</item>
+        <item>32.0</item>
+        <item>38.0</item>
+        <item>38.0</item>
+        <item>42.0</item>
+        <item>42.0</item>
+        <item>42.0</item>
+        <item>48.0</item>
+        <item>48.0</item>
+        <item>48.0</item>
+        <item>48.0</item>
+    </string-array>
+    <integer-array name="HONEY_ROW_LENGTH">
+        <item>250</item>
+        <item>250</item>
+        <item>325</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+        <item>500</item>
+    </integer-array>
+    <integer-array name="HONEY_SPACING">
+        <item>6</item>
+        <item>6</item>
+        <item>8</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+    </integer-array>
+    <integer-array name="HONEY_TO_MAP_OFFSET">
+        <item>14</item>
+        <item>14</item>
+        <item>20</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+    </integer-array>
+    <integer-array name="HCOMB_TO_MAP_OFFSET">
+        <item>-40</item>
+        <item>-40</item>
+        <item>-60</item>
+        <item>-80</item>
+        <item>-80</item>
+        <item>-80</item>
+        <item>-80</item>
+        <item>-80</item>
+        <item>-80</item>
+        <item>-80</item>
+        <item>-80</item>
+        <item>-80</item>
+        <item>-80</item>
+        <item>-80</item>
+        <item>-80</item>
+        <item>-80</item>
+    </integer-array>
+    <integer-array name="FONT_MEDIUM">
+        <item>12</item>
+        <item>12</item>
+        <item>16</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+    </integer-array>
+    <integer-array name="TinyBeeView_list_x_1">
+        <item>40</item>
+        <item>70</item>
+        <item>80</item>
+        <item>140</item>
+        <item>140</item>
+        <item>140</item>
+        <item>140</item>
+        <item>140</item>
+        <item>140</item>
+        <item>140</item>
+        <item>140</item>
+        <item>140</item>
+        <item>140</item>
+        <item>140</item>
+        <item>140</item>
+        <item>140</item>
+    </integer-array>
+    <integer-array name="TinyBeeView_list_x_2">
+        <item>60</item>
+        <item>90</item>
+        <item>130</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+        <item>200</item>
+    </integer-array>
+    <integer-array name="TinyBeeView_list_x_3">
+        <item>140</item>
+        <item>170</item>
+        <item>230</item>
+        <item>350</item>
+        <item>350</item>
+        <item>350</item>
+        <item>350</item>
+        <item>350</item>
+        <item>350</item>
+        <item>350</item>
+        <item>350</item>
+        <item>350</item>
+        <item>350</item>
+        <item>350</item>
+        <item>350</item>
+        <item>350</item>
+    </integer-array>
+    <integer-array name="TinyBeeView_list_x_4">
+        <item>198</item>
+        <item>228</item>
+        <item>300</item>
+        <item>460</item>
+        <item>460</item>
+        <item>460</item>
+        <item>460</item>
+        <item>460</item>
+        <item>460</item>
+        <item>460</item>
+        <item>460</item>
+        <item>460</item>
+        <item>460</item>
+        <item>460</item>
+        <item>460</item>
+        <item>460</item>
+    </integer-array>
+    <integer-array name="TinyBeeView_list_x_5">
+        <item>248</item>
+        <item>278</item>
+        <item>360</item>
+        <item>580</item>
+        <item>580</item>
+        <item>580</item>
+        <item>580</item>
+        <item>580</item>
+        <item>580</item>
+        <item>580</item>
+        <item>580</item>
+        <item>580</item>
+        <item>580</item>
+        <item>580</item>
+        <item>580</item>
+        <item>580</item>
+    </integer-array>
+    <string-array name="player_start_velocity_x">
+        <item>6.5</item>
+        <item>6.5</item>
+        <item>6.5</item>
+        <item>9.5</item>
+        <item>9.5</item>
+        <item>9.5</item>
+        <item>9.5</item>
+        <item>9.5</item>
+        <item>9.5</item>
+        <item>9.5</item>
+        <item>9.5</item>
+        <item>12.5</item>
+        <item>12.5</item>
+        <item>12.5</item>
+        <item>12.5</item>
+        <item>12.5</item>
+    </string-array>
+    <string-array name="player_start_velocity_y">
+        <item>-6.0</item>
+        <item>-6.0</item>
+        <item>-6.5</item>
+        <item>-9.0</item>
+        <item>-9.0</item>
+        <item>-9.0</item>
+        <item>-9.0</item>
+        <item>-9.0</item>
+        <item>-9.0</item>
+        <item>-9.0</item>
+        <item>-9.0</item>
+        <item>-9.0</item>
+        <item>-9.0</item>
+        <item>-9.0</item>
+        <item>-9.0</item>
+        <item>-9.0</item>
+    </string-array>
+    <integer-array name="game_bg_bottom_cloud_y">
+        <item>172</item>
+        <item>142</item>
+        <item>182</item>
+        <item>272</item>
+        <item>272</item>
+        <item>412</item>
+        <item>272</item>
+        <item>272</item>
+        <item>402</item>
+        <item>384</item>
+        <item>422</item>
+        <item>482</item>
+        <item>482</item>
+        <item>662</item>
+        <item>682</item>
+        <item>882</item>
+    </integer-array>
+    <integer-array name="menu_bg_bottom_cloud_y">
+        <item>172</item>
+        <item>142</item>
+        <item>218</item>
+        <item>302</item>
+        <item>302</item>
+        <item>412</item>
+        <item>328</item>
+        <item>362</item>
+        <item>454</item>
+        <item>504</item>
+        <item>470</item>
+        <item>524</item>
+        <item>504</item>
+        <item>704</item>
+        <item>724</item>
+        <item>904</item>
+    </integer-array>
+    <integer-array name="nr_clouds">
+        <item>5</item>
+        <item>5</item>
+        <item>7</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>7</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+    </integer-array>
+    <integer-array name="objBee_Player_Pos_x">
+        <item>-10</item>
+        <item>-10</item>
+        <item>-10</item>
+        <item>-20</item>
+        <item>-20</item>
+        <item>-16</item>
+        <item>-20</item>
+        <item>-20</item>
+        <item>-12</item>
+        <item>-12</item>
+        <item>-16</item>
+        <item>-16</item>
+        <item>-20</item>
+        <item>-16</item>
+        <item>-16</item>
+        <item>-20</item>
+    </integer-array>
+    <integer-array name="objBee_Player_Pos_y">
+        <item>76</item>
+        <item>76</item>
+        <item>76</item>
+        <item>154</item>
+        <item>160</item>
+        <item>120</item>
+        <item>160</item>
+        <item>160</item>
+        <item>120</item>
+        <item>120</item>
+        <item>120</item>
+        <item>120</item>
+        <item>120</item>
+        <item>120</item>
+        <item>120</item>
+        <item>120</item>
+    </integer-array>
+    <integer-array name="objCAM_CFG_CAM_BASE">
+        <item>-520</item>
+        <item>-520</item>
+        <item>-570</item>
+        <item>-600</item>
+        <item>-600</item>
+        <item>-940</item>
+        <item>-650</item>
+        <item>-650</item>
+        <item>-840</item>
+        <item>-890</item>
+        <item>-940</item>
+        <item>-800</item>
+        <item>-880</item>
+        <item>-1200</item>
+        <item>-1080</item>
+        <item>-1280</item>
+    </integer-array>
+    <integer-array name="objCAM_CFG_STRANGE_UNKNOWN_INTEGER_HAS_SOMETHING_TO_DO_WITH_ZOOM">
+        <item>-150</item>
+        <item>-150</item>
+        <item>-150</item>
+        <item>-150</item>
+        <item>-150</item>
+        <item>-150</item>
+        <item>-150</item>
+        <item>-150</item>
+        <item>-150</item>
+        <item>-150</item>
+        <item>-150</item>
+        <item>-150</item>
+        <item>-150</item>
+        <item>-150</item>
+        <item>-150</item>
+        <item>-150</item>
+    </integer-array>
+    <integer-array name="objCAM_CFG_ZOOM_AT">
+        <item>50</item>
+        <item>50</item>
+        <item>50</item>
+        <item>50</item>
+        <item>50</item>
+        <item>50</item>
+        <item>50</item>
+        <item>50</item>
+        <item>50</item>
+        <item>50</item>
+        <item>50</item>
+        <item>50</item>
+        <item>50</item>
+        <item>50</item>
+        <item>50</item>
+        <item>50</item>
+    </integer-array>
+    <integer-array name="objCAM_CFG_ZOOM_TO">
+        <item>-450</item>
+        <item>-450</item>
+        <item>-450</item>
+        <item>-450</item>
+        <item>-450</item>
+        <item>-550</item>
+        <item>-450</item>
+        <item>-450</item>
+        <item>-450</item>
+        <item>-520</item>
+        <item>-550</item>
+        <item>-450</item>
+        <item>-480</item>
+        <item>-550</item>
+        <item>-450</item>
+        <item>-480</item>
+    </integer-array>
+    <integer-array name="objInAppPurchaseList_CFG_font_size">
+        <item>12</item>
+        <item>12</item>
+        <item>14</item>
+        <item>20</item>
+        <item>20</item>
+        <item>28</item>
+        <item>20</item>
+        <item>20</item>
+        <item>20</item>
+        <item>20</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+    </integer-array>
+    <integer-array name="objPauseOverlay_CFG_font_medium">
+        <item>12</item>
+        <item>12</item>
+        <item>16</item>
+        <item>20</item>
+        <item>20</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+    </integer-array>
+    <integer-array name="objPauseOverlay_CFG_font_large">
+        <item>14</item>
+        <item>14</item>
+        <item>20</item>
+        <item>28</item>
+        <item>28</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+        <item>40</item>
+        <item>40</item>
+        <item>40</item>
+    </integer-array>
+    <integer-array name="objPauseOverlay_CFG_pause_x">
+        <item>32</item>
+        <item>32</item>
+        <item>40</item>
+        <item>64</item>
+        <item>64</item>
+        <item>64</item>
+        <item>64</item>
+        <item>64</item>
+        <item>64</item>
+        <item>64</item>
+        <item>64</item>
+        <item>64</item>
+        <item>64</item>
+        <item>64</item>
+        <item>64</item>
+        <item>64</item>
+    </integer-array>
+    <integer-array name="objPauseOverlay_CFG_pause_y">
+        <item>16</item>
+        <item>16</item>
+        <item>20</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>24</item>
+        <item>32</item>
+        <item>32</item>
+        <item>32</item>
+    </integer-array>
+    <integer-array name="objPauseOverlay_CFG_list_top">
+        <item>92</item>
+        <item>92</item>
+        <item>120</item>
+        <item>180</item>
+        <item>180</item>
+        <item>180</item>
+        <item>180</item>
+        <item>200</item>
+        <item>240</item>
+        <item>240</item>
+        <item>240</item>
+        <item>220</item>
+        <item>240</item>
+        <item>260</item>
+        <item>260</item>
+        <item>260</item>
+    </integer-array>
+    <integer-array name="objPauseOverlay_CFG_menu_top">
+        <item>56</item>
+        <item>56</item>
+        <item>80</item>
+        <item>80</item>
+        <item>80</item>
+        <item>96</item>
+        <item>80</item>
+        <item>80</item>
+        <item>80</item>
+        <item>80</item>
+        <item>80</item>
+        <item>96</item>
+        <item>160</item>
+        <item>192</item>
+        <item>196</item>
+        <item>196</item>
+    </integer-array>
+    <integer-array name="objPauseOverlay_CFG_multiplier_bar_y">
+        <item>180</item>
+        <item>192</item>
+        <item>228</item>
+        <item>340</item>
+        <item>340</item>
+        <item>380</item>
+        <item>400</item>
+        <item>400</item>
+        <item>440</item>
+        <item>440</item>
+        <item>440</item>
+        <item>440</item>
+        <item>460</item>
+        <item>552</item>
+        <item>552</item>
+        <item>552</item>
+    </integer-array>
+    <integer-array name="objPauseOverlay_CFG_list_spacing_SCORES">
+        <item>16</item>
+        <item>16</item>
+        <item>20</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>36</item>
+        <item>36</item>
+        <item>36</item>
+    </integer-array>
+    <integer-array name="objPauseOverlay_CFG_list_spacing_TASKS">
+        <item>24</item>
+        <item>24</item>
+        <item>28</item>
+        <item>32</item>
+        <item>32</item>
+        <item>40</item>
+        <item>48</item>
+        <item>48</item>
+        <item>48</item>
+        <item>48</item>
+        <item>48</item>
+        <item>48</item>
+        <item>48</item>
+        <item>64</item>
+        <item>64</item>
+        <item>64</item>
+    </integer-array>
+    <integer-array name="objShopList_CFG_FONT_SIZE">
+        <item>12</item>
+        <item>12</item>
+        <item>18</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>28</item>
+        <item>36</item>
+        <item>36</item>
+        <item>36</item>
+    </integer-array>
+    <integer-array name="objShopList_CFG_title_span_left">
+        <item>38</item>
+        <item>38</item>
+        <item>52</item>
+        <item>68</item>
+        <item>68</item>
+        <item>68</item>
+        <item>68</item>
+        <item>68</item>
+        <item>68</item>
+        <item>68</item>
+        <item>68</item>
+        <item>68</item>
+        <item>68</item>
+        <item>80</item>
+        <item>80</item>
+        <item>80</item>
+    </integer-array>
+    <integer-array name="objShopList_CFG_price_span_left">
+        <item>202</item>
+        <item>202</item>
+        <item>312</item>
+        <item>482</item>
+        <item>562</item>
+        <item>562</item>
+        <item>562</item>
+        <item>562</item>
+        <item>562</item>
+        <item>562</item>
+        <item>562</item>
+        <item>562</item>
+        <item>562</item>
+        <item>562</item>
+        <item>562</item>
+        <item>562</item>
+    </integer-array>
+    <integer-array name="objShopList_CFG_item_spacing">
+        <item>28</item>
+        <item>28</item>
+        <item>42</item>
+        <item>56</item>
+        <item>56</item>
+        <item>56</item>
+        <item>56</item>
+        <item>56</item>
+        <item>56</item>
+        <item>56</item>
+        <item>56</item>
+        <item>56</item>
+        <item>56</item>
+        <item>68</item>
+        <item>68</item>
+        <item>68</item>
+    </integer-array>
+    <string-array name="ICON_SCALE">
+        <item>0.33</item>
+        <item>0.33</item>
+        <item>0.50</item>
+        <item>0.75</item>
+        <item>0.75</item>
+        <item>0.75</item>
+        <item>0.75</item>
+        <item>0.75</item>
+        <item>0.75</item>
+        <item>0.75</item>
+        <item>0.75</item>
+        <item>0.75</item>
+        <item>0.75</item>
+        <item>0.75</item>
+        <item>0.75</item>
+        <item>0.75</item>
+    </string-array>
+    <string-array name="ICON_BACK_SCALE">
+        <item>3.0</item>
+        <item>3.0</item>
+        <item>2.0</item>
+        <item>1.35</item>
+        <item>1.35</item>
+        <item>1.35</item>
+        <item>1.35</item>
+        <item>1.35</item>
+        <item>1.35</item>
+        <item>1.35</item>
+        <item>1.35</item>
+        <item>1.35</item>
+        <item>1.35</item>
+        <item>1.35</item>
+        <item>1.35</item>
+        <item>1.35</item>
+    </string-array>
+    <integer-array name="ScoresView_list_typea_x_1">
+        <item>22</item>
+        <item>22</item>
+        <item>55</item>
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+    </integer-array>
+    <integer-array name="ScoresView_list_typea_x_2">
+        <item>70</item>
+        <item>70</item>
+        <item>90</item>
+        <item>160</item>
+        <item>160</item>
+        <item>160</item>
+        <item>160</item>
+        <item>160</item>
+        <item>160</item>
+        <item>180</item>
+        <item>180</item>
+        <item>180</item>
+        <item>180</item>
+        <item>180</item>
+        <item>180</item>
+        <item>180</item>
+    </integer-array>
+    <integer-array name="ScoresView_list_typea_x_3">
+        <item>136</item>
+        <item>136</item>
+        <item>190</item>
+        <item>310</item>
+        <item>310</item>
+        <item>310</item>
+        <item>310</item>
+        <item>310</item>
+        <item>310</item>
+        <item>330</item>
+        <item>330</item>
+        <item>330</item>
+        <item>330</item>
+        <item>370</item>
+        <item>370</item>
+        <item>370</item>
+    </integer-array>
+    <integer-array name="ScoresView_list_typea_x_4">
+        <item>182</item>
+        <item>182</item>
+        <item>258</item>
+        <item>420</item>
+        <item>420</item>
+        <item>420</item>
+        <item>420</item>
+        <item>420</item>
+        <item>420</item>
+        <item>440</item>
+        <item>440</item>
+        <item>440</item>
+        <item>440</item>
+        <item>520</item>
+        <item>520</item>
+        <item>520</item>
+    </integer-array>
+    <integer-array name="ScoresView_list_typea_x_5">
+        <item>230</item>
+        <item>230</item>
+        <item>328</item>
+        <item>540</item>
+        <item>540</item>
+        <item>540</item>
+        <item>540</item>
+        <item>540</item>
+        <item>540</item>
+        <item>540</item>
+        <item>540</item>
+        <item>540</item>
+        <item>540</item>
+        <item>660</item>
+        <item>660</item>
+        <item>660</item>
+    </integer-array>
+    <integer-array name="HelpView_list_x_1">
+        <item>28</item>
+        <item>28</item>
+        <item>64</item>
+        <item>140</item>
+        <item>140</item>
+        <item>140</item>
+        <item>140</item>
+        <item>140</item>
+        <item>140</item>
+        <item>140</item>
+        <item>140</item>
+        <item>140</item>
+        <item>140</item>
+        <item>140</item>
+        <item>140</item>
+        <item>140</item>
+    </integer-array>
+    <integer-array name="HelpView_list_x_2">
+        <item>70</item>
+        <item>70</item>
+        <item>100</item>
+        <item>260</item>
+        <item>260</item>
+        <item>260</item>
+        <item>260</item>
+        <item>260</item>
+        <item>260</item>
+        <item>260</item>
+        <item>260</item>
+        <item>260</item>
+        <item>260</item>
+        <item>260</item>
+        <item>260</item>
+        <item>260</item>
+    </integer-array>
+    <integer-array name="HelpView_list_x_3">
+        <item>148</item>
+        <item>148</item>
+        <item>250</item>
+        <item>450</item>
+        <item>450</item>
+        <item>450</item>
+        <item>450</item>
+        <item>450</item>
+        <item>450</item>
+        <item>450</item>
+        <item>450</item>
+        <item>450</item>
+        <item>450</item>
+        <item>450</item>
+        <item>450</item>
+        <item>450</item>
+    </integer-array>
+    <integer-array name="CreditsView_list_x_1">
+        <item>32</item>
+        <item>32</item>
+        <item>44</item>
+        <item>60</item>
+        <item>60</item>
+        <item>60</item>
+        <item>60</item>
+        <item>60</item>
+        <item>80</item>
+        <item>80</item>
+        <item>80</item>
+        <item>80</item>
+        <item>80</item>
+        <item>160</item>
+        <item>160</item>
+        <item>160</item>
+    </integer-array>
+    <integer-array name="CreditsView_list_x_2">
+        <item>56</item>
+        <item>56</item>
+        <item>76</item>
+        <item>110</item>
+        <item>110</item>
+        <item>120</item>
+        <item>110</item>
+        <item>120</item>
+        <item>160</item>
+        <item>160</item>
+        <item>160</item>
+        <item>160</item>
+        <item>160</item>
+        <item>298</item>
+        <item>298</item>
+        <item>298</item>
+    </integer-array>
+    <integer-array name="CreditsView_list_x_3">
+        <item>114</item>
+        <item>114</item>
+        <item>156</item>
+        <item>218</item>
+        <item>218</item>
+        <item>238</item>
+        <item>218</item>
+        <item>238</item>
+        <item>298</item>
+        <item>298</item>
+        <item>298</item>
+        <item>298</item>
+        <item>298</item>
+        <item>508</item>
+        <item>508</item>
+        <item>508</item>
+    </integer-array>
+    <integer-array name="CreditsView_list_x_4">
+        <item>154</item>
+        <item>154</item>
+        <item>216</item>
+        <item>298</item>
+        <item>298</item>
+        <item>328</item>
+        <item>298</item>
+        <item>328</item>
+        <item>408</item>
+        <item>408</item>
+        <item>408</item>
+        <item>408</item>
+        <item>408</item>
+        <item>660</item>
+        <item>660</item>
+        <item>660</item>
+    </integer-array>
+    <integer-array name="CreditsView_list_x_5">
+        <item>194</item>
+        <item>194</item>
+        <item>276</item>
+        <item>378</item>
+        <item>378</item>
+        <item>418</item>
+        <item>378</item>
+        <item>418</item>
+        <item>518</item>
+        <item>518</item>
+        <item>518</item>
+        <item>518</item>
+        <item>518</item>
+        <item>810</item>
+        <item>810</item>
+        <item>810</item>
+    </integer-array>
+    <string-array name="shop_brandnew_popup_btn_cancel">
+        <item>cancel</item>
+        <item>abbrechen</item>
+        <item>cancel</item>
+        <item>cancellare</item>
+    </string-array>
+    <string-array name="shop_brandnew_popup_btn_buynow">
+        <item>show details</item>
+        <item>zeige infos</item>
+        <item>show details</item>
+        <item>mostra dettagli</item>
+    </string-array>
+    <string-array name="shop_popup_title">
+        <item>New Product</item>
+        <item>Neues Produkt</item>
+        <item>New Product</item>
+        <item>Nuovo prodotto</item>
+    </string-array>
+    <string-array name="popup_btn_buy">
+        <item>buy now</item>
+        <item>jetzt kaufen</item>
+        <item>buy now</item>
+        <item>acquista ora</item>
+    </string-array>
+    <string-array name="popup_txt_upgrade_avail">
+        <item>Tiny Santa update available.</item>
+        <item>Tiny Santa aktualisierung verfügbar.</item>
+        <item>Tiny Santa update available.</item>
+        <item>Tiny Santa aggiornamento disponibile.</item>
+    </string-array>
+    <string-array name="popup_txt_upgrade_header">
+        <item>Changes:</item>
+        <item>Aktualisierungen:</item>
+        <item>Changes:</item>
+        <item>Modifiche:</item>
+    </string-array>
+    <string-array name="popup_btn_upgrade_now">
+        <item>Update now!</item>
+        <item>Jetzt aktualisieren!</item>
+        <item>Update now!</item>
+        <item>Aggiorna ora!</item>
+    </string-array>
+    <string-array name="popup_current_version">
+        <item>current:</item>
+        <item>aktuell:</item>
+        <item>current:</item>
+        <item>corrente:</item>
+    </string-array>
+    <string-array name="txt_menu_close">
+        <item>close</item>
+        <item>schliessen</item>
+        <item>close</item>
+        <item>chiudere</item>
+    </string-array>
+    <string-array name="popup_update_loading">
+        <item>Loading Update...</item>
+        <item>Lade Update...</item>
+        <item>Loading Update...</item>
+        <item>Caricamento di aggiornamento...</item>
+    </string-array>
+    <string-array name="inapp_purchase_shop_title">
+        <item>Santa Shop</item>
+        <item>Santa Shop</item>
+        <item>Santa Shop</item>
+        <item>Santa Shop</item>
+    </string-array>
+    <string-array name="shop_title">
+        <item>More Games &amp;amp;amp;amp;amp;amp;amp; Apps</item>
+        <item>More Games &amp;amp;amp;amp;amp;amp;amp; Apps</item>
+        <item>More Games &amp;amp;amp;amp;amp;amp;amp; Apps</item>
+        <item>More Games &amp;amp;amp;amp;amp;amp;amp; Apps</item>
+    </string-array>
+    <string-array name="shop_title_more">
+        <item>recommend apps</item>
+        <item>recommend apps</item>
+        <item>recommend apps</item>
+        <item>recommend apps</item>
+    </string-array>
+    <string-array name="no_shop_items">
+        <item>no products available...</item>
+        <item>Keine Produkte verfügbar...</item>
+        <item>no products available...</item>
+        <item>prodotti disponibili...</item>
+    </string-array>
+    <string-array name="player_stats">
+        <item>Your Stats</item>
+        <item>Deine Statistiken</item>
+        <item>통계</item>
+        <item>Le tue statistiche</item>
+    </string-array>
+    <string-array name="player_total_score">
+        <item>TOTAL SCORE</item>
+        <item>PUNKTZAHL</item>
+        <item>총 점수</item>
+        <item>Punteggio Totale</item>
+    </string-array>
+    <string-array name="player_distance">
+        <item>Distance</item>
+        <item>Distanz</item>
+        <item>거리</item>
+        <item>Distanza</item>
+    </string-array>
+    <string-array name="player_topspeed">
+        <item>Top Speed</item>
+        <item>Schnelligkeit</item>
+        <item>최고 스피드</item>
+        <item>Velocità massima</item>
+    </string-array>
+    <string-array name="player_sweets">
+        <item>"HoHo's"</item>
+        <item>"HoHo's"</item>
+        <item>"HoHo's"</item>
+        <item>"HoHo's"</item>
+    </string-array>
+    <string-array name="player_honey">
+        <item>Gifts</item>
+        <item>Geschenke</item>
+        <item>꿀</item>
+        <item>Miele</item>
+    </string-array>
+    <string-array name="player_honeycomb">
+        <item>Gingerbread</item>
+        <item>Lebkuchen</item>
+        <item>벌집</item>
+        <item>Favo di miele</item>
+    </string-array>
+    <string-array name="player_pollen">
+        <item>Snowflake</item>
+        <item>Schneeflocke</item>
+        <item>꽃가루</item>
+        <item>Polline</item>
+    </string-array>
+    <string-array name="player_airtime">
+        <item>Air Time</item>
+        <item>Flugzeit</item>
+        <item>비행 시간</item>
+        <item>Tempo in aria</item>
+    </string-array>
+    <string-array name="player_ouchs">
+        <item>"Ouch's"</item>
+        <item>"Ouch's"</item>
+        <item>아야</item>
+        <item>"Ouch's"</item>
+    </string-array>
+    <string-array name="player_levels">
+        <item>Level</item>
+        <item>Level</item>
+        <item>레벨</item>
+        <item>Livello</item>
+    </string-array>
+    <string-array name="next_task">
+        <item>Next Task</item>
+        <item>Nächste Aufgabe</item>
+        <item>다음 임무</item>
+        <item>Nuovo Compito</item>
+    </string-array>
+    <string-array name="best_score_en">
+        <item>Best Game (Story)</item>
+        <item>Best Game (Endless)</item>
+    </string-array>
+    <string-array name="best_score_de">
+        <item>Bestes Spiel (Geschichte)</item>
+        <item>Bestes Spiel (unendlich)</item>
+    </string-array>
+    <string-array name="best_score_kr">
+        <item>최고 점수(스토리모드)</item>
+        <item>최고 점수(무한모드)</item>
+    </string-array>
+    <string-array name="best_score_it">
+        <item>Miglior punteggio (compiti)</item>
+        <item>Miglior punteggio (senza compiti)</item>
+    </string-array>
+    <string-array name="overall_stats">
+        <item>Overall Stats</item>
+        <item>Gesamtstatistiken</item>
+        <item>전체 통계</item>
+        <item>Statistiche totali</item>
+    </string-array>
+    <string-array name="score_multi">
+        <item>Score Multiplier</item>
+        <item>Punktemultiplikator</item>
+        <item>점수 배율기</item>
+        <item>Moltiplicatore</item>
+    </string-array>
+    <string-array name="task_complete_part1">
+        <item>Task #</item>
+        <item>Aufgabe #</item>
+        <item>임무 #</item>
+        <item>Compiti #</item>
+    </string-array>
+    <string-array name="task_complete_part2">
+        <item>completed!</item>
+        <item>abgeschlossen!</item>
+        <item>completed!</item>
+        <item>finale!</item>
+    </string-array>
+    <string-array name="level_reached">
+        <item>you reached level:</item>
+        <item>Erreichtes Level:</item>
+        <item>you reached level:</item>
+        <item>Hai raggiunto il livello:</item>
+    </string-array>
+    <string-array name="BONUS_HIGHJUMPER">
+        <item>High Jumper</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="BONUS_PANIC">
+        <item>Time Panic</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="BONUS_CHECKPOINT">
+        <item>Checkpoint</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="BONUS_SWEET">
+        <item>HoHo</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="BONUS_MEGASWEET">
+        <item>Mega HoHo</item>
+        <item>250</item>
+    </string-array>
+    <string-array name="BONUS_PANCAKE">
+        <item>Pancake</item>
+        <item>2</item>
+    </string-array>
+    <integer-array name="HONEY_BONUS">
+        <item>5</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+    </integer-array>
+    <string-array name="score_names_en">
+        <item>Total Score</item>
+        <item>Distance</item>
+        <item>Top Speed</item>
+        <item>Gifts</item>
+        <item>Gingerbread</item>
+        <item>Snowflake</item>
+        <item>"HoHo's"</item>
+        <item>"Ouch's"</item>
+        <item>Air Time</item>
+        <item>Level</item>
+    </string-array>
+    <string-array name="score_names_de">
+        <item>Punktzahl</item>
+        <item>Distanz</item>
+        <item>Schnelligkeit</item>
+        <item>Geschenke</item>
+        <item>Lebkuchen</item>
+        <item>Schneeflocken</item>
+        <item>"HoHo's"</item>
+        <item>"Ouch's"</item>
+        <item>Flugzeit</item>
+        <item>Level</item>
+    </string-array>
+    <string-array name="score_names_kr">
+        <item>총 점수</item>
+        <item>거리</item>
+        <item>최고 스피드</item>
+        <item>꿀</item>
+        <item>벌집</item>
+        <item>꽃가루</item>
+        <item>스윗</item>
+        <item>아야</item>
+        <item>비행 시간</item>
+        <item>레벨</item>
+    </string-array>
+    <string-array name="score_names_it">
+        <item>Punteggio totale</item>
+        <item>Distanza</item>
+        <item>Velocità massima</item>
+        <item>Miele</item>
+        <item>Favo di miele</item>
+        <item>Polline</item>
+        <item>"HoHo's"</item>
+        <item>"Ouch's"</item>
+        <item>Tempo in aria</item>
+        <item>Livello</item>
+    </string-array>
+    <string-array name="stats_names_en">
+        <item>Distance</item>
+        <item>Gifts</item>
+        <item>Gingerbread</item>
+        <item>Snowflake</item>
+        <item>"HoHo's"</item>
+        <item>"Ouch's"</item>
+    </string-array>
+    <string-array name="stats_names_de">
+        <item>Distanz</item>
+        <item>Geschenke</item>
+        <item>Lebkuchen</item>
+        <item>Schneeflocke</item>
+        <item>"HoHo's"</item>
+        <item>"Ouch's"</item>
+    </string-array>
+    <string-array name="stats_names_kr">
+        <item>거리</item>
+        <item>꿀</item>
+        <item>벌집</item>
+        <item>꽃가루</item>
+        <item>스윗</item>
+        <item>아야</item>
+    </string-array>
+    <string-array name="stats_names_it">
+        <item>Distanza</item>
+        <item>Miele</item>
+        <item>Favo di miele</item>
+        <item>Polline</item>
+        <item>"HoHo's"</item>
+        <item>"Ouch's"</item>
+    </string-array>
+    <string-array name="game_complete_demo_en">
+        <item>Congrats!... you finished the Demo!</item>
+        <item>You tried the Task ?</item>
+        <item>Do you want more?</item>
+        <item>Get the Full Version of TinyBee!</item>
+    </string-array>
+    <string-array name="game_complete_demo_de">
+        <item>Glückwunsch!... du hast die Demo geschafft!</item>
+        <item>Hast du schon versucht alle Aufgaben zu erfüllen?</item>
+        <item>Möchtest du mehr vom Spiel?</item>
+        <item>Hol dir die Vollversion von TinyBee!</item>
+    </string-array>
+    <string-array name="game_complete_demo_kr">
+        <item>축하합니다! … 모든 레벨을 끝냈습니다!</item>
+        <item>모든 임무를 완료하시겠습니까?</item>
+        <item>또한 성과를 올릴 수 있습니다.</item>
+        <item></item>
+    </string-array>
+    <string-array name="game_complete_demo_it">
+        <item>Congratulazioni!... Hai finito la demo!</item>
+        <item>Hai svolto il compito?</item>
+        <item>Vuoi giocare ancora?</item>
+        <item>Acquista la versione completa di TinyBee!</item>
+    </string-array>
+    <string-array name="game_complete_full_en">
+        <item>Congrats! ... you finished all Levels!</item>
+        <item>Do you have tried to complete all tasks?</item>
+        <item>also you can earn achievements.</item>
+    </string-array>
+    <string-array name="game_complete_full_de">
+        <item>Glückwunsch!... du hast alle Level geschafft!</item>
+        <item>Hast du schon versucht alle Aufgaben zu erfüllen?</item>
+        <item></item>
+    </string-array>
+    <string-array name="game_complete_full_kr">
+        <item>축하합니다! … 모든 레벨을 끝냈습니다!</item>
+        <item>모든 임무를 완료하시겠습니까?</item>
+        <item>또한 성과를 올릴 수 있습니다.</item>
+        <item></item>
+    </string-array>
+    <string-array name="game_complete_full_it">
+        <item>Congratulazioni!... Hai finito tutti i livelli.</item>
+        <item>Hai anche completato tutti i compiti?</item>
+        <item></item>
+    </string-array>
+    <string-array name="credits_en">
+        <item>NUROGAMES</item>
+        <item>Producer</item>
+        <item>Jens Piesk</item>
+        <item>Holger Sprengel</item>
+        <item>Design &amp;amp;amp;amp;amp;amp;amp; Interface</item>
+        <item>Marcus Lindner</item>
+        <item>Software Engineer</item>
+        <item>Benjamin Oster</item>
+        <item>Music &amp;amp;amp;amp;amp;amp;amp; Sound</item>
+        <item>Dennis Pabst</item>
+    </string-array>
+    <string-array name="credits_de">
+        <item>NUROGAMES</item>
+        <item>Produzenten</item>
+        <item>Jens Piesk</item>
+        <item>Holger Sprengel</item>
+        <item>Grafik &amp;amp;amp;amp;amp;amp;amp; Gestaltung</item>
+        <item>Marcus Lindner</item>
+        <item>Programmierung</item>
+        <item>Benjamin Oster</item>
+        <item>Musik &amp;amp;amp;amp;amp;amp;amp; Ton</item>
+        <item>Dennis Pabst</item>
+    </string-array>
+    <string-array name="credits_kr">
+        <item>NUROGAMES</item>
+        <item>제작</item>
+        <item>Jens Piesk</item>
+        <item>Holger Sprengel</item>
+        <item>디자인</item>
+        <item>Marcus Lindner</item>
+        <item>소프트웨어 엔지니어</item>
+        <item>Benjamin Oster</item>
+        <item>음악 &amp;amp;amp;amp;amp;amp;amp; 음향</item>
+        <item>Dennis Pabst</item>
+    </string-array>
+    <string-array name="credits_it">
+        <item>NUROGAMES</item>
+        <item>Produttore</item>
+        <item>Jens Piesk</item>
+        <item>Holger Sprengel</item>
+        <item>Design &amp;amp;amp;amp;amp;amp;amp; Interfaccia</item>
+        <item>Marcus Lindner</item>
+        <item>Software Engineer</item>
+        <item>Benjamin Oster</item>
+        <item>Musica &amp;amp;amp;amp;amp;amp;amp; Suoni</item>
+        <item>Dennis Pabst</item>
+    </string-array>
+    <string-array name="help_controls_en">
+        <item>Controls</item>
+        <item>By tapping the screen you can increase</item>
+        <item>the weight of your santa. If you run down</item>
+        <item>a hill while tapping the screen your santa</item>
+        <item>will increase speed.</item>
+        <item></item>
+        <item>Untap the screen in the right moment,</item>
+        <item>your santa will take off the ground.</item>
+    </string-array>
+    <string-array name="help_controls_de">
+        <item>Steuerung</item>
+        <item>Durch drücken auf den Bildschirm kannst du</item>
+        <item>das Gewicht deines Santas erhöhen. Wenn du</item>
+        <item>einen Hügel runter rutschst und dabei den</item>
+        <item>Bildschirm drückst erhöht sich die</item>
+        <item>Geschwindigkeit deines Santas.</item>
+        <item>Lasse den Bildschirm im richtigen Moment</item>
+        <item>los und dein Santas wird vom Boden abheben.</item>
+    </string-array>
+    <string-array name="help_controls_kr">
+        <item>조종 장치</item>
+        <item>화면을 눌러 꿀벌의</item>
+        <item>무게를</item>
+        <item>화면을 누르면서</item>
+        <item>언덕을 내려오면</item>
+        <item>꿀벌의 속도가 증가합니다.</item>
+        <item>적당한 타이밍에 화면을 누르는 것을</item>
+        <item>멈추면 꿀벌이 날아오릅니다.</item>
+    </string-array>
+    <string-array name="help_controls_it">
+        <item>Controlli</item>
+        <item>Toccando lo schermo è possibile</item>
+        <item>aumentare il peso della tua ape.</item>
+        <item>Toccando lo schermo mentre si scende</item>
+        <item>"da una collina la velocità dell'ape aumenterà."</item>
+        <item>Toccando lo schermo al momento giusto</item>
+        <item>la tua ape scenderà a terra.</item>
+        <item></item>
+    </string-array>
+    <string-array name="help_items_en">
+        <item>Items &amp;amp;amp;amp;amp;amp;amp; Icons</item>
+        <item>Gifts</item>
+        <item>5 Points</item>
+        <item>Gingerbreads</item>
+        <item>10 Points</item>
+        <item>Snowflakes</item>
+        <item>25 Points</item>
+        <item>Hohos</item>
+        <item>10 Points</item>
+        <item>Ouchs</item>
+        <item>- Speed</item>
+    </string-array>
+    <string-array name="help_items_de">
+        <item>Gegenstände &amp;amp;amp;amp;amp;amp;amp; Symbole</item>
+        <item>Geschenke</item>
+        <item>5 Punkte</item>
+        <item>Lebkuchen</item>
+        <item>10 Punkte</item>
+        <item>Schneeflocke</item>
+        <item>25 Punkte</item>
+        <item>Hohos</item>
+        <item>10 Punkte</item>
+        <item>Ouchs</item>
+        <item>- Schnelligkeit</item>
+    </string-array>
+    <string-array name="help_items_kr">
+        <item>아이템 &amp;amp;amp;amp;amp;amp;amp; 아이콘</item>
+        <item>꿀 방울</item>
+        <item>5 득점</item>
+        <item>벌집</item>
+        <item>10 득점</item>
+        <item>꽃가루</item>
+        <item>25 득점</item>
+        <item>스윗</item>
+        <item>10 득점</item>
+        <item>아야</item>
+        <item>(-) 속도</item>
+    </string-array>
+    <string-array name="help_items_it">
+        <item>Voci &amp;amp;amp;amp;amp;amp;amp; Icone</item>
+        <item>Goccia di miele</item>
+        <item>5 Punti</item>
+        <item>Favo di miele</item>
+        <item>10 Punti</item>
+        <item>Polline</item>
+        <item>25 Punti</item>
+        <item>HoHos</item>
+        <item>10 Punti</item>
+        <item>Ouchs</item>
+        <item>- Velocità</item>
+    </string-array>
+    <string-array name="help_aim_en">
+        <item>Aim of the Game</item>
+        <item>Get Points</item>
+        <item>- Try to collect as much gifts as you can.</item>
+        <item>- Collect some flying snowflakes.</item>
+        <item>- Make as many \"hohos\" jumps as possible.</item>
+        <item>- Fly as long as you can through the worlds.</item>
+        <item></item>
+        <item>Attention!</item>
+        <item>Beware of the morning light. It tries to catch</item>
+        <item>up to you. And morning light is the worst thing for santa!</item>
+        <item></item>
+    </string-array>
+    <string-array name="help_aim_de">
+        <item>Ziel des Spieles</item>
+        <item>Sammel Punkte</item>
+        <item>- Versuch möglichst viel Geschenke zu sammeln.</item>
+        <item>- Sammel einige umherfliegende Schneeflocken.</item>
+        <item>"- Mache so viele Hoho's wie möglich."</item>
+        <item>- Fliege so lang wie möglich durch die Welten.</item>
+        <item></item>
+        <item>Achtung!</item>
+        <item>Nimm dich in acht vor dem Sonnenaufgang.</item>
+        <item>Er versucht dich einzuholen.</item>
+        <item>Sonnenaufgang ist das schlimmste für Santa!</item>
+    </string-array>
+    <string-array name="help_aim_kr">
+        <item>게임의 목표</item>
+        <item>점수를 획득하세요.</item>
+        <item>- 가능한 많은 꿀을 모으세요.</item>
+        <item>- 날아다니는 꽃가루를 모으세요.</item>
+        <item>- 가능한 많은 스윗점프를 성공하세요.</item>
+        <item>- 가능한 멀리까지 날아가세요.</item>
+        <item></item>
+        <item>주의!</item>
+        <item>천둥과 비를 조심하세요.</item>
+        <item>여러분을 쫓아 올 것입니다.</item>
+        <item>또한 비는 꿀벌에게 가장 위험합니다.!</item>
+    </string-array>
+    <string-array name="help_aim_it">
+        <item>Scopo del gioco</item>
+        <item>Aumenta i punti</item>
+        <item>- Cerca di raccogliere più miele possibile.</item>
+        <item>- Raccogli il polline volante.</item>
+        <item>- Crea più Sweet! salti possibili.</item>
+        <item>- Vola più a lungo possibile attraverso i mondi.</item>
+        <item></item>
+        <item>Attenzione!</item>
+        <item>Attenzione al temporale.</item>
+        <item>Ti cerca di catturare avvicinandoti a te.</item>
+        <item>E la pioggia è la cosa peggiore per le api!</item>
+    </string-array>
+    <string-array name="sure_2_exit">
+        <item>"Are you sure to cancel the game ?
+
+Your game progress like tasks or
+highscore will get lost!"</item>
+        <item>"Spiel abbrechen... Bist du sicher!?
+
+Aktuelle Erfolge geht verloren!"</item>
+        <item>"게임 중지 ... 중지하시겠습니까?!
+
+현재 게임 정보가 저장되지 않습니다!"</item>
+        <item>"Sei sicuro di voler annullare il gioco?
+
+I tuoi progressi gioco come attività o
+punteggio alto si perde!"</item>
+    </string-array>
+    <string-array name="like_2_rate">
+        <item>Do you like to rate the demo ?</item>
+        <item>Möchtest du die Demo bewerten ?</item>
+        <item>Do you like to rate the demo ?</item>
+        <item>Vuoi votare la demo?</item>
+    </string-array>
+    <string-array name="task_help">
+        <item>To complete a task, you have to finish all three sub-parts you see listed, inside a single game. Once a task is finished it will be permanent. You will get rewarded by a score multiplicator for each finished task.</item>
+        <item>Um eine Aufgabe zu erfüllen musst du alle drei aufgelisteten Unterpunkte in einem Spiel beenden. Wenn eine Aufgabe erfüllt wurde, bleibt diese permanent erfüllt. Du wirst nach jeder erfüllten Aufgabe mit einem Punktemultiplikator belohnt.</item>
+        <item>임무을 완료하려면, 각 게임에서 제시 된 세 가지 하위임무를 수행해야합니다. 임무를 끝내면 영원히 남게 됩니다. 임무가 끝날 때마다 점수.</item>
+        <item>"Per completare un compito, è necessario terminare tutte e tre le sotto-parti che vedete elencate all'interno del singolo gioco. Una volta che un compito è finito sarete ricompensati da un moltiplicatore di punti per ogni attività finita."</item>
+    </string-array>
+    <string-array name="task_notasks">
+        <item>"In endless mode no tasks available.
+Please try story mode to complete tasks."</item>
+        <item>"Im Endlosspiel sind leider keine Tasks verfügbar.
+Versuch den Geschichten Modus um Tasks zu absolvieren."</item>
+        <item>"In endless mode no tasks available.
+Please try story mode to complete tasks."</item>
+        <item>"Nella modalità senza livelli nessun compito disponibile. 
+ Prova a giocare con i livelli per completare i compiti."</item>
+    </string-array>
+    <string-array name="inapp_shop_info">
+        <item>Here you can purchase new characters or unlock all levels in lite version.</item>
+        <item>Hier können sie neue Spielfiguren oder alle Level in der Lite Version freischalten.</item>
+        <item>Here you can purchase new characters or unlock all levels in lite version.</item>
+        <item>Here you can purchase new characters or unlock all levels in lite version.</item>
+    </string-array>
+    <string-array name="inapp_shop_info2">
+        <item>It may take a minute until purchases get unlocked. Best restart the Application!</item>
+        <item>Es kann einige Minuten dauern bis die Käufe freigeschaltet werden. Am besten das Spiel neustarten!</item>
+        <item>It may take a minute until purchases get unlocked. Best restart the Application!</item>
+        <item>It may take a minute until purchases get unlocked. Best restart the Application!</item>
+    </string-array>
+    <string-array name="inapp_item_alrdy_owns_all_chars">
+        <item>"You already puchased all characters!
+Only level pack is still available."</item>
+        <item>"Du hast bereits alle Charaktere gekauft!
+Nur das Level Pack ist noch verfügbar."</item>
+        <item>"You already puchased all characters!
+Only level pack is still available."</item>
+        <item>"You already puchased all characters!
+Only level pack is still available."</item>
+    </string-array>
+    <string-array name="inapp_item_alrdy_owns_all_chars_2">
+        <item>You already purchased all characters!</item>
+        <item>Du hast bereits alle Charaktere gekauft!</item>
+        <item>You already purchased all characters!</item>
+        <item>You already purchased all characters!</item>
+    </string-array>
+    <string-array name="inapp_item_alrdy_owns_all_levels">
+        <item>"You already puchased all levels!
+Only characters or character pack are still available."</item>
+        <item>"Du hast bereits alle Level gekauft!
+Nur das Character Pack ist noch verfügbar."</item>
+        <item>"You already puchased all levels!
+Only characters or character pack are still available."</item>
+        <item>"You already puchased all levels!
+Only characters or character pack are still available."</item>
+    </string-array>
+    <string-array name="inapp_item_alrdy_owns_all_levels_2">
+        <item>You already purchased all levels!</item>
+        <item>Du hast bereits alle Level gekauft!</item>
+        <item>You already purchased all levels!</item>
+        <item>You already purchased all levels!</item>
+    </string-array>
+    <string-array name="inapp_item_alrdy_owns_all">
+        <item>You already purchased all levels and characters!</item>
+        <item>Du hast alle Charaktere und Level gekauft!</item>
+        <item>You already purchased all levels and characters!</item>
+        <item>You already purchased all levels and characters!</item>
+    </string-array>
+    <string-array name="no_tokens_left_lite_only">
+        <item>"You only can play the limited lite version.
+
+If you like to play the full featured game please purchase new tokens, unlock tinybee for unlimited play or get the level pack."</item>
+        <item>"You only can play the limited lite version.
+
+If you like to play the full featured game please purchase new tokens, unlock tinybee for unlimited play or get the level pack."</item>
+        <item>"You only can play the limited lite version.
+
+If you like to play the full featured game please purchase new tokens, unlock tinybee for unlimited play or get the level pack."</item>
+        <item>"You only can play the limited lite version.
+
+If you like to play the full featured game please purchase new tokens, unlock tinybee for unlimited play or get the level pack."</item>
+    </string-array>
+    <string-array name="purchase_character_information">
+        <item>"If you purchase the Character you will get:
+
+- This cute little character.
+- no ad banner at game end."</item>
+        <item>"If you purchase the Character you will get:
+
+- This cute little character.
+- no ad banner at game end."</item>
+        <item>"If you purchase the Character you will get:
+
+- This cute little character.
+- no ad banner at game end."</item>
+        <item>"If you purchase the Character you will get:
+
+- This cute little character.
+- no ad banner at game end."</item>
+    </string-array>
+    <string-array name="purchase_characterpack_information">
+        <item>"If you purchase the Level Pack you will get:
+
+- All three aditional Characters.
+- no ad banner at game end."</item>
+        <item>"If you purchase the Level Pack you will get:
+
+- All three aditional Characters.
+- no ad banner at game end."</item>
+        <item>"If you purchase the Level Pack you will get:
+
+- All three aditional Characters.
+- no ad banner at game end."</item>
+        <item>"If you purchase the Level Pack you will get:
+
+- All three aditional Characters.
+- no ad banner at game end."</item>
+    </string-array>
+    <string-array name="purchase_levelpack_information">
+        <item>"If you purchase the Level Pack you will get:
+
+- 20 instead of 4 Levels for Free Play.
+- no ad banner at game end."</item>
+        <item>"If you purchase the Level Pack you will get:
+
+- 20 instead of 4 Levels for Free Play.
+- no ad banner at game end."</item>
+        <item>"If you purchase the Level Pack you will get:
+
+- 20 instead of 4 Levels for Free Play.
+- no ad banner at game end."</item>
+        <item>"If you purchase the Level Pack you will get:
+
+- 20 instead of 4 Levels for Free Play.
+- no ad banner at game end."</item>
+    </string-array>
+    <string-array name="purchase_megapack_information">
+        <item>"If you purchase the Level and Character Pack you will get:
+
+- 20 instead of 4 Levels for Free Play.
+- All three aditional Characters.
+- no ad banner at game end."</item>
+        <item>"If you purchase the Level and Character Pack you will get:
+
+- 20 instead of 4 Levels for Free Play.
+- All three aditional Characters.
+- no ad banner at game end."</item>
+        <item>"If you purchase the Level and Character Pack you will get:
+
+- 20 instead of 4 Levels for Free Play.
+- All three aditional Characters.
+- no ad banner at game end."</item>
+        <item>"If you purchase the Level and Character Pack you will get:
+
+- 20 instead of 4 Levels for Free Play.
+- All three aditional Characters.
+- no ad banner at game end."</item>
+    </string-array>
+</resources>

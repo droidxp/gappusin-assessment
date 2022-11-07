@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/popup_menu_bg_layout" android:visibility="gone" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/menu_layout" android:background="@drawable/menu_bg" android:clickable="true" android:layout_width="60.0dip" android:layout_height="wrap_content" android:layout_marginBottom="5.0dip" android:layout_alignParentRight="true">
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/popup_menu_btn1" android:clickable="true" android:layout_width="60.0dip" android:layout_height="55.0dip" android:layout_marginTop="5.0dip">
+                <ImageView android:background="@drawable/edit" android:layout_width="32.0dip" android:layout_height="32.0dip" android:scaleType="fitCenter" />
+                <TextView android:textColor="@color/white" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/menu_1" />
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/popup_menu_btn2" android:clickable="true" android:layout_width="60.0dip" android:layout_height="55.0dip" android:layout_marginTop="5.0dip">
+                <ImageView android:background="@drawable/amplify" android:layout_width="32.0dip" android:layout_height="32.0dip" android:scaleType="fitCenter" />
+                <TextView android:textColor="@color/white" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/menu_2" />
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/popup_menu_btn3" android:clickable="true" android:layout_width="60.0dip" android:layout_height="55.0dip" android:layout_marginTop="5.0dip">
+                <ImageView android:background="@drawable/shrink" android:layout_width="32.0dip" android:layout_height="32.0dip" android:scaleType="fitCenter" />
+                <TextView android:textColor="@color/white" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/menu_3" />
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

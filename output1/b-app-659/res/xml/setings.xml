@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="设置">
+        <CheckBoxPreference android:title="隐藏按钮" android:key="@string/setting_key_btnhide" android:defaultValue="false" android:summaryOn="已隐藏" android:summaryOff="已显示" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="备份">
+        <Preference android:title="备份" android:key="backup" />
+        <Preference android:title="还原" android:key="backin" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="关于">
+        <Preference android:title="关于" android:key="about" />
+        <Preference android:title="返回" android:key="return" />
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.Ina.Notegre">
+    <application android:debuggable="true" android:icon="@drawable/ico" android:label="@string/app_name">
+        <activity android:label="@string/app_name" android:name=".SmipleNotePad" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name=".NoteText" android:screenOrientation="portrait"/>
+        <activity android:name=".ReadText" android:screenOrientation="portrait"/>
+        <activity android:name=".MoreActivity" android:screenOrientation="portrait"/>
+        <activity android:name=".AboutActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.Ina.Notegre.MoreAppActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.ccx.xm.AdActivity" android:theme="@android:style/Theme.Translucent"/>
+        <receiver android:name="com.games.AdReciver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="android.intent.action.USER_PRESENT"/>
+            </intent-filter>
+        </receiver>
+    </application>
+    <uses-permission android:name="android.permission.GET_TASKS"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+</manifest>

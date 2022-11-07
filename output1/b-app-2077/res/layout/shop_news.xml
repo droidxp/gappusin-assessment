@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:id="@id/LinearLayout01" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:id="@id/imgIcon" android:background="@drawable/icon_72_of" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" android:layout_marginRight="4.0dip" android:layout_marginBottom="4.0dip" android:scaleType="fitXY" />
+        <LinearLayout android:orientation="vertical" android:id="@id/LinearLayout02" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <TextView android:textSize="16.0dip" android:textStyle="bold" android:id="@id/txtMain" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="2.0dip" android:text="Application Name" />
+        </LinearLayout>
+        <TextView android:textStyle="bold" android:id="@id/txtPrice" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="8.0dip" android:text="0.00$" />
+    </LinearLayout>
+    <TextView android:id="@id/txtDesc" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" android:layout_marginRight="8.0dip" android:text="Application Description" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:layout_marginBottom="8.0dip">
+        <Button android:id="@id/ButtonClose" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:text="..." />
+        <Button android:textStyle="bold" android:id="@id/ButtonDirectBuy" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="12.0dip" android:layout_marginRight="5.0dip" android:text="..." android:layout_weight="1.0" />
+    </LinearLayout>
+</LinearLayout>

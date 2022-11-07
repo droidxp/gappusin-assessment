@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DTileAnimation texture="@drawable/cheese" columns="56">
+    <Modules>
+        <Module x="1" y="1" w="120" h="120" cx="-60" cy="-60" />
+        <Module x="124" y="1" w="60" h="60" cx="-30" cy="-30" />
+        <Module x="187" y="1" w="120" h="120" cx="-60" cy="-60" />
+        <Module x="310" y="1" w="120" h="120" cx="-60" cy="-60" />
+        <Module x="433" y="1" w="120" h="60" cx="-60" cy="-30" />
+        <Module x="556" y="1" w="120" h="60" cx="-60" cy="-30" />
+        <Module x="679" y="1" w="120" h="60" cx="-60" cy="-30" />
+        <Module x="802" y="1" w="120" h="60" cx="-60" cy="-30" />
+        <Module x="433" y="65" w="120" h="120" cx="-60" cy="-60" />
+        <Module x="556" y="65" w="240" h="60" cx="-120" cy="-30" />
+        <Module x="799" y="65" w="120" h="60" cx="-60" cy="-30" />
+        <Module x="1" y="129" w="120" h="120" cx="-60" cy="-60" />
+        <Module x="124" y="129" w="120" h="60" cx="-60" cy="-30" />
+        <Module x="247" y="129" w="120" h="60" cx="-60" cy="-30" />
+        <Module x="556" y="129" w="240" h="60" cx="-120" cy="-30" />
+        <Module x="799" y="129" w="120" h="120" cx="-60" cy="-60" />
+        <Module x="124" y="193" w="120" h="120" cx="-60" cy="-60" />
+        <Module x="247" y="193" w="180" h="60" cx="-90" cy="-30" />
+        <Module x="430" y="193" w="180" h="60" cx="-90" cy="-30" />
+        <Module x="925" y="1" w="60" h="60" cx="-30" cy="-30" />
+        <Module x="613" y="193" w="120" h="120" cx="-60" cy="-60" />
+        <Module x="124" y="65" w="60" h="60" cx="-30" cy="-30" />
+        <Module x="247" y="257" w="240" h="60" cx="-120" cy="-30" />
+        <Module x="1" y="257" w="120" h="120" cx="-60" cy="-60" />
+        <Module x="736" y="257" w="240" h="60" cx="-120" cy="-30" />
+        <Module x="490" y="257" w="120" h="120" cx="-60" cy="-60" />
+        <Module x="124" y="321" w="240" h="60" cx="-120" cy="-30" />
+        <Module x="367" y="321" w="120" h="120" cx="-60" cy="-60" />
+        <Module x="613" y="321" w="180" h="60" cx="-90" cy="-30" />
+        <Module x="796" y="321" w="120" h="60" cx="-60" cy="-30" />
+        <Module x="1" y="385" w="180" h="60" cx="-90" cy="-30" />
+        <Module x="184" y="385" w="120" h="60" cx="-60" cy="-30" />
+        <Module x="490" y="385" w="120" h="60" cx="-60" cy="-30" />
+        <Module x="922" y="65" w="60" h="60" cx="-30" cy="-30" />
+        <Module x="613" y="385" w="120" h="60" cx="-60" cy="-30" />
+        <Module x="370" y="129" w="60" h="60" cx="-30" cy="-30" />
+        <Module x="736" y="385" w="240" h="60" cx="-120" cy="-30" />
+        <Module x="1" y="449" w="120" h="60" cx="-60" cy="-30" />
+        <Module x="124" y="449" w="180" h="60" cx="-90" cy="-30" />
+        <Module x="307" y="449" w="120" h="60" cx="-60" cy="-30" />
+        <Module x="430" y="449" w="120" h="60" cx="-60" cy="-30" />
+        <Module x="553" y="449" w="120" h="60" cx="-60" cy="-30" />
+        <Module x="676" y="449" w="180" h="60" cx="-90" cy="-30" />
+        <Module x="859" y="449" w="120" h="120" cx="-60" cy="-60" />
+        <Module x="1" y="513" w="180" h="60" cx="-90" cy="-30" />
+        <Module x="184" y="513" w="240" h="60" cx="-120" cy="-30" />
+        <Module x="427" y="513" w="120" h="120" cx="-60" cy="-60" />
+        <Module x="550" y="513" w="120" h="120" cx="-60" cy="-60" />
+        <Module x="673" y="513" w="120" h="120" cx="-60" cy="-60" />
+        <Module x="1" y="577" w="120" h="120" cx="-60" cy="-60" />
+        <Module x="124" y="577" w="120" h="60" cx="-60" cy="-30" />
+        <Module x="796" y="577" w="180" h="60" cx="-90" cy="-30" />
+        <Module x="922" y="129" w="60" h="60" cx="-30" cy="-30" />
+        <Module x="124" y="641" w="240" h="60" cx="-120" cy="-30" />
+        <Module x="736" y="193" w="60" h="60" cx="-30" cy="-30" />
+        <Module x="922" y="193" w="60" h="60" cx="-30" cy="-30" />
+    </Modules>
+    <actions>
+        <action id="@id/cheese6_3" repeat="true">
+            <sequence f="0" d="300" />
+        </action>
+        <action id="@id/cheese1_7" repeat="true">
+            <sequence f="1" d="300" />
+        </action>
+        <action id="@id/cheese6_1" repeat="true">
+            <sequence f="2" d="300" />
+        </action>
+        <action id="@id/cheese6_8" repeat="true">
+            <sequence f="3" d="300" />
+        </action>
+        <action id="@id/cheese7_2" repeat="true">
+            <sequence f="4" d="300" />
+        </action>
+        <action id="@id/cheese7_3" repeat="true">
+            <sequence f="5" d="300" />
+        </action>
+        <action id="@id/cheese2_1" repeat="true">
+            <sequence f="6" d="300" />
+        </action>
+        <action id="@id/cheese2_3" repeat="true">
+            <sequence f="7" d="300" />
+        </action>
+        <action id="@id/cheese5_6" repeat="true">
+            <sequence f="8" d="300" />
+        </action>
+        <action id="@id/cheese4_3" repeat="true">
+            <sequence f="9" d="300" />
+        </action>
+        <action id="@id/cheese2_2" repeat="true">
+            <sequence f="10" d="300" />
+        </action>
+        <action id="@id/cheese5_3" repeat="true">
+            <sequence f="11" d="300" />
+        </action>
+        <action id="@id/cheese7_1" repeat="true">
+            <sequence f="12" d="300" />
+        </action>
+        <action id="@id/cheese7_8" repeat="true">
+            <sequence f="13" d="300" />
+        </action>
+        <action id="@id/cheese4_5" repeat="true">
+            <sequence f="14" d="300" />
+        </action>
+        <action id="@id/cheese5_2" repeat="true">
+            <sequence f="15" d="300" />
+        </action>
+        <action id="@id/cheese5_1" repeat="true">
+            <sequence f="16" d="300" />
+        </action>
+        <action id="@id/cheese3_6" repeat="true">
+            <sequence f="17" d="300" />
+        </action>
+        <action id="@id/cheese3_1" repeat="true">
+            <sequence f="18" d="300" />
+        </action>
+        <action id="@id/cheese1_5" repeat="true">
+            <sequence f="19" d="300" />
+        </action>
+        <action id="@id/cheese6_7" repeat="true">
+            <sequence f="20" d="300" />
+        </action>
+        <action id="@id/cheese1_2" repeat="true">
+            <sequence f="21" d="300" />
+        </action>
+        <action id="@id/cheese4_4" repeat="true">
+            <sequence f="22" d="300" />
+        </action>
+        <action id="@id/cheese5_7" repeat="true">
+            <sequence f="23" d="300" />
+        </action>
+        <action id="@id/cheese4_8" repeat="true">
+            <sequence f="24" d="300" />
+        </action>
+        <action id="@id/cheese5_5" repeat="true">
+            <sequence f="25" d="300" />
+        </action>
+        <action id="@id/cheese4_6" repeat="true">
+            <sequence f="26" d="300" />
+        </action>
+        <action id="@id/cheese5_4" repeat="true">
+            <sequence f="27" d="300" />
+        </action>
+        <action id="@id/cheese3_2" repeat="true">
+            <sequence f="28" d="300" />
+        </action>
+        <action id="@id/cheese2_7" repeat="true">
+            <sequence f="29" d="300" />
+        </action>
+        <action id="@id/cheese3_7" repeat="true">
+            <sequence f="30" d="300" />
+        </action>
+        <action id="@id/cheese7_7" repeat="true">
+            <sequence f="31" d="300" />
+        </action>
+        <action id="@id/cheese2_8" repeat="true">
+            <sequence f="32" d="300" />
+        </action>
+        <action id="@id/cheese1_6" repeat="true">
+            <sequence f="33" d="300" />
+        </action>
+        <action id="@id/cheese7_4" repeat="true">
+            <sequence f="34" d="300" />
+        </action>
+        <action id="@id/cheese1_4" repeat="true">
+            <sequence f="35" d="300" />
+        </action>
+        <action id="@id/cheese4_7" repeat="true">
+            <sequence f="36" d="300" />
+        </action>
+        <action id="@id/cheese7_5" repeat="true">
+            <sequence f="37" d="300" />
+        </action>
+        <action id="@id/cheese3_5" repeat="true">
+            <sequence f="38" d="300" />
+        </action>
+        <action id="@id/cheese7_6" repeat="true">
+            <sequence f="39" d="300" />
+        </action>
+        <action id="@id/cheese2_5" repeat="true">
+            <sequence f="40" d="300" />
+        </action>
+        <action id="@id/cheese2_4" repeat="true">
+            <sequence f="41" d="300" />
+        </action>
+        <action id="@id/cheese3_4" repeat="true">
+            <sequence f="42" d="300" />
+        </action>
+        <action id="@id/cheese6_4" repeat="true">
+            <sequence f="43" d="300" />
+        </action>
+        <action id="@id/cheese3_3" repeat="true">
+            <sequence f="44" d="300" />
+        </action>
+        <action id="@id/cheese4_1" repeat="true">
+            <sequence f="45" d="300" />
+        </action>
+        <action id="@id/cheese5_8" repeat="true">
+            <sequence f="46" d="300" />
+        </action>
+        <action id="@id/cheese6_6" repeat="true">
+            <sequence f="47" d="300" />
+        </action>
+        <action id="@id/cheese6_2" repeat="true">
+            <sequence f="48" d="300" />
+        </action>
+        <action id="@id/cheese6_5" repeat="true">
+            <sequence f="49" d="300" />
+        </action>
+        <action id="@id/cheese2_6" repeat="true">
+            <sequence f="50" d="300" />
+        </action>
+        <action id="@id/cheese3_8" repeat="true">
+            <sequence f="51" d="300" />
+        </action>
+        <action id="@id/cheese1_3" repeat="true">
+            <sequence f="52" d="300" />
+        </action>
+        <action id="@id/cheese4_2" repeat="true">
+            <sequence f="53" d="300" />
+        </action>
+        <action id="@id/cheese1_1" repeat="true">
+            <sequence f="54" d="300" />
+        </action>
+        <action id="@id/cheese1_8" repeat="true">
+            <sequence f="55" d="300" />
+        </action>
+        <action id="@id/cheese1_boom" next="@id/cheese1_end">
+            <sequence f="54" d="50" />
+            <sequence f="21" d="50" />
+            <sequence f="52" d="50" />
+            <sequence f="35" d="50" />
+            <sequence f="19" d="50" />
+            <sequence f="33" d="50" />
+            <sequence f="1" d="50" />
+            <sequence f="55" d="50" />
+        </action>
+        <action id="@id/cheese1_normal" repeat="true">
+            <sequence f="54" d="50" />
+        </action>
+        <action id="@id/cheese1_end" repeat="true">
+            <sequence f="55" d="37" />
+        </action>
+        <action id="@id/cheese2_boom" next="@id/cheese2_end">
+            <sequence f="6" d="50" />
+            <sequence f="10" d="50" />
+            <sequence f="7" d="50" />
+            <sequence f="41" d="50" />
+            <sequence f="40" d="50" />
+            <sequence f="50" d="50" />
+            <sequence f="29" d="50" />
+            <sequence f="32" d="50" />
+        </action>
+        <action id="@id/cheese2_normal" repeat="true">
+            <sequence f="6" d="50" />
+        </action>
+        <action id="@id/cheese2_end" repeat="true">
+            <sequence f="32" d="37" />
+        </action>
+        <action id="@id/cheese3_boom" next="@id/cheese3_end">
+            <sequence f="18" d="50" />
+            <sequence f="28" d="50" />
+            <sequence f="44" d="50" />
+            <sequence f="42" d="50" />
+            <sequence f="38" d="50" />
+            <sequence f="17" d="50" />
+            <sequence f="30" d="50" />
+            <sequence f="51" d="50" />
+        </action>
+        <action id="@id/cheese3_normal" repeat="true">
+            <sequence f="18" d="50" />
+        </action>
+        <action id="@id/cheese3_end" repeat="true">
+            <sequence f="51" d="37" />
+        </action>
+        <action id="@id/cheese4_boom" next="@id/cheese4_end">
+            <sequence f="45" d="50" />
+            <sequence f="53" d="50" />
+            <sequence f="9" d="50" />
+            <sequence f="22" d="50" />
+            <sequence f="14" d="50" />
+            <sequence f="26" d="50" />
+            <sequence f="36" d="50" />
+            <sequence f="24" d="50" />
+        </action>
+        <action id="@id/cheese4_normal" repeat="true">
+            <sequence f="45" d="50" />
+        </action>
+        <action id="@id/cheese4_end" repeat="true">
+            <sequence f="24" d="37" />
+        </action>
+        <action id="@id/cheese5_boom" next="@id/cheese5_end">
+            <sequence f="16" d="50" />
+            <sequence f="15" d="50" />
+            <sequence f="11" d="50" />
+            <sequence f="27" d="50" />
+            <sequence f="25" d="50" />
+            <sequence f="8" d="50" />
+            <sequence f="23" d="50" />
+            <sequence f="46" d="50" />
+        </action>
+        <action id="@id/cheese5_normal" repeat="true">
+            <sequence f="16" d="50" />
+        </action>
+        <action id="@id/cheese5_end" repeat="true">
+            <sequence f="46" d="37" />
+        </action>
+        <action id="@id/cheese6_boom" next="@id/cheese6_end">
+            <sequence f="2" d="50" />
+            <sequence f="48" d="50" />
+            <sequence f="0" d="50" />
+            <sequence f="43" d="50" />
+            <sequence f="49" d="50" />
+            <sequence f="47" d="50" />
+            <sequence f="20" d="50" />
+            <sequence f="3" d="50" />
+        </action>
+        <action id="@id/cheese6_normal" repeat="true">
+            <sequence f="2" d="2" />
+        </action>
+        <action id="@id/cheese6_end" repeat="true">
+            <sequence f="3" d="3" />
+        </action>
+        <action id="@id/cheese7_boom" next="@id/cheese7_end">
+            <sequence f="12" d="50" />
+            <sequence f="4" d="50" />
+            <sequence f="5" d="50" />
+            <sequence f="34" d="50" />
+            <sequence f="37" d="50" />
+            <sequence f="39" d="50" />
+            <sequence f="31" d="50" />
+            <sequence f="13" d="50" />
+        </action>
+        <action id="@id/cheese7_normal" repeat="true">
+            <sequence f="12" d="50" />
+        </action>
+        <action id="@id/cheese7_end" repeat="true">
+            <sequence f="13" d="37" />
+        </action>
+    </actions>
+</DTileAnimation>

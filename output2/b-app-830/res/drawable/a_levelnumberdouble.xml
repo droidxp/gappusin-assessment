@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Font texture="@drawable/levelnumberdouble" string="1234567890">
+    <Modules>
+        <Module h="31" w="14" x="0" y="1" />
+        <Module h="31" w="18" x="22" y="0" />
+        <Module h="32" w="18" x="49" y="0" />
+        <Module h="32" w="19" x="76" y="0" />
+        <Module h="32" w="20" x="102" y="0" />
+        <Module h="31" w="18" x="130" y="1" />
+        <Module h="30" w="17" x="156" y="1" />
+        <Module h="32" w="19" x="180" y="0" />
+        <Module h="32" w="19" x="206" y="0" />
+        <Module h="31" w="19" x="234" y="0" />
+    </Modules>
+</Font>

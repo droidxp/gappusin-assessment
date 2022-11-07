@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Font texture="@drawable/gamelevelnumber5" string="1234567890">
+    <Modules>
+        <Module h="14" w="7" x="0" y="0" />
+        <Module h="14" w="9" x="11" y="0" />
+        <Module h="14" w="9" x="24" y="0" />
+        <Module h="14" w="10" x="36" y="0" />
+        <Module h="14" w="9" x="50" y="0" />
+        <Module h="14" w="9" x="63" y="0" />
+        <Module h="14" w="8" x="75" y="0" />
+        <Module h="14" w="9" x="87" y="0" />
+        <Module h="14" w="9" x="100" y="0" />
+        <Module h="14" w="9" x="113" y="0" />
+    </Modules>
+</Font>

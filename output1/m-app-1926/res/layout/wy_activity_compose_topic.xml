@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:scrollbarThumbVertical="@drawable/wy_scrollbar_vertical_thumb_style1" android:background="@color/wy_roundrect_container_bg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:paddingLeft="7.0dip" android:paddingTop="7.0dip" android:paddingRight="7.0dip" android:paddingBottom="7.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/wy_label_title_with_colon" style="@android:style/TextAppearance.Medium.Inverse" />
+            <EditText android:id="@id/wy_edit" android:background="@drawable/wy_edit_box" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/wy_placeholder_enter_title" android:singleLine="true" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip">
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/wy_label_category_with_colon" style="@android:style/TextAppearance.Medium.Inverse" />
+            <Button android:id="@id/wy_button" android:background="@drawable/wy_button_style2" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:text="@string/wy_topic_question" android:drawableTop="@drawable/wy_icon_topic_question" android:layout_weight="1.0" style="@android:style/TextAppearance.Small.Inverse" />
+            <Button android:id="@id/wy_button2" android:background="@drawable/wy_button_style2" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:text="@string/wy_topic_problem" android:drawableTop="@drawable/wy_icon_topic_problem" android:layout_weight="1.0" style="@android:style/TextAppearance.Small.Inverse" />
+            <Button android:id="@id/wy_button3" android:background="@drawable/wy_button_style2" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:text="@string/wy_topic_idea" android:drawableTop="@drawable/wy_icon_topic_idea" android:layout_weight="1.0" style="@android:style/TextAppearance.Small.Inverse" />
+            <Button android:id="@id/wy_button4" android:background="@drawable/wy_button_style2" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:text="@string/wy_topic_praise" android:drawableTop="@drawable/wy_icon_topic_praise" android:layout_weight="1.0" style="@android:style/TextAppearance.Small.Inverse" />
+        </LinearLayout>
+        <EditText android:gravity="top" android:id="@id/wy_edit2" android:background="@drawable/wy_edit_box" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:minHeight="100.0dip" />
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:paddingLeft="20.0dip" android:paddingTop="10.0dip" android:paddingRight="20.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <Button android:id="@id/wy_button5" android:background="@drawable/wy_button_style1" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/wy_button_post" android:layout_weight="1.0" style="@android:style/TextAppearance.Medium" />
+            <Button android:id="@id/wy_button6" android:background="@drawable/wy_button_style3" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:text="@string/wy_button_cancel" android:layout_weight="1.0" style="@android:style/TextAppearance.Medium" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

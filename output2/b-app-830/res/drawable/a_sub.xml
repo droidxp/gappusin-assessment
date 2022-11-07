@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Font texture="@drawable/subtract" string="1234567890-">
+    <Modules>
+        <Module h="38" w="15" x="0" y="0" />
+        <Module h="38" w="28" x="25" y="0" />
+        <Module h="38" w="26" x="65" y="0" />
+        <Module h="38" w="21" x="103" y="0" />
+        <Module h="38" w="25" x="137" y="0" />
+        <Module h="38" w="21" x="175" y="0" />
+        <Module h="38" w="21" x="208" y="0" />
+        <Module h="38" w="22" x="241" y="0" />
+        <Module h="38" w="25" x="275" y="0" />
+        <Module h="38" w="20" x="311" y="0" />
+        <Module h="38" w="28" x="346" y="0" />
+    </Modules>
+</Font>

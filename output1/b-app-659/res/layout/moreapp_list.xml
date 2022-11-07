@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="100.0dip">
+        <LinearLayout android:gravity="center" android:id="@id/moreapp_img_layout" android:layout_width="100.0dip" android:layout_height="fill_parent">
+            <ImageView android:background="@drawable/moreapp" android:layout_width="80.0dip" android:layout_height="80.0dip" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/moreapp_down_layout" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_alignParentRight="true">
+            <Button android:id="@id/moreapp_btn_store" android:background="@drawable/down_btn_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="市场下载" />
+            <Button android:id="@id/moreapp_btn_down" android:background="@drawable/down_btn_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="直接下载" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_toLeftOf="@id/moreapp_down_layout" android:layout_toRightOf="@id/moreapp_img_layout">
+            <TextView android:textSize="18.0sp" android:textStyle="bold" android:textColor="@color/black" android:id="@id/moreapp_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="test" />
+            <TextView android:textColor="@color/black_6" android:id="@id/moreapp_content" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="test" />
+        </LinearLayout>
+        <View android:background="@drawable/spe_line_repeat" android:layout_width="fill_parent" android:layout_height="1.0px" android:layout_margin="5.0dip" android:layout_alignParentBottom="true" />
+    </RelativeLayout>
+</RelativeLayout>

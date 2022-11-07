@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Layout>
+    <Image layout_width="480.0" layout_height="800.0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" texture="@drawable/blackflash" />
+    <Animation id="@id/id_beginingloading_catlaugh" animation="@drawable/a_cat" action="@id/catlaugh1" layout_width="217.0" layout_height="37.0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" layout_ry="-80.0" />
+    <Image layout_ry="0.0" layout_width="480.0" layout_height="800.0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" texture="@drawable/begingloading_up" />
+    <Animation animation="@drawable/a_loading" action="@id/beginingloading" layout_width="205.0" layout_height="60.0" layout_anchorx="0.0" layout_anchory="0.0" layout_ry="110.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" />
+</Layout>

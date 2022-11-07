@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DTileAnimation texture="@drawable/change" columns="56">
+    <Modules>
+        <Module x="1" y="1" w="180" h="60" cx="-90" cy="-30" />
+        <Module x="184" y="1" w="120" h="60" cx="-60" cy="-30" />
+        <Module x="307" y="1" w="120" h="60" cx="-60" cy="-30" />
+        <Module x="1" y="65" w="120" h="120" cx="-60" cy="-60" />
+        <Module x="124" y="65" w="120" h="120" cx="-60" cy="-60" />
+        <Module x="247" y="65" w="180" h="60" cx="-90" cy="-30" />
+        <Module x="247" y="129" w="180" h="60" cx="-90" cy="-30" />
+        <Module x="1" y="193" w="120" h="60" cx="-60" cy="-30" />
+        <Module x="124" y="193" w="120" h="120" cx="-60" cy="-60" />
+        <Module x="247" y="193" w="240" h="60" cx="-120" cy="-30" />
+        <Module x="247" y="257" w="240" h="60" cx="-120" cy="-30" />
+        <Module x="1" y="257" w="120" h="120" cx="-60" cy="-60" />
+        <Module x="124" y="321" w="120" h="120" cx="-60" cy="-60" />
+        <Module x="247" y="321" w="240" h="60" cx="-120" cy="-30" />
+        <Module x="247" y="385" w="240" h="60" cx="-120" cy="-30" />
+        <Module x="1" y="385" w="120" h="120" cx="-60" cy="-60" />
+        <Module x="124" y="449" w="120" h="120" cx="-60" cy="-60" />
+        <Module x="247" y="449" w="180" h="60" cx="-90" cy="-30" />
+        <Module x="247" y="513" w="180" h="60" cx="-90" cy="-30" />
+        <Module x="1" y="513" w="120" h="120" cx="-60" cy="-60" />
+        <Module x="124" y="577" w="120" h="120" cx="-60" cy="-60" />
+        <Module x="247" y="577" w="120" h="60" cx="-60" cy="-30" />
+        <Module x="370" y="577" w="120" h="60" cx="-60" cy="-30" />
+        <Module x="1" y="641" w="120" h="120" cx="-60" cy="-60" />
+        <Module x="247" y="641" w="120" h="120" cx="-60" cy="-60" />
+        <Module x="1" y="769" w="240" h="60" cx="-120" cy="-30" />
+        <Module x="370" y="641" w="120" h="120" cx="-60" cy="-60" />
+        <Module x="244" y="769" w="240" h="60" cx="-120" cy="-30" />
+        <Module x="1" y="833" w="180" h="60" cx="-90" cy="-30" />
+        <Module x="124" y="705" w="120" h="60" cx="-60" cy="-30" />
+    </Modules>
+    <actions>
+        <action id="@id/change3_5" repeat="true">
+            <sequence f="0" d="300" />
+        </action>
+        <action id="@id/change2_3" repeat="true">
+            <sequence f="1" d="300" />
+        </action>
+        <action id="@id/change2_5" repeat="true">
+            <sequence f="2" d="300" />
+        </action>
+        <action id="@id/change5_5" repeat="true">
+            <sequence f="3" d="300" />
+        </action>
+        <action id="@id/change6_5" repeat="true">
+            <sequence f="4" d="300" />
+        </action>
+        <action id="@id/change3_2" repeat="true">
+            <sequence f="5" d="300" />
+        </action>
+        <action id="@id/change3_6" repeat="true">
+            <sequence f="6" d="300" />
+        </action>
+        <action id="@id/change2_2" repeat="true">
+            <sequence f="7" d="300" />
+        </action>
+        <action id="@id/change5_1" repeat="true">
+            <sequence f="8" d="300" />
+        </action>
+        <action id="@id/change4_4" repeat="true">
+            <sequence f="9" d="300" />
+        </action>
+        <action id="@id/change4_1" repeat="true">
+            <sequence f="10" d="300" />
+        </action>
+        <action id="@id/change6_3" repeat="true">
+            <sequence f="11" d="300" />
+        </action>
+        <action id="@id/change6_2" repeat="true">
+            <sequence f="12" d="300" />
+        </action>
+        <action id="@id/change4_2" repeat="true">
+            <sequence f="13" d="300" />
+        </action>
+        <action id="@id/change4_5" repeat="true">
+            <sequence f="14" d="300" />
+        </action>
+        <action id="@id/change6_4" repeat="true">
+            <sequence f="15" d="300" />
+        </action>
+        <action id="@id/change5_2" repeat="true">
+            <sequence f="16" d="300" />
+        </action>
+        <action id="@id/change3_1" repeat="true">
+            <sequence f="17" d="300" />
+        </action>
+        <action id="@id/change3_4" repeat="true">
+            <sequence f="18" d="300" />
+        </action>
+        <action id="@id/change6_6" repeat="true">
+            <sequence f="19" d="300" />
+        </action>
+        <action id="@id/change5_3" repeat="true">
+            <sequence f="20" d="300" />
+        </action>
+        <action id="@id/change2_6" repeat="true">
+            <sequence f="21" d="300" />
+        </action>
+        <action id="@id/change2_4" repeat="true">
+            <sequence f="22" d="300" />
+        </action>
+        <action id="@id/change6_1" repeat="true">
+            <sequence f="23" d="300" />
+        </action>
+        <action id="@id/change5_6" repeat="true">
+            <sequence f="24" d="300" />
+        </action>
+        <action id="@id/change4_3" repeat="true">
+            <sequence f="25" d="300" />
+        </action>
+        <action id="@id/change5_4" repeat="true">
+            <sequence f="26" d="300" />
+        </action>
+        <action id="@id/change4_6" repeat="true">
+            <sequence f="27" d="300" />
+        </action>
+        <action id="@id/change3_3" repeat="true">
+            <sequence f="28" d="300" />
+        </action>
+        <action id="@id/change2_1" repeat="true">
+            <sequence f="29" d="300" />
+        </action>
+        <action id="@id/change3_normal" repeat="true">
+            <sequence f="17" d="80" />
+            <sequence f="5" d="80" />
+            <sequence f="28" d="80" />
+            <sequence f="18" d="80" />
+            <sequence f="0" d="80" />
+            <sequence f="6" d="80" />
+        </action>
+        <action id="@id/change2_normal" repeat="true">
+            <sequence f="29" d="80" />
+            <sequence f="7" d="80" />
+            <sequence f="1" d="80" />
+            <sequence f="22" d="80" />
+            <sequence f="2" d="80" />
+            <sequence f="21" d="80" />
+        </action>
+        <action id="@id/change4_normal" repeat="true">
+            <sequence f="10" d="80" />
+            <sequence f="13" d="80" />
+            <sequence f="25" d="80" />
+            <sequence f="9" d="80" />
+            <sequence f="14" d="80" />
+            <sequence f="27" d="80" />
+        </action>
+        <action id="@id/change5_normal" repeat="true">
+            <sequence f="8" d="80" />
+            <sequence f="16" d="80" />
+            <sequence f="20" d="80" />
+            <sequence f="26" d="80" />
+            <sequence f="3" d="80" />
+            <sequence f="24" d="80" />
+        </action>
+        <action id="@id/change6_normal" repeat="true">
+            <sequence f="23" d="80" />
+            <sequence f="12" d="80" />
+            <sequence f="11" d="80" />
+            <sequence f="15" d="80" />
+            <sequence f="4" d="80" />
+            <sequence f="19" d="80" />
+        </action>
+    </actions>
+</DTileAnimation>

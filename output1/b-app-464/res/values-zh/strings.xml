@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, SameStarActivity!</string>
+    <string name="app_name">疯狂水果连连看</string>
+    <string name="msg_exit_current_game">"暂停当前游戏，
+返回主界面吗?"</string>
+    <string name="msg_exit_current_game_new_record">取得了新记录，马上参与全球排名?</string>
+    <string name="menu_level1">小试牛刀</string>
+    <string name="menu_level2">经典再现</string>
+    <string name="menu_level3">智力挑战</string>
+    <string name="menu_challenge">我要挑战</string>
+    <string name="menu_exit">退出游戏</string>
+    <string name="msg_challenge_alert">游戏直到结束才会提交成绩，寻找对手进行PK！</string>
+    <string name="umeng_common_action_info_exist">正在下载中.</string>
+    <string name="umeng_common_info_interrupt">下载出错啦，请检查网络后继续。</string>
+    <string name="umeng_common_action_pause">暂停</string>
+    <string name="umeng_common_action_continue">继续</string>
+    <string name="umeng_common_action_cancel">取消</string>
+    <string name="umeng_common_download_notification_prefix">正在下载:</string>
+    <string name="umeng_common_network_break_alert">请连接网络后再尝试！</string>
+    <string name="umeng_common_download_failed">下载失败</string>
+    <string name="UMBreak_Network">未联网</string>
+    <string name="UMUpdateTitle">应用程序有新版本更新</string>
+    <string name="UMNewVersion">最新版本:</string>
+    <string name="UMGprsCondition">（提示：非WIFI环境）</string>
+    <string name="UMUpdateNow">立即更新</string>
+    <string name="UMAppUpdate">应用更新</string>
+    <string name="UMNotNow">以后再说</string>
+    <string name="UMToast_IsUpdating">正在更新中....</string>
+    <string name="UMDialog_InstallAPK">最新版本已下载，是否安装？</string>
+</resources>

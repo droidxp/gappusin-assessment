@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World!</string>
+    <string name="app_name">轨道火车</string>
+    <string name="admob_id">a14f75ce58d48c6</string>
+    <string name="episode_1">Episode 1</string>
+    <string name="episode_2">Episode 2</string>
+    <string name="episode_3">Episode 3</string>
+    <string name="episode_4">Episode 4</string>
+    <string name="play_game">Play Game</string>
+    <string name="options">Options</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="more_games">More Games</string>
+    <string name="sound">Sound On</string>
+    <string name="music">Music On</string>
+    <string name="vibration">Vibration On</string>
+    <string name="try_again">Try Again</string>
+    <string name="levels">Levels</string>
+    <string name="skip_level">Skip Level</string>
+    <string name="resume">Resume</string>
+    <string name="episode_5">episode 5</string>
+    <string name="episode_6">episode 6</string>
+</resources>

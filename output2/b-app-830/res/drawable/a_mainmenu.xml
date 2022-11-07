@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DTileAnimation texture="@drawable/mainmenu" columns="10">
+    <Modules>
+        <Module x="1" y="1" w="314" h="61" cx="-157" cy="-31" />
+        <Module x="1" y="65" w="313" h="62" cx="-157" cy="-31" />
+        <Module x="318" y="1" w="148" h="137" cx="-74" cy="-69" />
+        <Module x="1" y="145" w="409" h="193" cx="-205" cy="-97" />
+        <Module x="1" y="353" w="160" h="170" cx="-80" cy="-85" />
+        <Module x="164" y="353" w="313" h="74" cx="-157" cy="-37" />
+        <Module x="164" y="433" w="313" h="61" cx="-157" cy="-31" />
+        <Module x="164" y="497" w="191" h="56" cx="-96" cy="-28" />
+        <Module x="1" y="561" w="313" h="61" cx="-157" cy="-31" />
+        <Module x="358" y="497" w="126" h="82" cx="-63" cy="-41" />
+    </Modules>
+    <actions>
+        <action id="@id/featured" repeat="true">
+            <sequence f="0" d="300" />
+        </action>
+        <action id="@id/help" repeat="true">
+            <sequence f="1" d="300" />
+        </action>
+        <action id="@id/mouse" repeat="true">
+            <sequence f="2" d="300" />
+        </action>
+        <action id="@id/cheese" repeat="true">
+            <sequence f="3" d="300" />
+        </action>
+        <action id="@id/mouseshadow" repeat="true">
+            <sequence f="4" d="300" />
+        </action>
+        <action id="@id/highscore" repeat="true">
+            <sequence f="5" d="300" />
+        </action>
+        <action id="@id/options" repeat="true">
+            <sequence f="6" d="300" />
+        </action>
+        <action id="@id/tower" repeat="true">
+            <sequence f="7" d="300" />
+        </action>
+        <action id="@id/play" repeat="true">
+            <sequence f="8" d="300" />
+        </action>
+        <action id="@id/rate" repeat="true">
+            <sequence f="9" d="300" />
+        </action>
+    </actions>
+</DTileAnimation>

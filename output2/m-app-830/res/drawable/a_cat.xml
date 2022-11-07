@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DTileAnimation texture="@drawable/cat" columns="2">
+    <Modules>
+        <Module x="1" y="1" w="234" h="188" cx="-117" cy="-94" />
+        <Module x="1" y="193" w="234" h="188" cx="-117" cy="-94" />
+    </Modules>
+    <actions>
+        <action id="@id/catlaugh1" repeat="true">
+            <sequence f="0" d="300" />
+        </action>
+        <action id="@id/catlaugh2" repeat="true">
+            <sequence f="1" d="300" />
+        </action>
+        <action id="@id/catlaughloading" next="@id/catlaugh1">
+            <sequence f="0" d="100" />
+            <sequence f="1" d="100" />
+            <sequence f="0" d="100" />
+            <sequence f="1" d="100" />
+        </action>
+        <action id="@id/catlaugh" repeat="true">
+            <sequence f="0" d="100" />
+            <sequence f="1" d="100" />
+        </action>
+    </actions>
+</DTileAnimation>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:paddingLeft="10.0dip" android:paddingRight="12.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="64.0dip">
+        <ImageView android:id="@id/wy_image" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="center" />
+        <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:paddingLeft="5.0dip" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <TextView android:textColor="@android:color/white" android:ellipsize="marquee" android:id="@id/wy_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:shadowColor="@android:color/black" android:shadowDx="1.0" android:shadowDy="1.0" android:shadowRadius="1.0" style="@android:style/TextAppearance.Medium" />
+            <TextView android:textColor="@color/wy_cell_secondary_text_color_2" android:ellipsize="marquee" android:id="@id/wy_text2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="3.0dip" android:maxLines="2" style="@android:style/TextAppearance.Small" />
+        </LinearLayout>
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="3.0dip" android:src="@drawable/wy_icon_disclosure_indicator" android:scaleType="center" />
+    </LinearLayout>
+    <TextView android:textSize="10.0sp" android:textColor="@android:color/white" android:gravity="center|top" android:layout_gravity="center|right|top" android:id="@id/wy_text3" android:background="@drawable/wy_corner_alert_bg" android:paddingLeft="10.0dip" android:paddingTop="2.0dip" android:paddingRight="2.0dip" android:layout_width="25.0dip" android:layout_height="25.0dip" android:includeFontPadding="false" style="@android:style/TextAppearance.Small" />
+</FrameLayout>

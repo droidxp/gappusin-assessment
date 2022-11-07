@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="horizontal" android:id="@id/rlt_main" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <org.anddev.andengine.opengl.view.RenderSurfaceView android:id="@id/game_rendersurfaceview" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <RelativeLayout android:id="@id/bg" android:background="@drawable/bg_loading" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" />
+    <RelativeLayout android:id="@id/main_adView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/close_ad" android:layout_alignParentBottom="true">
+        <Button android:id="@id/close_ad" android:background="@drawable/cross" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" android:layout_toRightOf="@id/ad_view" android:layout_alignParentTop="false" />
+        <LinearLayout android:id="@id/ad_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentLeft="true" />
+    </RelativeLayout>
+</RelativeLayout>

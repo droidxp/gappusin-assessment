@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/rlt_main1" android:layout_width="350.0dip" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_gravity="center_vertical" android:id="@id/RelativeLayout01" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip">
+        <ImageView android:id="@id/ImageView01" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:src="@drawable/marin_icon" android:layout_alignParentLeft="true" />
+        <TextView android:textAppearance="?android:textAppearanceLarge" android:textSize="18.0dip" android:id="@id/TextView01" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:text="MARINE DEFENDER" android:layout_toRightOf="@id/ImageView01" android:layout_centerVertical="true" />
+        <Button android:id="@id/btn_ninja" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:text="Download" android:layout_alignBaseline="@id/ImageView01" android:layout_alignParentRight="true" />
+    </RelativeLayout>
+    <RelativeLayout android:layout_gravity="center_vertical" android:orientation="horizontal" android:id="@id/RelativeLayout1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip">
+        <ImageView android:id="@id/imageView1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:src="@drawable/es_icon" android:layout_alignParentLeft="true" />
+        <TextView android:textAppearance="?android:textAppearanceLarge" android:textSize="18.0dip" android:id="@id/textView2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:text="ELECTRIC SHOCK" android:layout_toRightOf="@id/imageView1" android:layout_centerVertical="true" />
+        <Button android:id="@id/btn_es" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:text="Download" android:layout_alignBaseline="@id/imageView1" android:layout_alignParentRight="true" />
+    </RelativeLayout>
+    <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:id="@id/LinearLayout02" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip">
+        <RelativeLayout android:id="@id/RelativeLayout1" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="18.0dip" android:gravity="center" android:layout_gravity="center" android:id="@id/textView3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Are you Sure to Quit?" android:layout_centerInParent="true" android:layout_centerVertical="true" />
+        </RelativeLayout>
+        <RelativeLayout android:layout_gravity="center" android:id="@id/RelativeLayout1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip">
+            <Button android:id="@id/btnYes" android:layout_width="90.0dip" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:text="YES" android:layout_alignParentLeft="true" />
+            <Button android:id="@id/btnNo" android:layout_width="90.0dip" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:text="NO" android:layout_alignParentRight="true" />
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

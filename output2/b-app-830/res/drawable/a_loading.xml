@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DTileAnimation texture="@drawable/loading" columns="9">
+    <Modules>
+        <Module x="1" y="1" w="121" h="88" cx="-61" cy="-44" />
+        <Module x="125" y="1" w="173" h="171" cx="-87" cy="-86" />
+        <Module x="1" y="177" w="215" h="241" cx="-108" cy="-121" />
+        <Module x="301" y="1" w="119" h="206" cx="-60" cy="-103" />
+        <Module x="219" y="209" w="173" h="171" cx="-87" cy="-86" />
+        <Module x="219" y="385" w="205" h="60" cx="-103" cy="-30" />
+        <Module x="219" y="385" w="149" h="60" cx="-103" cy="-30" />
+        <Module x="219" y="385" w="171" h="60" cx="-103" cy="-30" />
+        <Module x="219" y="385" w="188" h="60" cx="-103" cy="-30" />
+    </Modules>
+    <actions>
+        <action id="@id/claw" repeat="true">
+            <sequence f="0" d="300" />
+        </action>
+        <action id="@id/cat_claw2" repeat="true">
+            <sequence f="1" d="300" />
+        </action>
+        <action id="@id/cheese" repeat="true">
+            <sequence f="2" d="300" />
+        </action>
+        <action id="@id/scratch" repeat="true">
+            <sequence f="3" d="300" />
+        </action>
+        <action id="@id/cat_claw1" repeat="true">
+            <sequence f="4" d="300" />
+        </action>
+        <action id="@id/loading" repeat="true">
+            <sequence f="5" d="300" />
+        </action>
+        <action id="@id/beginingloading" repeat="true">
+            <sequence f="6" d="300" />
+            <sequence f="7" d="300" />
+            <sequence f="8" d="300" />
+            <sequence f="5" d="300" />
+        </action>
+        <action id="@id/cat_claw" next="@id/cat_claw1">
+            <sequence f="4" d="300" />
+            <sequence f="1" d="300" />
+        </action>
+    </actions>
+</DTileAnimation>

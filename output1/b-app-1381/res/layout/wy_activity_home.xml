@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@drawable/wy_gradient_bg_style2" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/wy_view_title_bar" />
+    <FrameLayout android:id="@id/wy_banner_bar" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <FrameLayout android:id="@id/wy_cloud_banner" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageView android:background="@drawable/wy_banner_wiyun_cloud" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            <TextView android:textStyle="bold|italic" android:gravity="center" android:layout_gravity="right" android:id="@id/wy_text" android:background="@drawable/wy_button_style5" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/wy_label_offline" style="@android:style/TextAppearance.Medium" />
+            <ProgressBar android:layout_gravity="center|right" android:id="@id/wy_progress" android:layout_width="36.0dip" android:layout_height="36.0dip" android:layout_marginRight="15.0dip" android:indeterminate="true" android:indeterminateDuration="1200" />
+        </FrameLayout>
+        <FrameLayout android:id="@id/wy_ad_banner" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <com.wiyun.game.ad.AdView android:id="@id/wy_ad" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        </FrameLayout>
+    </FrameLayout>
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <FrameLayout android:id="@id/wy_panel" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <FrameLayout android:id="@id/wy_panel2" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <FrameLayout android:id="@id/wy_panel3" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </FrameLayout>
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:background="@drawable/wy_bar_bg_style1" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextSwitcher android:id="@id/wy_text_switcher" android:background="@drawable/wy_bar_bg_style2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="1.0dip" android:layout_marginRight="1.0dip" android:layout_marginBottom="1.0dip" />
+        <LinearLayout android:gravity="center_horizontal" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageButton android:id="@id/wy_tab" android:background="@drawable/wy_button_style7" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="7.0dip" android:layout_marginRight="7.0dip" android:src="@drawable/wy_icon_dashboard" android:layout_weight="1.0" />
+            <ImageButton android:id="@id/wy_tab2" android:background="@drawable/wy_button_style7" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="7.0dip" android:layout_marginRight="7.0dip" android:src="@drawable/wy_icon_mywiyun" android:layout_weight="1.0" />
+            <ImageButton android:id="@id/wy_tab3" android:background="@drawable/wy_button_style7" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="7.0dip" android:layout_marginRight="7.0dip" android:src="@drawable/wy_icon_wiyun" android:layout_weight="1.0" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

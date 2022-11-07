@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DTileAnimation texture="@drawable/stageselectsnow" columns="11">
+    <Modules>
+        <Module x="1" y="1" w="267" h="238" cx="-134" cy="-119" />
+        <Module x="271" y="1" w="267" h="238" cx="-134" cy="-119" />
+        <Module x="541" y="1" w="267" h="238" cx="-134" cy="-119" />
+        <Module x="1" y="241" w="267" h="238" cx="-134" cy="-119" />
+        <Module x="271" y="241" w="267" h="238" cx="-134" cy="-119" />
+        <Module x="541" y="241" w="267" h="238" cx="-134" cy="-119" />
+        <Module x="1" y="481" w="267" h="238" cx="-134" cy="-119" />
+        <Module x="271" y="481" w="267" h="238" cx="-134" cy="-119" />
+        <Module x="541" y="481" w="267" h="238" cx="-134" cy="-119" />
+        <Module x="1" y="721" w="267" h="238" cx="-134" cy="-119" />
+        <Module x="271" y="721" w="267" h="238" cx="-134" cy="-119" />
+    </Modules>
+    <actions>
+        <action id="@id/snow3" repeat="true">
+            <sequence f="0" d="300" />
+        </action>
+        <action id="@id/snow1" repeat="true">
+            <sequence f="1" d="300" />
+        </action>
+        <action id="@id/normal" repeat="true">
+            <sequence f="2" d="300" />
+        </action>
+        <action id="@id/st_patrick" repeat="true">
+            <sequence f="3" d="300" />
+        </action>
+        <action id="@id/snow2" repeat="true">
+            <sequence f="4" d="300" />
+        </action>
+        <action id="@id/newlevels" repeat="true">
+            <sequence f="5" d="300" />
+        </action>
+        <action id="@id/insane" repeat="true">
+            <sequence f="6" d="300" />
+        </action>
+        <action id="@id/snow4" repeat="true">
+            <sequence f="7" d="300" />
+        </action>
+        <action id="@id/expert" repeat="true">
+            <sequence f="8" d="300" />
+        </action>
+        <action id="@id/snow5" repeat="true">
+            <sequence f="9" d="300" />
+        </action>
+        <action id="@id/kids" repeat="true">
+            <sequence f="10" d="300" />
+        </action>
+    </actions>
+</DTileAnimation>

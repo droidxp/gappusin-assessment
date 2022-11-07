@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Layout>
+    <Panel id="@id/mainmenu_all">
+        <Panel layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" id="@id/id_mainmenu_panel">
+            <Image texture="@drawable/mainmenu_bg" layout_width="480.0" layout_height="800.0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" />
+            <Animation id="@id/mouseshadow1" animation="@drawable/a_mainmenu" action="@id/mouseshadow" layout_width="161.0" layout_height="180.0" layout_rx="0.0" layout_ry="316.0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" />
+            <Animation id="@id/mouseshadow2" animation="@drawable/a_mainmenu" layout_width="161.0" layout_height="180.0" action="@id/mouseshadow" layout_rx="0.0" layout_ry="316.0" />
+            <Animation id="@id/mouseshadow3" animation="@drawable/a_mainmenu" layout_width="161.0" layout_height="180.0" action="@id/mouseshadow" layout_rx="0.0" layout_ry="316.0" />
+            <Animation id="@id/mouseshadow4" animation="@drawable/a_mainmenu" layout_width="161.0" layout_height="180.0" action="@id/mouseshadow" layout_rx="0.0" layout_ry="316.0" />
+            <Animation id="@id/mouseshadow5" animation="@drawable/a_mainmenu" layout_width="161.0" layout_height="180.0" action="@id/mouseshadow" layout_rx="0.0" layout_ry="316.0" />
+            <Animation id="@id/cheese" animation="@drawable/a_mainmenu" action="@id/cheese" layout_width="448.0" layout_height="213.0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" />
+            <Animation id="@id/tower" animation="@drawable/a_mainmenu" action="@id/tower" layout_width="209.0" layout_height="62.0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" />
+            <Animation id="@id/mouse" animation="@drawable/a_mainmenu" action="@id/mouse" layout_width="164.0" layout_height="150.0" layout_anchorx="0.0" layout_anchory="0.0" layout_ry="-10.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" />
+            <Image id="@id/mainmenushadow" texture="@drawable/mainmenu_bg_shadow" layout_width="512.0" layout_height="1024.0" layout_anchorx="0.00" layout_anchory="0.0" layout_parentanchorx="0.00" layout_parentanchory="0.0" />
+            <Button layout_rx="0.0" animation="@drawable/a_mainmenu" action="@id/help" layout_width="314.0" layout_height="74.0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" id="@id/id_mainmenu_help" />
+            <Button animation="@drawable/a_mainmenu" action="@id/options" layout_width="314.0" layout_height="74.0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" layout_rx="0.0" id="@id/id_mainmenu_options" />
+            <Button layout_rx="0.0" animation="@drawable/a_mainmenu" action="@id/play" layout_width="314.0" layout_height="74.0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" id="@id/id_mainmenu_play" />
+            <Button animation="@drawable/a_mainmenu" action="@id/rate" layout_width="126.0" layout_height="82.0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" layout_rx="175.0" layout_ry="-357.0" layout_sx="0.7" layout_sy="0.7" id="@id/id_mainmenu_rate" />
+            <Button id="@id/id_feature_game_button" animation="@drawable/a_mainmenu" action="@id/featured" layout_width="314.0" layout_height="74.0" layout_anchorx="0.0" layout_anchory="0.0" />
+            <Image id="@id/id_feature_game_image" texture="@drawable/icon" layout_width="40.0" layout_height="40.0" layout_rx="-107.0" />
+        </Panel>
+        <Panel layout_rx="960.0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" id="@id/id_stageselect_panel">
+            <Image texture="@drawable/stageselect_bg" layout_anchorx="0.00" layout_anchory="0.0" layout_parentanchorx="0.00" layout_parentanchory="0.0" />
+            <Image id="@id/id_selectstageshadow" texture="@drawable/bg_shadow" layout_width="512.0" layout_height="1024.0" layout_anchorx="0.00" layout_anchory="0.0" layout_parentanchorx="0.00" layout_parentanchory="0.0" />
+            <TvPanel id="@id/tv_panel" layout_ry="-17.0" layout_rx="-1.0" layout_width="480.0" layout_height="238.0">
+                <Panel id="@id/id_tv_panel">
+                    <Animation id="@id/tvanimation" animation="@drawable/a_stageselectsnow" action="@id/kids" />
+                </Panel>
+            </TvPanel>
+            <Animation id="@id/id_tv_shape_animation" layout_ry="-17.0" layout_rx="-1.0" animation="@drawable/a_stageselectelement" action="@id/tv_shape" />
+            <Animation id="@id/id_tv_shape" layout_ry="-17.0" layout_rx="-1.0" animation="@drawable/a_stageselectelement" action="@id/snowshape" alpha="0.6" visible="false" />
+            <Animation id="@id/id_lock" layout_ry="-27.0" visible="false" animation="@drawable/a_stageselectelement" action="@id/lock" />
+            <Animation id="@id/id_cheese_x" layout_rx="-28.0" layout_ry="52.0" visible="false" animation="@drawable/a_chooselevel" action="@id/cheese_x" />
+            <Text id="@id/id_unlock_cheese_num" font="@drawable/a_stageneednumber" maxlen="10" text="123" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" layout_ry="52.0" layout_rx="38.0" scale="1.0" visible="false" />
+            <Animation id="@id/tv_snow" layout_ry="-17.0" layout_rx="-1.0" animation="@drawable/a_stageselectsnow" action="@id/snow1" visible="false" />
+            <Image texture="@drawable/tv" layout_ry="-40.0" layout_rx="1.0" layout_anchorx="0.00" layout_anchory="0.0" layout_parentanchorx="0.00" layout_parentanchory="0.0" />
+            <Animation layout_rx="-132.0" layout_ry="-292.0" animation="@drawable/a_stageselectelement" action="@id/clock" />
+            <Animation id="@id/minutehand" layout_rx="-118.0" layout_ry="-294.0" animation="@drawable/a_stageselectelement" action="@id/minutehand" />
+            <Animation id="@id/hourhand" layout_rx="-133.0" layout_ry="-284.0" animation="@drawable/a_stageselectelement" action="@id/hourhand" />
+            <Animation layout_ry="-235.0" id="@id/id_signal" animation="@drawable/a_stageselectelement" action="@id/signal" />
+            <Animation layout_ry="-279.0" layout_rx="132.0" id="@id/id_trophy" animation="@drawable/a_stageselectelement" action="@id/cup" />
+            <Animation layout_ry="-223.0" layout_rx="90.0" id="@id/id_luck" animation="@drawable/a_chooselevel" action="@id/luck" />
+            <Animation id="@id/id_have_got_cheese" layout_ry="-365.0" layout_rx="220.0" animation="@drawable/a_stageselectelement" action="@id/cheese_cheese" />
+            <Animation layout_ry="-365.0" layout_rx="80.0" animation="@drawable/a_stageselectelement" action="@id/total" />
+            <Animation id="@id/choosebutton" layout_ry="149.0" layout_rx="-109.0" animation="@drawable/a_stageselectelement" action="@id/choose" />
+            <Text id="@id/id_total_cheese" font="@drawable/a_gamescorenumber" maxlen="10" text="123" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" layout_ry="-365.0" layout_rx="165.0" scale="1.0" />
+            <Image texture="@drawable/chooseleveltext" id="@id/id_stage_teach_text" layout_width="383.0" layout_height="77.0" layout_anchorx="0.00" layout_anchory="0.0" layout_ry="237.0" layout_rx="5.0" />
+            <Button id="@id/id_stage_back" animation="@drawable/a_stageselectelement" action="@id/back" layout_width="91.0" layout_height="93.0" layout_ry="340.0" layout_rx="-180.0" layout_anchorx="0.00" layout_anchory="0.0" layout_parentanchorx="0.00" layout_parentanchory="0.0" />
+        </Panel>
+        <Panel layout_rx="512.0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" id="@id/id_chooselevel_1_panel">
+            <Image texture="@drawable/game_bg" layout_anchorx="0.00" layout_anchory="0.0" layout_parentanchorx="0.00" layout_parentanchory="0.0" />
+            <Image id="@id/id_choose_1_shadow" texture="@drawable/bg_shadow" layout_width="512.0" layout_height="1024.0" layout_anchorx="0.00" layout_anchory="0.0" layout_parentanchorx="0.00" layout_parentanchory="0.0" />
+            <Panel id="@id/id_icon_panel_level_1" />
+            <Button id="@id/id_chooselevel_1_back" animation="@drawable/a_stageselectelement" action="@id/back" layout_width="91.0" layout_height="93.0" layout_ry="340.0" layout_rx="-180.0" layout_anchorx="0.00" layout_anchory="0.0" layout_parentanchorx="0.00" layout_parentanchory="0.0" />
+            <Animation layout_ry="-365.0" layout_rx="210.0" animation="@drawable/a_stageselectelement" action="@id/cheese_cheese" />
+            <Text id="@id/id_stage1_total_cheese" font="@drawable/a_gamescorenumber" maxlen="10" text="75/75" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" layout_ry="-365.0" layout_rx="135.0" scale="1.0" />
+        </Panel>
+        <Panel layout_rx="512.0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" id="@id/id_chooselevel_2_panel">
+            <Image texture="@drawable/chooselevel2_bg" layout_anchorx="0.00" layout_anchory="0.0" layout_parentanchorx="0.00" layout_parentanchory="0.0" />
+            <Image id="@id/id_choose_2_shadow" texture="@drawable/bg_shadow" layout_width="512.0" layout_height="1024.0" layout_anchorx="0.00" layout_anchory="0.0" layout_parentanchorx="0.00" layout_parentanchory="0.0" />
+            <Panel id="@id/id_icon_panel_level_2" />
+            <Button id="@id/id_chooselevel_2_back" animation="@drawable/a_stageselectelement" action="@id/back" layout_width="91.0" layout_height="93.0" layout_ry="340.0" layout_rx="-180.0" layout_anchorx="0.00" layout_anchory="0.0" layout_parentanchorx="0.00" layout_parentanchory="0.0" />
+            <Animation layout_ry="-365.0" layout_rx="210.0" animation="@drawable/a_stageselectelement" action="@id/cheese_cheese" />
+            <Text id="@id/id_stage2_total_cheese" font="@drawable/a_gamescorenumber" maxlen="10" text="75/75" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" layout_ry="-365.0" layout_rx="135.0" scale="1.0" />
+        </Panel>
+        <Panel layout_rx="512.0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" id="@id/id_chooselevel_3_panel">
+            <Image texture="@drawable/chooselevel3_bg" layout_anchorx="0.00" layout_anchory="0.0" layout_parentanchorx="0.00" layout_parentanchory="0.0" />
+            <Image id="@id/id_choose_3_shadow" texture="@drawable/bg_shadow" layout_width="512.0" layout_height="1024.0" layout_anchorx="0.00" layout_anchory="0.0" layout_parentanchorx="0.00" layout_parentanchory="0.0" />
+            <Panel id="@id/id_icon_panel_level_3" />
+            <Button id="@id/id_chooselevel_3_back" animation="@drawable/a_stageselectelement" action="@id/back" layout_width="91.0" layout_height="93.0" layout_ry="340.0" layout_rx="-180.0" layout_anchorx="0.00" layout_anchory="0.0" layout_parentanchorx="0.00" layout_parentanchory="0.0" />
+            <Animation layout_ry="-365.0" layout_rx="210.0" animation="@drawable/a_stageselectelement" action="@id/cheese_cheese" />
+            <Text id="@id/id_stage3_total_cheese" font="@drawable/a_gamescorenumber" maxlen="10" text="75/75" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" layout_ry="-365.0" layout_rx="135.0" scale="1.0" />
+        </Panel>
+        <Panel layout_rx="512.0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" id="@id/id_chooselevel_4_panel">
+            <Image texture="@drawable/chooselevel4_bg" layout_anchorx="0.00" layout_anchory="0.0" layout_parentanchorx="0.00" layout_parentanchory="0.0" />
+            <Image id="@id/id_choose_4_shadow" texture="@drawable/bg_shadow" layout_width="512.0" layout_height="1024.0" layout_anchorx="0.00" layout_anchory="0.0" layout_parentanchorx="0.00" layout_parentanchory="0.0" />
+            <Panel id="@id/id_icon_panel_level_4" />
+            <Button id="@id/id_chooselevel_4_back" animation="@drawable/a_stageselectelement" action="@id/back" layout_width="91.0" layout_height="93.0" layout_ry="340.0" layout_rx="-180.0" layout_anchorx="0.00" layout_anchory="0.0" layout_parentanchorx="0.00" layout_parentanchory="0.0" />
+            <Animation layout_ry="-365.0" layout_rx="210.0" animation="@drawable/a_stageselectelement" action="@id/cheese_cheese" />
+            <Text id="@id/id_stage4_total_cheese" font="@drawable/a_gamescorenumber" maxlen="10" text="75/75" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" layout_ry="-365.0" layout_rx="135.0" scale="1.0" />
+        </Panel>
+        <Panel layout_rx="512.0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" id="@id/id_chooselevel_5_panel">
+            <Image texture="@drawable/chooselevel5_bg" layout_anchorx="0.00" layout_anchory="0.0" layout_parentanchorx="0.00" layout_parentanchory="0.0" />
+            <Image id="@id/id_choose_5_shadow" texture="@drawable/bg_shadow" layout_width="512.0" layout_height="1024.0" layout_anchorx="0.00" layout_anchory="0.0" layout_parentanchorx="0.00" layout_parentanchory="0.0" />
+            <Button id="@id/id_chooselevel_5_back" animation="@drawable/a_stageselectelement" action="@id/back" layout_width="91.0" layout_height="93.0" layout_ry="340.0" layout_rx="-180.0" layout_anchorx="0.00" layout_anchory="0.0" layout_parentanchorx="0.00" layout_parentanchory="0.0" />
+            <Animation layout_ry="-365.0" layout_rx="210.0" animation="@drawable/a_stageselectelement" action="@id/cheese_cheese" />
+            <Text id="@id/id_stage5_total_cheese" font="@drawable/a_gamescorenumber" maxlen="10" text="75/75" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" layout_ry="-365.0" layout_rx="135.0" scale="1.0" />
+        </Panel>
+        <Panel id="@id/id_options_panel" layout_rx="512.0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0">
+            <Image texture="@drawable/game_bg" layout_anchorx="0.00" layout_anchory="0.0" layout_parentanchorx="0.00" layout_parentanchory="0.0" />
+            <Image texture="@drawable/bg_shadow" layout_width="512.0" layout_height="1024.0" layout_anchorx="0.00" layout_anchory="0.0" layout_parentanchorx="0.00" layout_parentanchory="0.0" />
+            <Animation layout_ry="-358.0" layout_rx="-110.0" animation="@drawable/a_optionselement" action="@id/optionsword" />
+            <Button id="@id/id_sound_on" animation="@drawable/a_optionselement" action="@id/soundoff" layout_width="313.0" layout_height="74.0" layout_ry="-150.0" layout_anchorx="0.00" layout_anchory="0.0" layout_parentanchorx="0.00" layout_parentanchory="0.0" />
+            <Button id="@id/id_music_on" animation="@drawable/a_optionselement" action="@id/musicon" layout_width="313.0" layout_height="74.0" layout_ry="-50.0" layout_anchorx="0.00" layout_anchory="0.0" layout_parentanchorx="0.00" layout_parentanchory="0.0" />
+            <Button id="@id/id_reset_game" animation="@drawable/a_optionselement" action="@id/resetgame" layout_width="313.0" layout_height="74.0" layout_ry="50.0" layout_anchorx="0.00" layout_anchory="0.0" layout_parentanchorx="0.00" layout_parentanchory="0.0" />
+            <Button id="@id/id_highscore" animation="@drawable/a_mainmenu" action="@id/highscore" layout_width="313.0" layout_height="74.0" layout_ry="150.0" layout_anchorx="0.00" layout_anchory="0.0" layout_parentanchorx="0.00" layout_parentanchory="0.0" />
+            <Button id="@id/id_options_back" animation="@drawable/a_stageselectelement" action="@id/back" layout_width="91.0" layout_height="93.0" layout_ry="340.0" layout_rx="-180.0" layout_anchorx="0.00" layout_anchory="0.0" layout_parentanchorx="0.00" layout_parentanchory="0.0" />
+        </Panel>
+        <Panel layout_rx="512.0" layout_width="480.0" layout_height="1024.0" layout_anchorx="0.0" layout_anchory="0.0" layout_parentanchorx="0.0" layout_parentanchory="0.0" id="@id/id_help_panel">
+            <Image texture="@drawable/help_bg" layout_anchorx="0.00" layout_anchory="0.0" layout_parentanchorx="0.00" layout_parentanchory="0.0" />
+            <Button id="@id/id_help_back" visible="true" animation="@drawable/a_stageselectelement" action="@id/back" layout_width="91.0" layout_height="93.0" layout_ry="340.0" layout_rx="-180.0" layout_anchorx="0.00" layout_anchory="0.0" layout_parentanchorx="0.00" layout_parentanchory="0.0" />
+        </Panel>
+    </Panel>
+</Layout>

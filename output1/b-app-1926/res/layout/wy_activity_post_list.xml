@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:background="@color/wy_roundrect_container_bg" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:gravity="center_vertical" android:background="@color/wy_hint_bar_bg" android:paddingLeft="10.0dip" android:paddingTop="2.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/wy_label_click_post_for_more_action" android:drawableLeft="@drawable/wy_icon_remind" android:drawablePadding="2.0dip" style="@android:style/TextAppearance.Small.Inverse" />
+        <ListView android:scrollbarThumbVertical="@drawable/wy_scrollbar_vertical_thumb_style1" android:id="@android:id/list" android:fadingEdge="none" android:layout_width="fill_parent" android:layout_height="0.0dip" android:cacheColorHint="@android:color/transparent" android:divider="@null" android:dividerHeight="0.0dip" android:layout_weight="1.0" />
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/wy_panel" android:background="@drawable/wy_cell_bg_style1" android:paddingLeft="7.0dip" android:paddingTop="3.0dip" android:paddingRight="7.0dip" android:paddingBottom="3.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <Button android:id="@id/wy_button" android:background="@drawable/wy_button_style1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="30.0dip" android:text="@string/wy_button_prev" style="@android:style/TextAppearance.Medium" />
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:paddingLeft="5.0dip" android:paddingRight="5.0dip" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+                <SeekBar android:id="@id/wy_seekbar" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+                <TextView android:layout_gravity="center" android:id="@id/wy_text" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@android:style/TextAppearance.Small.Inverse" />
+            </LinearLayout>
+            <Button android:id="@id/wy_button2" android:background="@drawable/wy_button_style1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="30.0dip" android:text="@string/wy_button_next" style="@android:style/TextAppearance.Medium" />
+        </LinearLayout>
+    </LinearLayout>
+    <TextView android:layout_gravity="center" android:id="@id/wy_text2" android:background="@drawable/wy_toast_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@android:style/TextAppearance.Medium" />
+</merge>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:background="#ffffffff" android:layout_width="300.0dip" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textColor="#ff444444" android:id="@id/textViewInfo" android:layout_width="wrap_content" android:layout_height="0.0dip" android:layout_margin="16.0dip" android:text="placeholder" android:layout_weight="1.0" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:id="@id/spacer1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" />
+        <Button android:id="@id/ButtonBuyViaGP" android:background="@drawable/logo_googleplay_sml" android:layout_width="128.0dip" android:layout_height="128.0dip" android:text="" />
+        <TextView android:id="@id/spacer2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:id="@id/spacer3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" />
+        <TextView android:textColor="#ff000000" android:gravity="center_horizontal" android:id="@id/textView4" android:layout_width="128.0dip" android:layout_height="wrap_content" android:layout_marginBottom="4.0dip" android:text="0.99 €" />
+        <TextView android:id="@id/spacer4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" />
+    </LinearLayout>
+</LinearLayout>

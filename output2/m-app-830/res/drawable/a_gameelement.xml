@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DTileAnimation texture="@drawable/gameelement" columns="12">
+    <Modules>
+        <Module x="1" y="1" w="95" h="35" cx="-48" cy="-18" />
+        <Module x="99" y="1" w="480" h="206" cx="-240" cy="-103" />
+        <Module x="1" y="209" w="480" h="196" cx="-240" cy="-98" />
+        <Module x="582" y="1" w="234" h="232" cx="-117" cy="-116" />
+        <Module x="484" y="241" w="480" h="147" cx="-240" cy="-74" />
+        <Module x="484" y="401" w="474" h="244" cx="-237" cy="-122" />
+        <Module x="819" y="1" w="66" h="72" cx="-33" cy="-36" />
+        <Module x="1" y="417" w="234" h="232" cx="-117" cy="-116" />
+        <Module x="1" y="657" w="480" h="306" cx="-240" cy="-153" />
+        <Module x="888" y="1" w="40" h="48" cx="-20" cy="-24" />
+        <Module x="484" y="657" w="480" h="214" cx="-240" cy="-107" />
+        <Module x="484" y="881" w="480" h="127" cx="-240" cy="-64" />
+    </Modules>
+    <actions>
+        <action id="@id/score" repeat="true">
+            <sequence f="0" d="300" />
+        </action>
+        <action id="@id/stbottommouse" repeat="true">
+            <sequence f="1" d="300" />
+        </action>
+        <action id="@id/decoration3" repeat="true">
+            <sequence f="2" d="300" />
+        </action>
+        <action id="@id/stcatlaugh1" repeat="true">
+            <sequence f="3" d="300" />
+        </action>
+        <action id="@id/bottommouse" repeat="true">
+            <sequence f="4" d="300" />
+        </action>
+        <action id="@id/decoration5" repeat="true">
+            <sequence f="5" d="300" />
+        </action>
+        <action id="@id/pauseicon" repeat="true">
+            <sequence f="6" d="300" />
+        </action>
+        <action id="@id/stcatlaugh2" repeat="true">
+            <sequence f="7" d="300" />
+        </action>
+        <action id="@id/decoration4" repeat="true">
+            <sequence f="8" d="300" />
+        </action>
+        <action id="@id/game_cheese" repeat="true">
+            <sequence f="9" d="300" />
+        </action>
+        <action id="@id/decoration2" repeat="true">
+            <sequence f="10" d="300" />
+        </action>
+        <action id="@id/decoration1" repeat="true">
+            <sequence f="11" d="300" />
+        </action>
+        <action id="@id/catlaughloading_st" next="@id/stcatlaugh1">
+            <sequence f="3" d="100" />
+            <sequence f="7" d="100" />
+            <sequence f="3" d="100" />
+            <sequence f="7" d="100" />
+        </action>
+        <action id="@id/stcatlaugh" repeat="true">
+            <sequence f="3" d="100" />
+            <sequence f="7" d="100" />
+        </action>
+    </actions>
+</DTileAnimation>

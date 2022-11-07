@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="wy_label_x_has_y_friends">
+        <item quantity="other">%1$1$1$1$1$1$1$1$1$1$1$s has %2$2$2$2$2$2$2$2$2$2$2$d friends</item>
+        <item quantity="one">%1$1$1$1$1$1$1$1$1$1$1$s has %2$2$2$2$2$2$2$2$2$2$2$d friend</item>
+    </plurals>
+    <plurals name="wy_label_you_have_x_friends">
+        <item quantity="other">You have %d friends</item>
+        <item quantity="one">You have %d friend</item>
+    </plurals>
+    <plurals name="wy_label_x_played_y_games">
+        <item quantity="other">%1$1$1$1$1$1$1$1$1$1$1$s has played %2$2$2$2$2$2$2$2$2$2$2$d games</item>
+        <item quantity="one">%1$1$1$1$1$1$1$1$1$1$1$s has played %2$2$2$2$2$2$2$2$2$2$2$d game</item>
+    </plurals>
+    <plurals name="wy_label_you_played_x_games">
+        <item quantity="other">You have played %d games</item>
+        <item quantity="one">You have played %d game</item>
+    </plurals>
+</resources>

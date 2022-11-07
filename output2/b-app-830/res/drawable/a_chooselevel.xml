@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DTileAnimation texture="@drawable/chooselevel" columns="9">
+    <Modules>
+        <Module x="1" y="1" w="72" h="63" cx="-36" cy="-32" />
+        <Module x="76" y="1" w="36" h="42" cx="-18" cy="-21" />
+        <Module x="115" y="1" w="70" h="52" cx="-35" cy="-26" />
+        <Module x="76" y="65" w="72" h="63" cx="-36" cy="-32" />
+        <Module x="151" y="65" w="72" h="64" cx="-36" cy="-32" />
+        <Module x="1" y="81" w="71" h="63" cx="-36" cy="-32" />
+        <Module x="75" y="145" w="107" h="67" cx="-54" cy="-34" />
+        <Module x="185" y="145" w="72" h="63" cx="-36" cy="-32" />
+        <Module x="1" y="161" w="71" h="63" cx="-36" cy="-32" />
+    </Modules>
+    <actions>
+        <action id="@id/lockicon" repeat="true">
+            <sequence f="0" d="300" />
+        </action>
+        <action id="@id/cheeseicon" repeat="true">
+            <sequence f="1" d="300" />
+        </action>
+        <action id="@id/cheese_x" repeat="true">
+            <sequence f="2" d="300" />
+        </action>
+        <action id="@id/stage3icon" repeat="true">
+            <sequence f="3" d="300" />
+        </action>
+        <action id="@id/stage5icon" repeat="true">
+            <sequence f="4" d="300" />
+        </action>
+        <action id="@id/stage2icon" repeat="true">
+            <sequence f="5" d="300" />
+        </action>
+        <action id="@id/luck" repeat="true">
+            <sequence f="6" d="300" />
+        </action>
+        <action id="@id/stage4icon" repeat="true">
+            <sequence f="7" d="300" />
+        </action>
+        <action id="@id/stage1icon" repeat="true">
+            <sequence f="8" d="300" />
+        </action>
+    </actions>
+</DTileAnimation>

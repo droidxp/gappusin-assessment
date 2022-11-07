@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="billing_not_supported_title">"Can't make purchases"</string>
+    <string name="billing_not_supported_message">"The Market billing service is not available at this time. You can continue to use this app but you won't be able to make purchases."</string>
+    <string name="cannot_connect_title">"Can't connect to Market"</string>
+    <string name="cannot_connect_message">"This app cannot connect to Market. Your version of Market may be out of date. You can continue to use this app but you won't be able to make purchases."</string>
+    <string name="restoring_transactions">Restoring transactions</string>
+    <string name="learn_more">Learn more</string>
+    <string name="help_url" formatted="false">http://market.android.com/support/bin/answer.py?answer=1050566&amp;hl=%lang%&amp;dl=%region%</string>
+    <string name="buy">Buy</string>
+    <string name="select_item">Select an item</string>
+    <string name="edit_payload">Edit Payload</string>
+    <string name="edit_payload_title">Edit the developer payload associated with this purchase</string>
+    <string name="edit_payload_accept">Set</string>
+    <string name="edit_payload_clear">No Payload</string>
+    <string name="items_for_sale">Items for sale</string>
+    <string name="items_you_own">Items you own</string>
+    <string name="recent_transactions">Recent activity</string>
+    <string name="android_test_canceled">android.test.canceled</string>
+    <string name="android_test_purchased">android.test.purchased</string>
+    <string name="android_test_item_unavailable">android.test.item unavailable</string>
+    <string name="android_test_refunded">android.test.refunded</string>
+    <string name="hellowins_session_start_desc">Ready to start challenge now?</string>
+    <string name="hellowins_session_end_desc">Score:</string>
+    <string name="hellowins_dialog_yes">Yes</string>
+    <string name="hellowins_dialog_no">No</string>
+    <string name="hellowins_dialog_ok">Ok</string>
+    <string name="tiger_bee">Tiger Bee</string>
+    <string name="ladybug_bee">Ladybug Bee</string>
+    <string name="golden_bee">Golden Bee</string>
+    <string name="character_pack">Character Pack</string>
+    <string name="level_pack">Level Pack</string>
+    <string name="level_and_character_pack">Level and Character Pack</string>
+    <string name="app_name">Tiny Santa Free</string>
+    <string name="app_copyright">© 2011/-2013 Nuromedia GmbH</string>
+    <string name="easteregg">"
+ Hooorrraaay!... we did it!
+ 
+ I would like to give a big thx to my family,
+ my wife, my kids for giving me the time, to do
+ what me likez very much... developing!
+ Im very happy to have you with me.
+ 
+ Jessica J. ... damn! i love you!
+ 
+ Also a big thanks goes out to Android-Hilfe.de
+ for being the BEST! android community in germany.
+ 
+ Special thanks to: Wingnut, s!Le, toxscorp, hanschke,
+ eNN1907, sxg75, trophologe, schupfer, segelfreund,
+ moron-pranker, Kalle77, xNiemandx, Jukez, Thief,
+ Zoopa, daxter, jannis357, the_29, eNN1907
+ flori9100, Huntsman, Vuze, Pillepaul, Peanut123,
+ fleckdalm, anzensepp1987, barrios09,
+ androidwissen, bodo 
+ and Mr.VanVeen for the active
+ help on making the game really nice.
+ (not sorted in any way... just listed)
+ 
+ And of course Jens Piesk and Holger Sprengel
+ and the whole! Nurogames Team.
+ for pushing me to limits.
+ 
+ I love to work for Nuro!
+"</string>
+    <string name="iloveyou_a">"
+ Happy Birthday, Jessica! :)
+ 
+ This is a hidden easter egg from
+ the android developer.
+ 
+ It shows up this message everytime
+ my wife has birthday.
+ 
+ It also shows up this message everytime
+ the day i asked my wife to marry me.
+ 
+ I worked so hard for this game, so my wife left me.
+ 
+ I want to show my love to her
+ in the biggest way its possible to me.
+ 
+ Currently about 700.000 People spread over
+ the whole world how much i love her!
+ 
+ i love you Jessica :-*
+ 
+ i miss you three painful every fckin day :(
+ 
+ thx...
+ bye!
+"</string>
+    <string name="iloveyou_b">"
+ Do you like to marry me, Jessica? :)
+ 
+ This is a hidden easter egg from
+ the android developer.
+ 
+ It shows up this message everytime
+ my wife has birthday.
+ 
+ It also shows up this message everytime
+ the day i asked my wife to marry me.
+ 
+ I want to show my love to her
+ in the biggest way it is possible to me.
+ 
+ Currently about 700.000 People spread over
+ the whole world see how much i love her!
+ 
+ i love you Jessica :-*
+ 
+ i miss you three painful every fckin day :(
+ 
+ thx...
+ bye!
+"</string>
+    <string name="changelog">"v1.30.03
+ 
+ - small performance improvements 
+ - small fixes
+ 
+ 
+ v1.30.02
+ 
+ - again performance improvements 
+ - more resolutions 
+ - more fixes 
+ 
+ 
+ v1.30.01
+ 
+ - performance improvements 
+ - fixes 
+ 
+ 
+ v1.28.05
+ 
+ - fixes
+ 
+ 
+ v1.28.02
+ 
+ - smaller fixes!
+ 
+ 
+ v1.28.00
+ 
+ - Free to play again!
+ - more supported devices
+ - many fixes
+ 
+ 
+ v1.25.01
+ Bugfix release :)
+ Im really sorry!
+ 
+ - fixed crash for korean devices
+ - fixed crash on many Android 4.x devices
+ 
+ 
+ v1.25.00
+ 
+ - fixed crash after rating dialog
+ - add bee shop
+ - fixed htc sensation with
+ Android v4.0.3
+ 
+ 
+ v1.23.00
+ 
+ - updated external SDKs
+ - some fixes
+ 
+ 
+ v1.22.08
+ 
+ - add italian localisation
+ - some fixes
+ 
+ 
+ v1.22.06
+ 
+ - add pocketchange sdk v2.1
+ - some fixes
+ 
+ 
+ v1.22.03
+ 
+ - add support for Galaxy Nexus
+ - fixed hardware acc. on android4.x
+ - fixed hooked graphics
+ - smaller bugfixes
+ 
+ 
+ v1.22.02
+ 
+ - add hooked api
+ 
+ 
+ v1.22.01
+ 
+ Patchday: Tablets and more!
+ 
+ - 16mb heap devices fixed
+ (milestone, magic)
+ 
+ - Tegra2 Tablets running on
+ Honeycomb working fine now.
+ (Xoom, Transformer etc.)
+ 
+ - Archos 10.1 bit more perf.
+ 
+ any problems or requests? 
+ contact us!
+ 
+ 
+ v1.2.08
+ 
+ - bee height limit changed a bit.
+ - some device spec. optimizations.
+ - replaced admob by mobclix (demo)
+ - fixed bugs and crashes.
+ 
+ Also building chinese, korean
+ and russian version!
+ 
+ 
+ v1.2.07
+ 
+ - fixed a scaling bug
+ - fixed bee fall down bug when
+ coming back from homescreen
+ - localized to german
+ 
+ Next week we will raise the
+ requested height limit!
+ 
+ If you like to switch back
+ to english i did a small
+ workaround.
+ Place an empty tinybee_english.txt
+ in root of sdcard and it will
+ switch back to EN.
+ 
+ Tablet performance on Tegra2
+ will soon get raised, too.
+ 
+ we are thankful for any feedback
+ and rating.
+ 
+ feel free to send email to our support
+ if anything not working.
+ 
+ thx!... more soon!
+ 
+ 
+ v1.2.05
+ - add support for 960x540
+ (atrix, sensation)
+ 
+ - add support for tablets
+ (1024x600, 1280x800, 1366x768)
+ 
+ - 2 new permissions used
+ one used for fullscreen on Archos devices,
+ other used by OpenFeint.
+ 
+ - fixed rushing thru honey
+ - updated OpenFeint SDK to 1.93a
+ - some performance gain
+ - fixes and UI polish
+ 
+ we are thankful for any feedback and rating
+ 
+ feel free to send email to our support
+ if anything not working.
+ 
+ thx!... more soon!
+ 
+ 
+ v1.2.02
+ 
+ only fixed error was reported
+ to us by crashlog, hopefully :)
+ 
+ 
+ v1.2.01
+ 
+ You ask, we deliver!, so here we go:
+ 
+ [full]
+ - add 10 new levels
+ - add 5 tasks
+ - add endless mode
+ 
+ [demo]
+ - add 1 extra level
+ - add endless mode
+ - no popup if already rated
+ 
+ [general]
+ - seperated score for endless
+ (online and local)
+ - fixed task #4
+ - updated OpenFeint API
+ from v1.8 to v1.92
+ - some ui redesigns
+ - smaller fixes
+ 
+ we will be thankful for any feedback
+ 
+ [working on]
+ - higher performance
+ - porting to more devices
+ - optical gliches
+ - disable haptic feedback
+ - nicer island begins
+ - Desire 2.3.3 issue
+ - Samsung 2.2.1 savebug
+ (see game description)
+ 
+ 
+ v1.1.01
+ - only hotfixed the buttons on game complete
+ - please read the changelog from version before!
+ (scroll down here)
+ 
+ 
+ v1.1.0
+ - game ending crash fixed
+ - lags fixed
+ - add game difficulties
+ - add seperated leaderboards
+ - old leaderboards moved to heavy
+ - achievement progress enabled
+ - post scores to facebook wall
+ - some smaller fixes
+ 
+ AFTER FIRST START GIVE IT A MINUTE
+ TO SUBMIT ALL OFFLINE DATA
+ 
+ IF YOU STILL FORCING LAGS PLEASE
+ TRY TO REINSTALL THE GAME
+ AND DELETE OPENFEINT FOLDER
+ ON SDCARD
+ 
+ sorry for any complications till yet.
+ new version is now working fine :)
+ 
+ 
+ v1.09
+ - Demo now with 3 Levels
+ - (more levels in full version soon)
+ - reconverted game ending audio
+ - add thousand of protections to
+ prevent openfeint errors
+ 
+ 
+ v1.08
+ - removed openfeint achievement update!
+ 
+ 
+ v1.07
+ - loading time improved
+ - fixed task save bug on some devices
+ - re-enabled achievement progress
+ 
+ 
+ v1.06
+ - finally fixed SGS 2.3.3!
+ - pixel format set again to opaque
+ 
+ 
+ v1.05
+ - removed achievement progress update
+ - a bit more performance
+ - reduced energy drain
+ - misspelling in help
+ - smaller fixes
+ 
+ 
+ v1.04
+ - reduced bonus for level checkpoints
+ - lots of game adjusting
+ - notification if new highscore
+ - some graphical polish
+ 
+ 
+ v1.03
+ - bee drop speed raised
+ - help button for tasks
+ 
+ working on SGS 2.3.3 bug!
+ 
+ 
+ v1.02
+ - really small performance update
+ - cancel game warning in pause screen
+ - game over ending slightly changed
+ - fixed cloud speed bug
+ - fixed a possible crash in menu
+ - code clean up
+ - next update soon
+ 
+ 
+ v1.01
+ - better performance on some devices
+ - rate the demo at game end
+ - prepared for pad support
+ - disabled 320x240 support.
+ hopefully reenabled soon!
+ - next update soon
+ 
+ 
+ v1.0
+ nothing!
+ 
+"</string>
+</resources>

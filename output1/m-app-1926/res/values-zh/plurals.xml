@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="wy_label_x_has_y_friends">
+        <item quantity="other">%1$1$1$1$1$1$1$1$s有%2$2$2$2$2$2$2$2$d个好友</item>
+        <item quantity="one">%1$1$1$1$1$1$1$1$s有%2$2$2$2$2$2$2$2$d个好友</item>
+    </plurals>
+    <plurals name="wy_label_you_have_x_friends">
+        <item quantity="other">您有%d个好友</item>
+        <item quantity="one">您有%d个好友</item>
+    </plurals>
+    <plurals name="wy_label_x_played_y_games">
+        <item quantity="other">%1$1$1$1$1$1$1$1$s玩过%2$2$2$2$2$2$2$2$d个游戏</item>
+        <item quantity="one">%1$1$1$1$1$1$1$1$s玩过%2$2$2$2$2$2$2$2$d个游戏</item>
+    </plurals>
+    <plurals name="wy_label_you_played_x_games">
+        <item quantity="other">您玩过%d个游戏</item>
+        <item quantity="one">您玩过%d个游戏</item>
+    </plurals>
+</resources>

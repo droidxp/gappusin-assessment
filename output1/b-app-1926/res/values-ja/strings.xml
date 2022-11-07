@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">モグラ叩き</string>
+    <string name="start_game">スタート</string>
+    <string name="about">詳細</string>
+    <string name="highscores">ハイスコア</string>
+    <string name="more_apps">もっと</string>
+    <string name="exit_game">終了ゲーム</string>
+    <string name="whackamole_about">モグラ叩き（もぐらたたき）は、エレメカの一種。遊技台に開いたいくつかの穴から出入りするモグラなどの人形を、ハンマーで叩いて得点を競うゲームの総称である。</string>
+    <string name="game_over">ゲームオーバー</string>
+    <string name="game_paused">ゲーム一時停止</string>
+    <string name="tap_to_start_a_new_game">タップは、新しいゲームを開始する</string>
+    <string name="pause">中断する</string>
+    <string name="resume">再開</string>
+    <string name="mute">ミュート</string>
+    <string name="unmute">消音を解除する</string>
+    <string name="vs_mode">バトルモード</string>
+    <string name="draw">ドロー</string>
+    <string name="p1_win">P1 ウォン</string>
+    <string name="p2_win">P2 ウォン</string>
+</resources>
